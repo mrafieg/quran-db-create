@@ -6,4 +6,6 @@ Go Script to preapre query for creating jalan surah app quran Database
 - word-data.json https://github.com/hablullah/data-quran
 - surah-data.json https://github.com/hablullah/data-quran
 - surah-data-indo.json https://github.com/ianoit/Al-Quran-JSON-Indonesia-Kemenag
-- quran-text.sql https://github.com/sinoridha/quran-indonesia-db 
+- quran-text.sql https://github.com/sinoridha/quran-indonesia-db
+- surah-info.json https://github.com/hablullah/data-quran
+- ayah-info.json https://github.com/hablullah/data-quran

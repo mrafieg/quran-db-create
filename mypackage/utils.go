@@ -52,6 +52,7 @@ func MdToHTML(md []byte) []byte {
 	return markdown.Render(doc, renderer)
 }
 
+// php addlashes function port by php2golang
 func Addslashes(str string) string {
 	var tmpRune []rune
 	strRune := []rune(str)
@@ -67,6 +68,7 @@ func Addslashes(str string) string {
 	return string(tmpRune)
 }
 
+// php stripslashes function port by php2golang
 func Stripslashes(str string) string {
 	var dstRune []rune
 	strRune := []rune(str)

@@ -2,6 +2,11 @@
 
 Go Script to preapre query for creating jalan surah app quran Database 
 
+run with:
+```
+go run main.go
+```
+
 ## Credits
 - word-data.json https://github.com/hablullah/data-quran
 - surah-data.json https://github.com/hablullah/data-quran

@@ -1,4 +1,4 @@
-package main
+package mypackage
 
 import (
 	"bufio"
@@ -10,7 +10,7 @@ import (
 	"strings"
 )
 
-func generateAyahInfo() {
+func GenerateAyahInfo() {
 	// create scanner
 	infoHtml, err := os.Open("data/ayah-info.md")
 	if err != nil {
@@ -25,7 +25,7 @@ func generateAyahInfo() {
 	var currentAyah int64
 	var regexArabic, _ = regexp.Compile("[\u0600-\u06FF]")
 	for scanner.Scan() {
-		line := string(mdToHTML(scanner.Bytes()))
+		line := string(MdToHTML(scanner.Bytes()))
 		// get ayah id
 		if strings.Index(line, "<h1>") == 0 {
 			id := strings.Replace(line, "<h1>", "", 1)

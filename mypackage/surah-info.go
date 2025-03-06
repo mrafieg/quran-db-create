@@ -1,4 +1,4 @@
-package main
+package mypackage
 
 import (
 	"bufio"
@@ -10,7 +10,7 @@ import (
 	"strings"
 )
 
-func generateSurahInfo() {
+func GenerateSurahInfo() {
 	// create scanner
 	infoHtml, err := os.Open("data/surah-info.md")
 	if err != nil {
@@ -25,7 +25,7 @@ func generateSurahInfo() {
 	var currentSurah int64
 	var regexArabic, _ = regexp.Compile("[\u0600-\u06FF]")
 	for scanner.Scan() {
-		line := string(mdToHTML(scanner.Bytes()))
+		line := string(MdToHTML(scanner.Bytes()))
 		// get surah id
 		if strings.Index(line, "<h1>") == 0 {
 			id := strings.Replace(line, "<h1>", "", 1)

@@ -1,4 +1,4 @@
-package main
+package mypackage
 
 import (
 	"encoding/json"
@@ -8,7 +8,7 @@ import (
 	"strconv"
 )
 
-func generateQuranSurah() {
+func GenerateQuranSurah() {
 	// read word-data.json
 	wordData, err := os.ReadFile("data/word-data.json")
 	if err != nil {
@@ -92,10 +92,10 @@ func generateQuranSurah() {
 		surahDB[surahIndex-1].WordCount += 1
 	}
 
-	var query = "CREATE TABLE quran_surah( id INTEGER PRIMARY KEY, surahName VARCHAR(64), arabicName TEXT, indoName VARCHAR(128), surahType VARCHAR(32), totalAyah INTEGER, wordCount INTEGER, revelationOrder INTEGER, ayahStart INTEGER, ayahEnd INTEGER, description TEXT);\n"
+	var query = "CREATE TABLE quran_surah( id INTEGER PRIMARY KEY, surahName VARCHAR(64), arabicName TEXT, indoName VARCHAR(128), surahType VARCHAR(32), totalAyah INTEGER, wordCount INTEGER, revelationOrder INTEGER, ayahStart INTEGER, ayahEnd INTEGER, surahInfo TEXT);\n"
 
 	for _, item := range surahDB {
-		newQuery := fmt.Sprintf(`INSERT INTO quran_surah (id, surahName, arabicName, indoName, surahType, totalAyah, wordCount, revelationOrder, ayahStart, ayahEnd, description ) VALUES (%s,"%s","%s","%s","%s",%s,%s,%s,%s,%s,"");`, strconv.Itoa(item.SurahId), item.SurahName, item.ArabicName, item.IndoName, item.Type, strconv.Itoa(item.TotalAyah), strconv.Itoa(item.WordCount), strconv.Itoa(item.RevelationOrder), strconv.Itoa(item.AyahStart), strconv.Itoa(item.AyahEnd))
+		newQuery := fmt.Sprintf(`INSERT INTO quran_surah (id, surahName, arabicName, indoName, surahType, totalAyah, wordCount, revelationOrder, ayahStart, ayahEnd, surahInfo ) VALUES (%s,"%s","%s","%s","%s",%s,%s,%s,%s,%s,"");`, strconv.Itoa(item.SurahId), item.SurahName, item.ArabicName, item.IndoName, item.Type, strconv.Itoa(item.TotalAyah), strconv.Itoa(item.WordCount), strconv.Itoa(item.RevelationOrder), strconv.Itoa(item.AyahStart), strconv.Itoa(item.AyahEnd))
 		query += newQuery + "\n"
 	}
 

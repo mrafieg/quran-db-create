@@ -1,7 +1,18 @@
 package main
 
+import (
+	"jalan-surah-db-create/mypackage"
+	"log"
+	"os"
+)
+
 func main() {
-	// generateQuranSurah()
-	// generateSurahInfo()
-	// generateAyahInfo()
+	err := os.Mkdir("sql", 0777)
+	if err != nil && !os.IsExist(err) {
+		log.Fatal(err)
+	}
+	mypackage.GenerateQuranText()
+	mypackage.GenerateQuranSurah()
+	mypackage.GenerateSurahInfo()
+	mypackage.GenerateAyahInfo()
 }

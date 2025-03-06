@@ -50,7 +50,7 @@ func GenerateAyahInfo() {
 	var query = ""
 	for i, info := range ayahInfos {
 		if i > 0 {
-			query += strings.TrimSpace(fmt.Sprintf(`UPDATE quran_text SET ayahInfo = "%s" WHERE id = %s;`, info, (strconv.Itoa(i-1)))) + "\n"
+			query += strings.TrimSpace(fmt.Sprintf(`UPDATE quran_text SET ayahInfo = "%s" WHERE id = %s;`, Addslashes(info), (strconv.Itoa(i-1)))) + "\n"
 		}
 	}
 

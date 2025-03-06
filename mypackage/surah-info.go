@@ -50,7 +50,7 @@ func GenerateSurahInfo() {
 	var query = ""
 	for i, info := range surahInfos {
 		if i > 0 {
-			query += fmt.Sprintf(`UPDATE quran_surah SET surahInfo = "%s" WHERE id = %s;`, info, (strconv.Itoa(i))) + "\n"
+			query += fmt.Sprintf(`UPDATE quran_surah SET surahInfo = "%s" WHERE id = %s;`, Addslashes(info), (strconv.Itoa(i))) + "\n"
 		}
 	}
 

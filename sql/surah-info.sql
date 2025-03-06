@@ -13,7 +13,7 @@ UPDATE quran_surah SET surahInfo = "<p>Nama, Tempat Diturunkan, dan Jumlah Ayat<
 </ol>
 <p>Surah al-Fātiḥah juga dinamai as-Sab‘ul-Maṡānī (tujuh yang berulang-ulang). Dinamai demikian karena ayatnya berjumlah tujuh, dan dibaca berulang-ulang dalam salat.</p>
 <p>Salat tidak sah tanpa membaca surah al-Fātiḥah, berdasarkan Hadis:</p>
-<p dir="rtl">لَا صَلاَةَ لِمَنْ لَمْ يَقْرَأْ بِفَاتِحَةِ الْكِتَابِ. (رواه اصحاب الستة عن عبادة بن الصامت)</p>
+<p dir=\"rtl\">لَا صَلاَةَ لِمَنْ لَمْ يَقْرَأْ بِفَاتِحَةِ الْكِتَابِ. (رواه اصحاب الستة عن عبادة بن الصامت)</p>
 <p>Tidak sah salat bagi orang yang tidak membaca al-Fātiḥah. (Riwayat Aṣḥābus-Sittah dari ‘Ubadah bin aṣ-Ṣāmit)</p>
 <p>Selain beberapa nama yang disebutkan, masih ada nama-nama lain, yaitu al-Kanz (Perbendaharaan), al-Ḥamd (Pujian), aṣ-Ṣalāh (Salat), al-Wāqiyah (Yang Me-lindungi), Asāsul-Qur&rsquo;ān (Pokok-pokok Al-Qur’an), asy-Syāfiyah (Penyembuhan), al-Kāfiyah (Yang Mencukupi), ar-Ruqyah (Bacaan untuk Pengobatan), asy-Syukur (Syukur) ad-Du’ā (Doa) dan al-Asās (Asas Segala Sesuatu).</p>
 <p>Surah al-Fātiḥah diturunkan di Mekah, jadi termasuk surah Makkiyyah. Surah ini diturunkan pada waktu pertama kali disyariatkan salat dan diwajibkan membacanya di dalam salat, karena itu, ia adalah surah yang pertama diturunkan dengan lengkap. Dalam surah ini terdapat kesimpulan dari isi keseluruhan Al-Qur’an.</p>
@@ -41,7 +41,7 @@ UPDATE quran_surah SET surahInfo = "<p>Nama, Tempat Diturunkan, dan Jumlah Ayat<
 <p>Akidah tauhid yang dibawa oleh Al-Qur’an itu adalah akidah yang amat jelas dan tegas, dapat dipahami akal, dan yang paling sempurna. Tuhan Yang Maha Esa, Dialah yang Khalik, sedang selain Dia adalah makhluk. Tak ada permulaan-Nya, dan tak ada kesudahan-Nya. Mahakuasa, Maha Pengasih, Maha Penyayang dan Maha Mengetahui. Ilmu-Nya meliputi segala sesuatu. Tidak ada sesuatu yang serupa dengan Dia. Alam semesta ini makhluk Allah, yang akan lenyap dan binasa dengan kehendak Allah, karena keberadaannya juga dengan kehendak Allah.</p>
 <p>Di dalam surah al-Fātiḥah, akidah tauhid ini terdapat dalam ayat-ayat:</p>
 <p>a.</p>
-<p dir="rtl">اَلْحَمْدُ لِلّٰهِ رَبِّ الْعٰلَمِيْنَۙ ٢</p>
+<p dir=\"rtl\">اَلْحَمْدُ لِلّٰهِ رَبِّ الْعٰلَمِيْنَۙ ٢</p>
 <p>“Segala puji bagi Allah, Tuhan seluruh alam”</p>
 <p>Maksud ayat “Segala puji bagi Allah, Tuhan seluruh alam,” adalah bahwa yang berhak dipuji hanyalah Allah, maka pujian haruslah dihadapkan kepada-Nya. Yang dimaksud dengan “semua puji” meliputi: (1) puji Tuhan kepada diri-Nya; (2) puji Allah kepada makhluk-Nya; (3) puji makhluk kepada makhluk; dan (4) puji makhluk kepada Tuhannya. Pada hakikatnya, segala puji itu milik Allah.</p>
 <p>Seseorang dipuji karena sifat-sifat yang mulia yang ada pada dirinya, atau karena perbuatan, jasa dan budi baiknya. Pujian itu hanya semata-mata milik Allah, karena Dialah yang mempunyai sifat-sifat yang sempurna yang menyebabkan Dia berhak dipuji, umpama: sifat Maha Esa, Maha Pengasih, Maha Penyayang, Mahakuasa, Mahaadil, Maha Mengetahui, Maha Pengampun, Maha Pemaaf dan lain sebagainya.</p>
@@ -50,26 +50,26 @@ UPDATE quran_surah SET surahInfo = "<p>Nama, Tempat Diturunkan, dan Jumlah Ayat<
 <p>Kata Rabb itu selain bermakna “Pemilik” juga berarti “Pendidik” atau “Pengasuh”. Dengan ini jelas bahwa apa pun yang berada dalam alam ini adalah kepunyaan Allah. Dialah yang menciptakan, mendidik, mengasuh, menumbuhkan dan memeliharanya. Tidak ada yang bersekutu dengan Dia. Sejalan dengan ini, maka makhluk itu bagaimanapun kecil dan halusnya dan jauh tempatnya tetap berada di bawah pengetahuan, lindungan dan pemeliharaan Allah. Allah telah memberikan kepada makhluk-Nya suatu bentuk, lalu dikaruniakan-Nya akal, naluri dan kodrat alamiah yang dapat dipergunakan untuk kelanjutan hidupnya. Sesudah itu berbagai nikmat tersebut tidak dilepaskan begitu saja oleh Allah, melainkan selalu dipelihara, dilindungi dan dijaga-Nya.</p>
 <p>Pendidikan, pemeliharaan, penumbuhan oleh Allah terhadap makhluk-Nya haruslah diperhatikan dan dipelajari oleh manusia dengan sedalam-dalamnya, dan memang sejak dahulu sampai sekarang telah diperhatikan dan dipelajari oleh para pemikir dan para sarjana, sehingga telah menjadi sumber berbagai macam ilmu pengetahuan, yang dapat menambah keyakinan manusia kepada keagungan dan kebesaran Allah, serta berguna bagi masyarakat.</p>
 <p>b.</p>
-<p dir="rtl">الرَّحْمٰنِ الرَّحِيْمِۙ ٣ (الفاتحة)</p>
+<p dir=\"rtl\">الرَّحْمٰنِ الرَّحِيْمِۙ ٣ (الفاتحة)</p>
 <p>“Hanya kepada Engkaulah kami menyembah dan hanya kepada Engkaulah kami mohon pertolongan.”</p>
 <p>Ayat ini berisi keimanan, karena dalam ayat ini dinyatakan dengan lebih jelas akidah tauhid. Ayat ini menerangkan bahwa hanya Allah sajalah yang berhak disembah dan hanya kepada Allah sajalah manusia seharusnya memohon pertolongan.</p>
 <p>Jadi, manusia sebagai makhluk Allah, haruslah berhubungan langsung dengan Allah sebagai Khaliknya. Ketika manusia berdoa memohon sesuatu haruslah langsung ditujukan kepada Allah, Khaliknya tanpa perantaraan siapa dan apa pun juga.</p>
 <p>Dengan demikian, terbasmilah sampai ke akar-akarnya kepercayaan syirik (mempersekutukan Allah, membesarkan apa pun selain Allah) kepercayaan waṡani, pagan (menyembah dewa-dewa, matahari, bulan, bintang-bintang, dan lain-lain), kepercayaan majusi (menyembah api) dan sebagainya, yaitu kepercayaan yang banyak berkembang dan dianut oleh segala bangsa, sebelum datang agama Islam yang dibawa Nabi Muhammad saw.</p>
 <p>Kedua ayat yang disebutkan itu:</p>
-<p dir="rtl">اَلْحَمْدُ لِلّٰهِ رَبِّ الْعٰلَمِيْنَ</p>
-<p dir="rtl">اِيَّاكَ نَعْبُدُ وَاِيَّاكَ نَسْتَعِيْنُ</p>
+<p dir=\"rtl\">اَلْحَمْدُ لِلّٰهِ رَبِّ الْعٰلَمِيْنَ</p>
+<p dir=\"rtl\">اِيَّاكَ نَعْبُدُ وَاِيَّاكَ نَسْتَعِيْنُ</p>
 <p>adalah inti keimanan dan tauhid. Ayat-ayat lain, yang menyeru kepada tauhid dan memberantas kepercayaan syirik waṡani, majusi, dan sebagainya, adalah penjelasan dari kedua ayat itu.</p>
 <p>Pada dasarnya, semua ayat isi surah al-Fātiḥah itu sejak dari</p>
-<p dir="rtl">بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ</p>
+<p dir=\"rtl\">بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ</p>
 <p>sampai dengan</p>
-<p dir="rtl">صِرَاطَ الَّذِيْنَ اَنْعَمْتَ عَلَيْهِمْ</p>
+<p dir=\"rtl\">صِرَاطَ الَّذِيْنَ اَنْعَمْتَ عَلَيْهِمْ</p>
 <p>menerangkan akidah tauhid.</p>
 <p>Ibadah</p>
 <p>Ibadah adalah buah dari keimanan kepada adanya Allah, dengan segala sifat kesempurnaan-Nya. Orang yang meyakini adanya segala sifat kesempurnaan-Nya akan menyembah Allah. Ajaran ibadah ini dipaparkan di dalam surah al-Fātiḥah dengan firman-Nya:</p>
-<p dir="rtl">اِيَّاكَ نَعْبُدُ وَاِيَّاكَ نَسْتَعِيْنُ</p>
+<p dir=\"rtl\">اِيَّاكَ نَعْبُدُ وَاِيَّاكَ نَسْتَعِيْنُ</p>
 <p>Hanya kepada Engkaulah kami menyembah dan hanya kepada Engkaulah kami mohon pertolongan.</p>
 <p>Di dalam ayat ini Allah mengajari hamba-Nya agar menyembah hanya kepada Allah semata. Maka ayat ini selain mengandung ajaran tentang tauhid, juga mengandung ajaran ibadah kepada Yang Maha Esa itu.</p>
-<p dir="rtl">اِهْدِنَا الصِّرَاطَ الْمُسْتَقِيْمَ</p>
+<p dir=\"rtl\">اِهْدِنَا الصِّرَاطَ الْمُسْتَقِيْمَ</p>
 <p>Tunjukilah kami jalan yang lurus.</p>
 <p>Untuk kebahagiaan hidup manusia di dunia dan di akhirat, Allah mengada-kan peraturan-peraturan, hukum-hukum, menjelaskan kepercayaan, memberi pelajaran dan contoh-contoh. Ini semua adalah laksana jalan lurus yang diben-tangkan Allah yang mengantarkan manusia kepada kebahagiaannya di dunia dan di akhirat. Maka berbahagialah mereka yang menjalaninya dan sengsaralah orang yang menghindari diri dari jalan itu.</p>
 <p>Mengikuti jalan yang lurus ini artinya ialah beribadah kepada Allah, dengan mematuhi peraturan-peraturan, menjalankan hukum-hukum, dan berpegang ke-pada akidah yang benar, mengambil pelajaran dan teladan dari contoh-contoh yang telah diberikan Allah. Hal itu diterangkan dalam ayat-ayat lain, yang menjadi uraian dari surah al-Fātiḥah ini.</p>
@@ -78,33 +78,33 @@ UPDATE quran_surah SET surahInfo = "<p>Nama, Tempat Diturunkan, dan Jumlah Ayat<
 <p>Hukum-Hukum</p>
 <p>Dalam rangka beribadah kepada Allah untuk mencapai kebahagiaan hidup manusia di dunia dan akhirat, Allah menetapkan hukum-hukum dan peraturan-peraturan; ada yang berkenaan dengan hubungan manusia dengan Allah, hubungan dengan masyarakat dan alam seisinya.</p>
 <p>Di dalam Al-Qur’an banyak didapati ayat yang berhubungan dengan hukum dan peraturan itu. Semua ayat ini adalah penjelasan dari apa yang telah dican-tumkan dalam surah al-Fātiḥah. Allah memberi tuntunan hukum dan peraturan dalam firman-Nya:</p>
-<p dir="rtl">اِهْدِنَا الصِّرَاطَ الْمُسْتَقِيْمَ</p>
+<p dir=\"rtl\">اِهْدِنَا الصِّرَاطَ الْمُسْتَقِيْمَ</p>
 <p>Tunjukilah kami jalan yang lurus</p>
 <p>Jalan yang menyampaikan manusia kepada kebahagiaan hidup di dunia dan akhirat, yaitu akidah (kepercayaan) yang benar, hukum dan peraturan, pelajaran yang dibawa oleh Al-Qur’an sebagaimana disebutkan di atas.</p>
 <p>Janji dan Ancaman</p>
 <p>Al-Qur’an juga berisi janji dan ancaman. Dia menjanjikan kebahagiaan kepada mereka yang beriman dan berbuat baik. Sebaliknya Dia memperingatkan mereka yang mempersekutukan-Nya, yang membuat onar dan kejahatan dengan azab.</p>
 <p>Janji dan ancaman itu ditujukan kepada umum, kaum atau bangsa. Di dalam surah al-Fātiḥah terdapat ayat-ayat yang mengandung janji dan ancaman, yaitu:</p>
 <p>a.</p>
-<p dir="rtl">بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ</p>
+<p dir=\"rtl\">بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ</p>
 <p>“Dengan nama Allah Yang Maha Pengasih, Maha Penyayang.”</p>
 <p>Dengan menyebut “Maha Pengasih”, “Maha Penyayang”, Allah menjanjikan kepada mereka yang beriman dan berbuat baik, limpahan karunia dan nikmat.</p>
 <p>b.</p>
-<p dir="rtl">مٰلِكِ يَوْمِ الدِّيْنِ</p>
+<p dir=\"rtl\">مٰلِكِ يَوْمِ الدِّيْنِ</p>
 <p>“Pemilik hari pembalasan“</p>
 <p>Pada hari itu perbuatan manusia sewaktu di dunia akan dibalas. Surga untuk mereka yang beriman dan berbuat baik, dan neraka bagi mereka yang ingkar dan berbuat salah. Ini adalah janji dan peringatan.</p>
 <p>c.</p>
-<p dir="rtl">اِهْدِنَا الصِّرَاطَ الْمُسْتَقِيْمَ</p>
+<p dir=\"rtl\">اِهْدِنَا الصِّرَاطَ الْمُسْتَقِيْمَ</p>
 <p>“Tunjukilah kami jalan yang lurus”</p>
 <p>Orang-orang yang mengikuti jalan yang lurus akan berbahagia, dan yang menghindarkan diri dari jalan yang lurus akan celaka. Dengan ini dapat dipahami adanya janji dan ancaman.</p>
 <p>d.</p>
-<p dir="rtl">صِرَاطَ الَّذِيْنَ اَنْعَمْتَ عَلَيْهِمْ ەۙ غَيْرِ الْمَغْضُوْبِ عَلَيْهِمْ وَلَا الضَّاۤلِّيْنَ ࣖ ٧</p>
+<p dir=\"rtl\">صِرَاطَ الَّذِيْنَ اَنْعَمْتَ عَلَيْهِمْ ەۙ غَيْرِ الْمَغْضُوْبِ عَلَيْهِمْ وَلَا الضَّاۤلِّيْنَ ࣖ ٧</p>
 <p>“(yaitu) jalan orang-orang yang telah Engkau beri nikmat kepadanya; bukan (jalan) mereka yang dimurkai, dan bukan (pula jalan) mereka yang sesat.”</p>
 <p>Ada orang yang telah dianugerahi nikmat oleh Allah, yaitu rasul-rasul, nabi-nabi, orang-orang saleh dan ṣiddīqīn. Orang-orang yang semacam ini akan diberi pahala dan ganjaran oleh Allah, yaitu surga jannatun-na‘īm, dan ini adalah janji-Nya. Di samping itu, ada pula orang-orang yang dimurkai Allah, yaitu mereka yang tak mau menjalani jalan yang lurus, padahal dia tahu bahwa itulah jalan yang benar, dan ada pula orang yang sesat, yaitu orang yang tak mengetahui jalan yang lurus itu atau dia mengetahuinya, tetapi dia tersesat dalam menempuh jalan itu.</p>
 <p>Mereka yang dimurkai Allah dan orang yang sesat itu akan menderita hukuman dari Allah, dan ini adalah suatu peringatan.</p>
 <p>Kisah-Kisah</p>
 <p>Untuk menjadi contoh dan teladan, pelajaran dan iktibar, Al-Qur’an telah menceritakan keadaan bangsa-bangsa dan kaum-kaum yang telah lalu dan bahwa Allah telah mengutus rasul-rasul dan nabi-nabi kepada mereka dan telah membuat peraturan, hukum dan syariat untuk kebahagiaan hidup mereka. Di antara mereka ada yang menerima dan ada yang menolak, dan Allah menerangkan apa akibat dari penerimaan atau penolakan itu, untuk dijadikan iktibar dan pelajaran.</p>
 <p>Lebih kurang tiga perempat dari isi Al-Qur’an adalah cerita tentang bangsa-bangsa dan umat yang lalu, serta anjuran dari Allah untuk mengambil iktibar dan pelajaran dari keadaan mereka. Di dalam surah al-Fātiḥah ini keadaan bangsa-bangsa dan umat-umat yang telah lalu itu dipaparkan oleh Allah dalam firman-Nya:</p>
-<p dir="rtl">صِرَاطَ الَّذِيْنَ اَنْعَمْتَ عَلَيْهِمْ ەۙ غَيْرِ الْمَغْضُوْبِ عَلَيْهِمْ وَلَا الضَّاۤلِّيْنَ ࣖ ٧</p>
+<p dir=\"rtl\">صِرَاطَ الَّذِيْنَ اَنْعَمْتَ عَلَيْهِمْ ەۙ غَيْرِ الْمَغْضُوْبِ عَلَيْهِمْ وَلَا الضَّاۤلِّيْنَ ࣖ ٧</p>
 <p>“(yaitu) jalan orang-orang yang telah Engkau beri nikmat kepadanya; bukan (jalan) mereka yang dimurkai, dan bukan (pula jalan) mereka yang sesat.”</p>
 <p>Dengan keterangan yang disebutkan di atas, jelaslah bahwa surah al-Fātiḥah mengandung kesimpulan isi Al-Qur’an dalam surah-surah yang berikutnya.</p>
 <ol>
@@ -382,7 +382,7 @@ UPDATE quran_surah SET surahInfo = "<p>Surah 8, al-Anfāl terdiri dari 75 ayat. 
 UPDATE quran_surah SET surahInfo = "<p>Surah ini berisi 129 ayat, semuanya Madaniyah, kecuali ayat 113 dan dua ayat terakhir, yaitu ayat 128 dan 129 menurut sebagian ulama adalah Makkiyah karena diturunkan di Mekah. Menurut pendapat sebagian besar ulama tafsir (jumhur), semua ayat itu tanpa ada yang dikecualikan adalah Madaniyah karena berdasarkan pendapat yang masyhur bahwa ayat yang diturunkan sesudah Nabi Muhammad saw hijrah ke Medinah dinamakan Madaniyah sekalipun diturunkan di Mekah.</p>
 <p>Surah ini mempunyai banyak nama, tidak ada surah dalam Al-Qur’an yang lebih banyak namanya dari surah ini dan surah al-Fātihah, akan tetapi yang paling masyhur dari semua namanya itu adalah “Barā′ah” dan “at-Taubah”.</p>
 <p>Dinamakan Barā′ah karena surah ini dimulai dengan kata “Barā′ah” yang berarti berlepas diri yang maksudnya ialah pemutusan hubungan, karena di dalamnya terdapat ayat-ayat yang membicarakan pernyataan pemutusan perjanjian damai dengan kaum musyrikin. Dan dinamakan at-Taubah artinya “pengampunan”, karena di dalam surah ini banyak diterangkan tentang pengampunan terutama pada firman Allah yang berbunyi:</p>
-<p dir="rtl">لَقَدْ تَّابَ اللّٰهُ عَلَى النَّبِيِّ وَالْمُهٰجِرِيْنَ وَالْاَنْصَارِ الَّذِيْنَ اتَّبَعُوْهُ فِيْ سَاعَةِ الْعُسْرَةِ مِنْۢ بَعْدِ مَا كَادَ يَزِيْغُ قُلُوْبُ فَرِيْقٍ مِّنْهُمْ ثُمَّ تَابَ عَلَيْهِمْۗ اِنَّهٗ بِهِمْ رَءُوْفٌ رَّحِيْمٌ ۙ ١١٧</p>
+<p dir=\"rtl\">لَقَدْ تَّابَ اللّٰهُ عَلَى النَّبِيِّ وَالْمُهٰجِرِيْنَ وَالْاَنْصَارِ الَّذِيْنَ اتَّبَعُوْهُ فِيْ سَاعَةِ الْعُسْرَةِ مِنْۢ بَعْدِ مَا كَادَ يَزِيْغُ قُلُوْبُ فَرِيْقٍ مِّنْهُمْ ثُمَّ تَابَ عَلَيْهِمْۗ اِنَّهٗ بِهِمْ رَءُوْفٌ رَّحِيْمٌ ۙ ١١٧</p>
 <p>Sungguh, Allah telah menerima tobat Nabi, orang-orang Muhājirīn dan orang-orang Anṣār, yang mengikuti Nabi pada masa-masa sulit, setelah hati segolongan dari mereka hampir berpaling, kemudian Allah menerima tobat mereka. Sesungguhnya Allah Maha Pengasih, Maha Penyayang kepada mereka. (at-Taubah/9: 117)</p>
 <p>Selain dari dua nama tersebut di atas ada beberapa nama lagi di antaranya: “al-Fāḍiḥah” (mengungkap kejahatan), “al-‘Ażāb” (siksaan), “al-Munqirah” (mencungkil untuk mencari). “al-Muqasyqisyah” (mem-bebaskan), “al-Ḥāfirah” (menggali), “al-Muṡīrah” (membangkitkan), “al-Mudamdimah” (membinasakan) dan lain-lain.</p>
 <p>Surah ini tidak dimulai dengan Basmalah sebagaimana surah-surah lainnya. Hal ini menjadi dalil bagi sebagian ulama yang berpendapat bahwa surah ini tidak berdiri sendiri, tetapi sebagai lanjutan dari surah sebelumnya (al-Anfāl) tetapi menurut pendapat sebagian besar ulama (jumhur) bahwa surah ini berdiri sendiri.</p>
@@ -1708,7 +1708,7 @@ UPDATE quran_surah SET surahInfo = "<p>Surah aż-Żāriyāt terdiri dari 60 ayat
 " WHERE id = 51;
 UPDATE quran_surah SET surahInfo = "<p>Surah aṭ-Ṭūr diturunkan di Makkah, jumlah ayatnya 49. Diturunkan setelah surah as-Sajdah.</p>
 <p>Dari Ummu Salamah:</p>
-<p dir="rtl">اَنَّهَا سَمِعَتْ رَسُوْلَ اللّٰهِ صَلَّى اللّٰهُ عَلَيْهِ وَسَلَّمَ يُصَلِّى اِلَى جَنْبِ اْلبَيْتِ يَقْرَأُ وَالطُّوْرِ وَكِتَابٍ مَسْطُوْر.ٍ (رواه البخاري)</p>
+<p dir=\"rtl\">اَنَّهَا سَمِعَتْ رَسُوْلَ اللّٰهِ صَلَّى اللّٰهُ عَلَيْهِ وَسَلَّمَ يُصَلِّى اِلَى جَنْبِ اْلبَيْتِ يَقْرَأُ وَالطُّوْرِ وَكِتَابٍ مَسْطُوْر.ٍ (رواه البخاري)</p>
 <p>“Bahwa ia mendengar Rasulullah saw sedang salat menghadap Baitullah membaca surah aṭ-Ṭūr” (Riwayat al-Bukhārī)</p>
 <p>Persamaan surah ini dengan surah sebelumnya adalah sebagai berikut:</p>
 <ol>
@@ -1752,15 +1752,15 @@ UPDATE quran_surah SET surahInfo = "<p>Surah aṭ-Ṭūr diturunkan di Makkah, j
 <ol>
 <li>Dalam surah sebelumnya disebutkan bahwa anak cucu orang-orang Mukmin dimasukkan ke dalam surga mengikuti bapak-bapak mereka. Dalam surah ini disebutkan keturunan orang-orang Yahudi seperti dalam firman-Nya:</li>
 </ol>
-<p dir="rtl">هُوَ اَعْلَمُ بِكُمْ اِذْ اَنْشَاَكُمْ مِّنَ الْاَرْضِ وَاِذْ اَنْتُمْ اَجِنَّةٌ فِيْ بُطُوْنِ اُمَّهٰتِكُمْ</p>
+<p dir=\"rtl\">هُوَ اَعْلَمُ بِكُمْ اِذْ اَنْشَاَكُمْ مِّنَ الْاَرْضِ وَاِذْ اَنْتُمْ اَجِنَّةٌ فِيْ بُطُوْنِ اُمَّهٰتِكُمْ</p>
 <p>Dia mengetahui tentang kamu, sejak Dia menjadikan kamu dari tanah lalu ketika kamu masih janin dalam perut ibumu. (an-Najm/53: 32)</p>
 <ol>
 <li>Dalam ayat sebelumnya Allah berfirman tentang orang-orang Mukmin.</li>
 </ol>
-<p dir="rtl">اَلْحَقْنَا بِهِمْ ذُرِّيَّتَهُمْ</p>
+<p dir=\"rtl\">اَلْحَقْنَا بِهِمْ ذُرِّيَّتَهُمْ</p>
 <p>Kami pertemukan mereka dengan anak cucu mereka (di dalam surga). (aṭ-Ṭūr/52: 21)</p>
 <p>Dalam surah ini Allah berfirman:</p>
-<p dir="rtl">وَاَنْ لَّيْسَ لِلْاِنْسَانِ اِلَّا مَا سَعٰىۙ ٣٩</p>
+<p dir=\"rtl\">وَاَنْ لَّيْسَ لِلْاِنْسَانِ اِلَّا مَا سَعٰىۙ ٣٩</p>
 <p>Dan bahwa manusia hanya memperoleh apa yang telah diusahakannya (an-Najm/53: 39)</p>
 <p>Menurut Ibnu Mardawaih dari Ibnu Mas‘ūd, Surah an-Najm ini adalah surah pertama yang dibaca oleh Nabi Muhammad saw di hadapan umum di Masjidil Haram dan didengar oleh orang-orang musyrik. Menurut al-Bukhārī, Muslim, Abū Dāwud, dan Nasā’ī, surah ini adalah surah pertama yang diturunkan yang di dalamnya terdapat ayat as-Sajdah, kemudian Nabi Muhammad saw bersujud diikuti oleh semua orang, kecuali orang yang kelihatan sedang mengambil segenggam tanah, lalu ia sujud ke tanah itu. Akhirnya orang itu mati dibunuh dalam kekufuran, dia adalah Umayyah bin Khalaf.</p>
 " WHERE id = 52;

@@ -11,8 +11,9 @@ func main() {
 	if err != nil && !os.IsExist(err) {
 		log.Fatal(err)
 	}
-	mypackage.GenerateQuranText()
 	mypackage.GenerateQuranSurah()
+	mypackage.GenerateQuranText()
 	mypackage.GenerateSurahInfo()
 	mypackage.GenerateAyahInfo()
+	mypackage.GetAyahWordCount()
 }

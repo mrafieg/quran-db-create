@@ -55,7 +55,7 @@ func GetAyahWordCount() {
 	for i, surah := range surahs {
 		if i > 0 {
 			for _, ayah := range surah.Ayahs {
-				query += fmt.Sprintf(`UPDATE quran_text SET wordCount = %s WHERE surahId = %s AND verseId = %s`, strconv.Itoa(ayah.WordCount), strconv.Itoa(surah.Id), strconv.Itoa(ayah.VerseId)) + ";\n"
+				query += fmt.Sprintf(`UPDATE quran_ayah SET wordCount = %s WHERE surahId = %s AND verseId = %s`, strconv.Itoa(ayah.WordCount), strconv.Itoa(surah.Id), strconv.Itoa(ayah.VerseId)) + ";\n"
 			}
 		}
 	}

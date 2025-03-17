@@ -12,7 +12,7 @@ func main() {
 		log.Fatal(err)
 	}
 	mypackage.GenerateQuranSurah()
-	mypackage.GenerateQuranText()
+	mypackage.GenerateQuranAyah()
 	mypackage.GenerateSurahInfo()
 	mypackage.GenerateAyahInfo()
 	mypackage.GetAyahWordCount()

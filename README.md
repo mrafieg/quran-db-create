@@ -15,9 +15,6 @@ go run main.go
 5. ayah-word-count.sql
 
 ## Credits
-- word-data.json https://github.com/hablullah/data-quran
-- surah-data.json https://github.com/hablullah/data-quran
-- surah-data-indo.json https://github.com/ianoit/Al-Quran-JSON-Indonesia-Kemenag
-- quran-text.sql https://github.com/sinoridha/quran-indonesia-db
-- surah-info.json https://github.com/hablullah/data-quran
-- ayah-info.json https://github.com/hablullah/data-quran
+- ttps://github.com/hablullah/data-quran
+- https://github.com/ianoit/Al-Quran-JSON-Indonesia-Kemenag
+- https://github.com/sinoridha/quran-indonesia-db

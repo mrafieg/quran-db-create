@@ -1,6 +1,8 @@
 package mypackage
 
-import "fmt"
+import (
+	"fmt"
+)
 
 func GenerateQuranAyah() {
 	Copy("data/quran-text.sql", "sql/quran-ayah.sql")

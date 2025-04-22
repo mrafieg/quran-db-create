@@ -13,7 +13,10 @@ func main() {
 	}
 	mypackage.GenerateQuranSurah()
 	mypackage.GenerateQuranAyah()
+	mypackage.GenerateAyahEnText()
 	mypackage.GenerateSurahInfo()
+	mypackage.GenerateSurahInfoEn()
 	mypackage.GenerateAyahInfo()
+	mypackage.GenerateAyahInfoEn()
 	mypackage.GetAyahWordCount()
 }

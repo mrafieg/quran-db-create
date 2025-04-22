@@ -1,4 +1,4 @@
-UPDATE quran_surah SET surahInfo = "<p>Nama, Tempat Diturunkan, dan Jumlah Ayat</p>
+UPDATE quran_surah SET idnSurahInfo = "<p>Nama, Tempat Diturunkan, dan Jumlah Ayat</p>
 <p>Surah pertama al-Fātiḥah mempunyai bermacam-macam nama, antara lain:</p>
 <ol>
 <li>Surah al-Fātiḥah</li>
@@ -117,7 +117,7 @@ UPDATE quran_surah SET surahInfo = "<p>Nama, Tempat Diturunkan, dan Jumlah Ayat<
 <li>Di akhir surah al-Fātiḥah disebutkan tiga kelompok manusia, yaitu yang diberi nikmat, yang dimurkai Allah dan orang yang sesat, sedangkan di awal surah al-Baqarah juga disebutkan tiga kelompok manusia, yaitu orang yang bertakwa, orang kafir, dan orang munafik.</li>
 </ol>
 " WHERE id = 1;
-UPDATE quran_surah SET surahInfo = "<p>Surah al-Baqarah yang terdiri dari 286 ayat adalah termasuk golongan surah Madaniyah yang diturunkan pada tahun-tahun permulaan periode Nabi Muhammad saw di Medinah. Ia merupakan surah yang terpanjang dan terbanyak ayat-ayatnya di antara surah yang ada di dalam Al-Qur’an. Surah ini dinamai “al-Baqarah” yang berarti “seekor sapi”, karena di dalamnya disebutkan kisah penyembelihan sapi betina yang diperintahkan Allah kepada Bani Israil. Dalam pelaksanaan penyembelihan sapi betina itu tampak dengan jelas sifat dan watak orang-orang Yahudi pada umumnya.</p>
+UPDATE quran_surah SET idnSurahInfo = "<p>Surah al-Baqarah yang terdiri dari 286 ayat adalah termasuk golongan surah Madaniyah yang diturunkan pada tahun-tahun permulaan periode Nabi Muhammad saw di Medinah. Ia merupakan surah yang terpanjang dan terbanyak ayat-ayatnya di antara surah yang ada di dalam Al-Qur’an. Surah ini dinamai “al-Baqarah” yang berarti “seekor sapi”, karena di dalamnya disebutkan kisah penyembelihan sapi betina yang diperintahkan Allah kepada Bani Israil. Dalam pelaksanaan penyembelihan sapi betina itu tampak dengan jelas sifat dan watak orang-orang Yahudi pada umumnya.</p>
 <p>Dinamakan juga fusṭaṭ al-Qur’ān yang berarti “puncak Al-Qur’an” karena surah ini memuat beberapa hukum yang tidak disebut di surah-surah yang lain. Juga dinamakan Alīf Lām Mīm, karena surah ini dimulai dengan huruf-huruf hijaiyah (abjad) alif lām mīm.</p>
 <p>Di antara pokok-pokok isinya ialah:</p>
 <ol>
@@ -160,7 +160,7 @@ UPDATE quran_surah SET surahInfo = "<p>Surah al-Baqarah yang terdiri dari 286 ay
 <li>Surah al-Baqarah diakhiri dengan pengakuan terhadap kekuasaan Allah dan pertolongannya, sedang surah Āli ‘Imrān dimulai dengan menyebutkan bahwa Tuhan yang mereka mintakan pertolongan tersebut, adalah Tuhan yang hidup kekal abadi dan mengurus semua urusan makhluk-Nya.</li>
 </ol>
 " WHERE id = 2;
-UPDATE quran_surah SET surahInfo = "<p>Surah ketiga adalah Āli ‘Imrān (Keluarga Imran) yang terdiri atas 200 ayat. Surah ini termasuk golongan Madaniyah. Dinamakan Āli ‘Imrān, karena dalam surah ini terdapat kisah keluarga Imran dan keturunannya, kelahiran Nabi Isa a.s., yang dilahirkan oleh Maryam putri Imran, persamaan kejadian Isa dengan Adam a.s., dan mukjizat yang diberikan Allah kepada Nabi Isa.</p>
+UPDATE quran_surah SET idnSurahInfo = "<p>Surah ketiga adalah Āli ‘Imrān (Keluarga Imran) yang terdiri atas 200 ayat. Surah ini termasuk golongan Madaniyah. Dinamakan Āli ‘Imrān, karena dalam surah ini terdapat kisah keluarga Imran dan keturunannya, kelahiran Nabi Isa a.s., yang dilahirkan oleh Maryam putri Imran, persamaan kejadian Isa dengan Adam a.s., dan mukjizat yang diberikan Allah kepada Nabi Isa.</p>
 <p>Surah al-Baqarah dan surah Āli ‘Imrān dinamakan az-Zahrawāni (dua surah yang cemerlang), karena kedua surah ini mengungkapkan hal-hal yang disembunyikan oleh Ahli Kitab, seperti kejadian kelahiran Nabi Isa a.s., kedatangan Nabi Muhammad saw, dan sebagainya.</p>
 <p>Pokok-pokok isinya</p>
 <ol>
@@ -194,7 +194,7 @@ UPDATE quran_surah SET surahInfo = "<p>Surah ketiga adalah Āli ‘Imrān (Kelua
 <li>Dalam Surah Āli ‘Imrān telah disebutkan bahwa di kalangan kaum Muslimin banyak yang gugur dalam medan perang sebagai syuhada yang tentunya mereka meninggalkan anak-anak yang sudah yatim dan istri yang sudah janda. Maka pada permulaan Surah an-Nisā’ disebutkan perintah memelihara anak-anak yatim serta pembagian harta pusaka.</li>
 </ol>
 " WHERE id = 3;
-UPDATE quran_surah SET surahInfo = "<p>Surah an-Nisā’ yang terdiri dari 176 ayat itu adalah surah Madaniyah yang terpanjang sesudah Surah al-Baqarah. Dinamakan an-Nisā’ karena dalam surah ini banyak dibicarakan hal yang berhubungan dengan perempuan serta merupakan surah yang paling banyak membicarakan hal itu dibanding dengan surah-surah Al-Qur’an yang lain. Surah lain yang banyak juga membicarakan hal perempuan ialah Surah aṭ-Ṭalāq. Dalam hubungan ini Surah an-Nisā’ biasa disebut dengan sebutan Sūrah an-Nisā’ al-Kubrā (Surah an-Nisā’ yang besar), sedang Surah aṭ-Ṭalāq disebut dengan sebutan Sūrah an-Nisā’ aṣ-Ṣugrā (Surah an-Nisā’ yang kecil).</p>
+UPDATE quran_surah SET idnSurahInfo = "<p>Surah an-Nisā’ yang terdiri dari 176 ayat itu adalah surah Madaniyah yang terpanjang sesudah Surah al-Baqarah. Dinamakan an-Nisā’ karena dalam surah ini banyak dibicarakan hal yang berhubungan dengan perempuan serta merupakan surah yang paling banyak membicarakan hal itu dibanding dengan surah-surah Al-Qur’an yang lain. Surah lain yang banyak juga membicarakan hal perempuan ialah Surah aṭ-Ṭalāq. Dalam hubungan ini Surah an-Nisā’ biasa disebut dengan sebutan Sūrah an-Nisā’ al-Kubrā (Surah an-Nisā’ yang besar), sedang Surah aṭ-Ṭalāq disebut dengan sebutan Sūrah an-Nisā’ aṣ-Ṣugrā (Surah an-Nisā’ yang kecil).</p>
 <p>Pokok-pokok Isinya</p>
 <ol>
 <li>Keimanan</li>
@@ -230,7 +230,7 @@ UPDATE quran_surah SET surahInfo = "<p>Surah an-Nisā’ yang terdiri dari 176 a
 <li>Surah an-Nisā’ dimulai dengan Yā ayyuhan-nās (wahai manusia) yang nadanya sama dengan surah Makiyah, sedang Surah al-Mā’idah seperti surah-surah Madaniyah, dimulai dengan Yā ayyuhallażīna āmanū (wahai orang yang beriman) Hal ini menyatakan sekalipun nadanya berbeda, tetapi yang dituju oleh kedua surah itu ialah semua manusia.</li>
 </ol>
 " WHERE id = 4;
-UPDATE quran_surah SET surahInfo = "<p>Surah al-Mā’idah terdiri dari 120 ayat, termasuk golongan surah Madaniyah. Sekalipun ada ayatnya yang turun di Mekah namun ayat ini diturunkan sesudah Nabi Muhammad saw, hijrah ke Medinah pada waktu haji wada’.</p>
+UPDATE quran_surah SET idnSurahInfo = "<p>Surah al-Mā’idah terdiri dari 120 ayat, termasuk golongan surah Madaniyah. Sekalipun ada ayatnya yang turun di Mekah namun ayat ini diturunkan sesudah Nabi Muhammad saw, hijrah ke Medinah pada waktu haji wada’.</p>
 <p>Surah ini dinamakan al-Mā’idah (Hidangan), karena menurut kisah, pengikut-pengikut setia Nabi Isa meminta kepada Nabi Isa agar Allah menurunkan untuk mereka al-mā’idah (hidangan makanan) dari langit (ayat 112). Dinamakan dengan al-‘Uqūd (perjanjian), karena kata itu terdapat pada ayat pertama Surah ini, Allah menyuruh agar hamba-hamba-Nya memenuhi janji prasetia mereka terhadap Allah dan perjanjian-perjanjian yang mereka buat sesamanya.</p>
 <p>Dinamakan juga al-Munqiż (yang menyelamatkan), karena akhir surah ini mengandung kisah tentang Nabi Isa sebagai penyelamat pengikut-pengikut setianya dari azab Allah.</p>
 <p>Pokok-pokok Isinya</p>
@@ -256,7 +256,7 @@ UPDATE quran_surah SET surahInfo = "<p>Surah al-Mā’idah terdiri dari 120 ayat
 <p>Pada akhir Surah al-Mā’idah/5, beberapa kali Allah menegaskan bahwa Nabi Isa dan ibunya bukanlah tuhan sebagaimana anggapan banyak orang Nasrani di Najran. Nabi Isa adalah seperti rasul-rasul yang lain yang bertugas mengajak Bani Israil untuk mengesakan Allah dan menaati perintah-perintah-Nya. Maka pada Surah al-An‘ām/6, Allah menjelaskan kekuasaan-Nya dalam penciptaan langit, bumi dan semua isinya, termasuk manusia. Allah juga memberi petunjuk kepada manusia untuk memilih jalan yang terang, yaitu cahaya keimanan, serta meninggalkan jalan yang sesat, yaitu jalan kegelapan.</p>
 <p>Pada akhir Surah al-Mā’idah/5 ditegaskan bahwa milik Allahlah kerajaan langit dan bumi dan segala apa yang terdapat di dalamnya, Dia Mahakuasa atas segala sesuatu. Pada ayat awal surah ini, al-An‘ām/6, Allah menegaskan pula bahwa segala puji adalah milik-Nya yang menciptakan seluruh jagat raya beserta segala isinya, dan Dia pula yang menjadikan gelap dan terang dalam kehidupan manusia.</p>
 " WHERE id = 5;
-UPDATE quran_surah SET surahInfo = "<p>Surah yang ke-6, al-An‘ām yang berarti hewan ternak terdiri atas 165 ayat. Surah ini termasuk golongan Surah Makiyah. Dinamai al-An‘ām (hewan ternak) karena surah ini banyak menerangkan hukum-hukum yang berhubungan dengan hewan ternak dan juga hubungan hewan tersebut dengan adat istiadat serta kepercayaan orang-orang musyrik. Menurut kepercayaan mereka, hewan tersebut dapat disembelih sebagai kurban untuk mendekatkan diri kepada sembahan mereka. Allah memulai surah ini dengan “Alhamdulillāh”. Surah-surah lain yang juga diawali dengan lafaz “Alhamdulillāh” ialah Surah al-Kahf/18, Surah Saba’/34 dan Surah Fāṭir/35.</p>
+UPDATE quran_surah SET idnSurahInfo = "<p>Surah yang ke-6, al-An‘ām yang berarti hewan ternak terdiri atas 165 ayat. Surah ini termasuk golongan Surah Makiyah. Dinamai al-An‘ām (hewan ternak) karena surah ini banyak menerangkan hukum-hukum yang berhubungan dengan hewan ternak dan juga hubungan hewan tersebut dengan adat istiadat serta kepercayaan orang-orang musyrik. Menurut kepercayaan mereka, hewan tersebut dapat disembelih sebagai kurban untuk mendekatkan diri kepada sembahan mereka. Allah memulai surah ini dengan “Alhamdulillāh”. Surah-surah lain yang juga diawali dengan lafaz “Alhamdulillāh” ialah Surah al-Kahf/18, Surah Saba’/34 dan Surah Fāṭir/35.</p>
 <p>Semua Surah Makiyah berisi seruan kepada keimanan, agama tauhid, dan menegaskan batalnya kepercayaan syirik. Banyak hadis yang meriwayatkan bahwa Surah al-An‘ām/6 ini diturunkan sekaligus, disebabkan isinya yang antara lain mengandung dalil-dalil ketauhidan, keadilan, kenabian, hari Kiamat dan bantahan terhadap ilḥād (atheisme).</p>
 <p>POKOK-POKOK ISINYA</p>
 <ol>
@@ -295,7 +295,7 @@ UPDATE quran_surah SET surahInfo = "<p>Surah yang ke-6, al-An‘ām yang berarti
 <p>b. Pada bagian akhir Surah al-An‘ām dijelaskan, bahwa Allah akan memberikan keterangan tentang apa yang seharusnya dilakukan manusia dan menjadi perselisihan mereka. Maka pada bagian permulaan Surah al-A‘rāf, dijelaskan apa yang dimaksud dengan “Allah memberi keterangan” yaitu para rasul yang diutus bertugas memberi keterangan dan mereka masing-masing akan dimintai pertanggungjawaban.</p>
 <p>c. Pada bagian akhir Surah al-An‘ām, dinyatakan bahwa orang yang berbuat kebajikan akan diganjar sepuluh kali lipat dan yang berbuat kejahatan akan dibalas seimbang dengan perbuatannya. Untuk menentukan kadar kebajikan dan kejahatan itu ada timbangannya. Maka di bagian muka Surah al-A‘rāf, dikemukakan bahwa timbangan pada hari itu ialah kebenaran dan keadilan. Siapa yang berat timbangannya dialah orang yang beruntung dan siapa yang ringan timbangannya dialah yang merugi. Kemudian diceritakan keadaan nasib aṣhābul a’rāf.</p>
 " WHERE id = 6;
-UPDATE quran_surah SET surahInfo = "<p>Surah 7 al-A‘rāf yang berjumlah 206 ayat termasuk golongan surah Makkiyah (kecuali ayat 163-167 Madaniyah), diturunkan sebelum turunnya Surah al-An‘ām yang termasuk golongan Surah as-sab’ aṭ-ṭiwāl (tujuh surah yang panjang). Dinamakan al-A‘rāf karena terdapat dalam surah ini yaitu dalam ayat 46 yang mengemukakan tentang keadaan orang-orang yang berada di tempat yang tertinggi antara surga dan neraka.</p>
+UPDATE quran_surah SET idnSurahInfo = "<p>Surah 7 al-A‘rāf yang berjumlah 206 ayat termasuk golongan surah Makkiyah (kecuali ayat 163-167 Madaniyah), diturunkan sebelum turunnya Surah al-An‘ām yang termasuk golongan Surah as-sab’ aṭ-ṭiwāl (tujuh surah yang panjang). Dinamakan al-A‘rāf karena terdapat dalam surah ini yaitu dalam ayat 46 yang mengemukakan tentang keadaan orang-orang yang berada di tempat yang tertinggi antara surga dan neraka.</p>
 <p>POKOK-POKOK ISINYA:</p>
 <ol>
 <li>Keimanan:</li>
@@ -337,7 +337,7 @@ UPDATE quran_surah SET surahInfo = "<p>Surah 7 al-A‘rāf yang berjumlah 206 ay
 </ol>
 <p>Hubungan Surah al-A‘rāf dengan Surah al-Anfāl, ialah Dalam Surah al-A‘rāf Allah swt memberikan petunjuk bagi Rasulullah saw untuk membina rohani dan petunjuk-petunjuk dalam menghadapi umat, maka dalam Surah al-Anfāl, diterangkan bahwa Nabi Muhammad saw telah berada di tengah-tengah umatnya membawa mereka ke jalan agama Allah swt.</p>
 " WHERE id = 7;
-UPDATE quran_surah SET surahInfo = "<p>Surah 8, al-Anfāl terdiri dari 75 ayat. Menurut perhitungan para ulama Kufah, jumlah ayatnya ada 75; sedang perhitungan para ulama Hijaz ada 76, tetapi menurut perhitungan ulama Syam ayatnya ada 77. (1631 kata-kata, 5294 huruf) dan termasuk kelompok Madaniyah. (ada riwayat yang mengecualikan ayat 30 s/d 36 Ayat ini termasuk kelompok Makiyah. Dan ada pula riwayat lain, yang mengecualikan ayat 64, bahwa ayat ini termasuk ayat Makiyah) karena seluruh ayat-ayatnya diturunkan di Medinah.</p>
+UPDATE quran_surah SET idnSurahInfo = "<p>Surah 8, al-Anfāl terdiri dari 75 ayat. Menurut perhitungan para ulama Kufah, jumlah ayatnya ada 75; sedang perhitungan para ulama Hijaz ada 76, tetapi menurut perhitungan ulama Syam ayatnya ada 77. (1631 kata-kata, 5294 huruf) dan termasuk kelompok Madaniyah. (ada riwayat yang mengecualikan ayat 30 s/d 36 Ayat ini termasuk kelompok Makiyah. Dan ada pula riwayat lain, yang mengecualikan ayat 64, bahwa ayat ini termasuk ayat Makiyah) karena seluruh ayat-ayatnya diturunkan di Medinah.</p>
 <p>Surah ini dinamakan al-Anfāl (berarti harta rampasan perang), karena kata al-Anfāl terdapat pada permulaan Surah ini, atau karena persoalan yang menonjol dalam surah ini ialah harta rampasan perang.</p>
 <p>Surah ini dinamakan juga surah “Badarul Kubra”, karena diturunkan berkenaan dengan Perang Badar kubra, yang terjadi pada tahun kedua Hijrah. Perang ini sangat penting artinya. Karena menentukan jalan sejarah perkembangan Islam. Pada waktu itu umat Islam dengan kekuatan kecil, dapat mengalahkan kaum musyrikin yang berjumlah besar, dengan perlengkapan yang cukup. Umat Islam dalam peperangan ini memperoleh harta rampasan yang tidak sedikit.</p>
 <p>Oleh sebab itu, timbul masalah bagaimana membagi harta rampasan perang itu. Maka Allah menurunkan ayat pertama dari Surah ini.</p>
@@ -379,7 +379,7 @@ UPDATE quran_surah SET surahInfo = "<p>Surah 8, al-Anfāl terdiri dari 75 ayat. 
 </ol>
 <p>Antara kedua surah itu terdapat hubungan yang erat sekali seakan-akan merupakan satu surah saja. Karena itu, sebagian ahli tafsir mengatakan, “Kalau tidaklah karena sudah ditentukan Allah bahwa ada Surah al-Anfāl dan ada Surah at-Taubah, niscaya mereka akan mengatakan bahwa kedua surah itu satu surah saja.”</p>
 " WHERE id = 8;
-UPDATE quran_surah SET surahInfo = "<p>Surah ini berisi 129 ayat, semuanya Madaniyah, kecuali ayat 113 dan dua ayat terakhir, yaitu ayat 128 dan 129 menurut sebagian ulama adalah Makkiyah karena diturunkan di Mekah. Menurut pendapat sebagian besar ulama tafsir (jumhur), semua ayat itu tanpa ada yang dikecualikan adalah Madaniyah karena berdasarkan pendapat yang masyhur bahwa ayat yang diturunkan sesudah Nabi Muhammad saw hijrah ke Medinah dinamakan Madaniyah sekalipun diturunkan di Mekah.</p>
+UPDATE quran_surah SET idnSurahInfo = "<p>Surah ini berisi 129 ayat, semuanya Madaniyah, kecuali ayat 113 dan dua ayat terakhir, yaitu ayat 128 dan 129 menurut sebagian ulama adalah Makkiyah karena diturunkan di Mekah. Menurut pendapat sebagian besar ulama tafsir (jumhur), semua ayat itu tanpa ada yang dikecualikan adalah Madaniyah karena berdasarkan pendapat yang masyhur bahwa ayat yang diturunkan sesudah Nabi Muhammad saw hijrah ke Medinah dinamakan Madaniyah sekalipun diturunkan di Mekah.</p>
 <p>Surah ini mempunyai banyak nama, tidak ada surah dalam Al-Qur’an yang lebih banyak namanya dari surah ini dan surah al-Fātihah, akan tetapi yang paling masyhur dari semua namanya itu adalah “Barā′ah” dan “at-Taubah”.</p>
 <p>Dinamakan Barā′ah karena surah ini dimulai dengan kata “Barā′ah” yang berarti berlepas diri yang maksudnya ialah pemutusan hubungan, karena di dalamnya terdapat ayat-ayat yang membicarakan pernyataan pemutusan perjanjian damai dengan kaum musyrikin. Dan dinamakan at-Taubah artinya “pengampunan”, karena di dalam surah ini banyak diterangkan tentang pengampunan terutama pada firman Allah yang berbunyi:</p>
 <p dir=\"rtl\">لَقَدْ تَّابَ اللّٰهُ عَلَى النَّبِيِّ وَالْمُهٰجِرِيْنَ وَالْاَنْصَارِ الَّذِيْنَ اتَّبَعُوْهُ فِيْ سَاعَةِ الْعُسْرَةِ مِنْۢ بَعْدِ مَا كَادَ يَزِيْغُ قُلُوْبُ فَرِيْقٍ مِّنْهُمْ ثُمَّ تَابَ عَلَيْهِمْۗ اِنَّهٗ بِهِمْ رَءُوْفٌ رَّحِيْمٌ ۙ ١١٧</p>
@@ -422,7 +422,7 @@ UPDATE quran_surah SET surahInfo = "<p>Surah ini berisi 129 ayat, semuanya Madan
 <li>Surah at-Taubah menerangkan keadaan orang-orang munafik, dan perbuatan mereka di waktu Al-Qur’an diturunkan, sedang Surah Yūnus menerangkan sikap orang-orang kafir terhadap Al-Qur’an.</li>
 </ol>
 " WHERE id = 9;
-UPDATE quran_surah SET surahInfo = "<p>Surah Yūnus terdiri dari 109 ayat, termasuk golongan surah-surah Makiyah, diturunkan sesudah Surah al-Isrā’ dan sebelum Surah Hūd, seperti diutarakan as-Suyūṭī dalam kitabnya “Al-Itqān”, kecuali ayat 40, 94, dan 95. Ketiganya diturunkan di Medinah, setelah Nabi Muhammad berhijrah.</p>
+UPDATE quran_surah SET idnSurahInfo = "<p>Surah Yūnus terdiri dari 109 ayat, termasuk golongan surah-surah Makiyah, diturunkan sesudah Surah al-Isrā’ dan sebelum Surah Hūd, seperti diutarakan as-Suyūṭī dalam kitabnya “Al-Itqān”, kecuali ayat 40, 94, dan 95. Ketiganya diturunkan di Medinah, setelah Nabi Muhammad berhijrah.</p>
 <p>Surah ini dinamai “Surah Yūnus”, karena dalam surah ini dikemukakan kisah Nabi Yunus a.s. dengan pengikutnya yang teguh imannya.</p>
 <p>Pokok-pokok Isinya:</p>
 <ol>
@@ -454,7 +454,7 @@ UPDATE quran_surah SET surahInfo = "<p>Surah Yūnus terdiri dari 109 ayat, terma
 <li>Keduanya menerangkan kisah para nabi tetapi kisah para nabi yang disebut dalam Surah Hūd, bersifat menjelaskan apa yang telah disebut dalam Surah Yūnus. Pada umumnya apa yang telah diutarakan dalam Surah Hūd merupakan penjelasan dari apa yang telah disebutkan dalam Surah Yūnus.</li>
 </ol>
 " WHERE id = 10;
-UPDATE quran_surah SET surahInfo = "<p>Surah Hūd termasuk surah-surah Makkiyah, terdiri dari 123 ayat, diturunkan sesudah Surah Yūnus. Surah ini dinamai dengan Hūd, karena dihubungkan dengan kisah Nabi Hud a.s. yang terdapat di dalamnya. Selain riwayat Nabi Hud dengan kaumnya, terdapat pula dalam surah ini kisah nabi-nabi lain.</p>
+UPDATE quran_surah SET idnSurahInfo = "<p>Surah Hūd termasuk surah-surah Makkiyah, terdiri dari 123 ayat, diturunkan sesudah Surah Yūnus. Surah ini dinamai dengan Hūd, karena dihubungkan dengan kisah Nabi Hud a.s. yang terdapat di dalamnya. Selain riwayat Nabi Hud dengan kaumnya, terdapat pula dalam surah ini kisah nabi-nabi lain.</p>
 <p>Pokok-pokok Isinya</p>
 <ol>
 <li>Keimanan:</li>
@@ -493,7 +493,7 @@ UPDATE quran_surah SET surahInfo = "<p>Surah Hūd termasuk surah-surah Makkiyah,
 </ol>
 <p>Kisah Yusuf dapat dijadikan teladan yang baik, sedangkan tauhid adalah pokok utama ajaran semua nabi.</p>
 " WHERE id = 11;
-UPDATE quran_surah SET surahInfo = "<p>Surah Yūsuf terdiri dari 111 ayat, termasuk kelompok surah Makiyah, diturunkan di Mekah sebelum Hijrah. Surah ini dinamai surah Yūsuf karena hampir seluruh isinya adalah mengenai kisah Nabi Yusuf a.s. Kisah ini adalah salah satu dari kisah yang diwahyukan kepada Nabi Muhammad saw, sebagai mukjizat yang menguatkan kenabiannya, karena beliau sebelumnya tidak mengetahui sama sekali kisah ini.</p>
+UPDATE quran_surah SET idnSurahInfo = "<p>Surah Yūsuf terdiri dari 111 ayat, termasuk kelompok surah Makiyah, diturunkan di Mekah sebelum Hijrah. Surah ini dinamai surah Yūsuf karena hampir seluruh isinya adalah mengenai kisah Nabi Yusuf a.s. Kisah ini adalah salah satu dari kisah yang diwahyukan kepada Nabi Muhammad saw, sebagai mukjizat yang menguatkan kenabiannya, karena beliau sebelumnya tidak mengetahui sama sekali kisah ini.</p>
 <p>Menurut riwayat al-Baihaqi dalam Kitab ad-Dalā’il ada segolongan orang Yahudi masuk agama Islam sesudah mereka mendengar cerita Yusuf dalam Al-Qur’an, karena sesuai dengan cerita yang mereka ketahui. Dari kisah Nabi Yusuf ini, Nabi Muhammad saw banyak mendapat pelajaran seperti halnya dengan kisah nabi-nabi yang lain dan merupakan penghibur bagi beliau dalam menjalankan tugasnya yang amat berat.</p>
 <p>Pokok-pokok Isinya</p>
 <ol>
@@ -523,7 +523,7 @@ UPDATE quran_surah SET surahInfo = "<p>Surah Yūsuf terdiri dari 111 ayat, terma
 <li>Pada akhir Surah Yūsuf diterangkan bahwa Al-Qur’an itu bukanlah perkataan yang diada-adakan, melainkan petunjuk dan rahmat bagi orang yang beriman, dan keterangan ini ditegaskan kembali di awal Surah ar-Ra‘d.</li>
 </ol>
 " WHERE id = 12;
-UPDATE quran_surah SET surahInfo = "<p>Surah ar-Ra’d ini terdiri atas 43 ayat termasuk golongan surah Makkiyah menurut Ibnu ‘Abbās, Hasan, Ikrimah, dan lain-lain. Sedangkan Ibnu ‘Abbās, Zubair, Muqatil, dan lain-lain menggolongkannya ke dalam kelompok surah Madaniyah.</p>
+UPDATE quran_surah SET idnSurahInfo = "<p>Surah ar-Ra’d ini terdiri atas 43 ayat termasuk golongan surah Makkiyah menurut Ibnu ‘Abbās, Hasan, Ikrimah, dan lain-lain. Sedangkan Ibnu ‘Abbās, Zubair, Muqatil, dan lain-lain menggolongkannya ke dalam kelompok surah Madaniyah.</p>
 <p>Surah ini dinamakan ar-Ra‘d yang berarti “guruh” atau “guntur” karena dalam ayat 13 Allah berfirman yang artinya “Dan guruh itu bertasbih sambil memuji-Nya”, menunjukkan sifat kesucian dan kesempurnaan Allah swt. Juga sesuai dengan sifat Al-Qur’an yang mengandung ancaman dan harapan, maka demikian pulalah halnya bunyi guruh itu menimbulkan kecemasan dan harapan bagi manusia. Bagian terpenting dari isi surah ini ialah bahwa bimbingan Allah kepada makhluk-Nya bertalian erat dengan hukum sebab dan akibat. Bagi Allah swt tidak ada pilih kasih dalam menetapkan hukuman. Balasan atau hukuman adalah akibat dari ketaatan atau keingkaran terhadap hukum Allah.</p>
 <p>Pokok-pokok Isi:</p>
 <ol>
@@ -558,7 +558,7 @@ UPDATE quran_surah SET surahInfo = "<p>Surah ar-Ra’d ini terdiri atas 43 ayat 
 <li>Dalam Surah ar-Ra‘d Allah menyebutkan berbagai perbuatan makar orang-orang kafir, maka dalam Surah Ibrāhīm disebutkan kembali sifat-sifat mereka yang tidak disebut dalam Surah ar-Ra‘d.</li>
 </ol>
 " WHERE id = 13;
-UPDATE quran_surah SET surahInfo = "<p>Surah Ibrāhīm terdiri atas 52 ayat, termasuk golongan surah-surah Makkiyah, karena diturunkan di Mekah sebelum Hijrah. Dinamakan Surah Ibrāhīm karena surah ini mengandung kisah doa Nabi Ibrahim a.s., yaitu pada ayat 51. Doa ini isinya antara lain: permohonan agar keturunannya kelak adalah orang-orang yang mendirikan salat, dijauhkan dari penyembah-an berhala-berhala, dan agar Mekah dan daerah sekitarnya menjadi daerah yang aman dan makmur. Doa Nabi Ibrahim ini telah diperkenankan Allah swt sebagaimana terbukti sejak dahulu sampai sekarang. Doa tersebut dipanjatkan beliau ke hadirat Allah swt sesudah selesai merenovasi Ka’bah bersama putranya Ismail a.s. di padang pasir Mekah yang tandus.</p>
+UPDATE quran_surah SET idnSurahInfo = "<p>Surah Ibrāhīm terdiri atas 52 ayat, termasuk golongan surah-surah Makkiyah, karena diturunkan di Mekah sebelum Hijrah. Dinamakan Surah Ibrāhīm karena surah ini mengandung kisah doa Nabi Ibrahim a.s., yaitu pada ayat 51. Doa ini isinya antara lain: permohonan agar keturunannya kelak adalah orang-orang yang mendirikan salat, dijauhkan dari penyembah-an berhala-berhala, dan agar Mekah dan daerah sekitarnya menjadi daerah yang aman dan makmur. Doa Nabi Ibrahim ini telah diperkenankan Allah swt sebagaimana terbukti sejak dahulu sampai sekarang. Doa tersebut dipanjatkan beliau ke hadirat Allah swt sesudah selesai merenovasi Ka’bah bersama putranya Ismail a.s. di padang pasir Mekah yang tandus.</p>
 <p>Pokok-pokok Isinya</p>
 <ol>
 <li>Keimanan:</li>
@@ -595,7 +595,7 @@ UPDATE quran_surah SET surahInfo = "<p>Surah Ibrāhīm terdiri atas 52 ayat, ter
 <li>Kedua surah ini sama-sama menceritakan kisah-kisah nabi yang terdahulu dengan kaumnya, serta menerangkan keadaan orang-orang yang ingkar kepada para nabi itu pada hari kiamat. Kisah-kisah itu disampaikan kepada Nabi Muhammad saw untuk menghibur dan memantapkan hati beliau pada waktu mengalami berbagai kesulitan dalam menyiarkan agama Islam.</li>
 </ol>
 " WHERE id = 14;
-UPDATE quran_surah SET surahInfo = "<p>Surah ini terdiri dari 99 ayat, termasuk golongan surah-surah Makkiyah, karena diturunkan di Mekah sebelum Nabi Muhammad saw hijrah ke Medinah. Al-Ḥijr adalah nama sebuah pegunungan yang didiami oleh kaum Ṡamud, terletak di pinggir jalan raya antara Medinah dan Syam (Syria).</p>
+UPDATE quran_surah SET idnSurahInfo = "<p>Surah ini terdiri dari 99 ayat, termasuk golongan surah-surah Makkiyah, karena diturunkan di Mekah sebelum Nabi Muhammad saw hijrah ke Medinah. Al-Ḥijr adalah nama sebuah pegunungan yang didiami oleh kaum Ṡamud, terletak di pinggir jalan raya antara Medinah dan Syam (Syria).</p>
 <p>Nama surah ini diambil dari nama daerah pegunungan itu, sebagai peringatan bagi kaum Muslimin karena penduduknya, yaitu kaum Ṡamud yang dikisahkan pada ayat 80 sampai dengan ayat 84, telah dimusnahkan akibat mendustakan Nabi Saleh dan berpaling dari ayat-ayat Allah.</p>
 <p>Dalam surah ini terdapat pula kisah-kisah kaum lain yang telah dibinasakan oleh Allah, seperti kaum Luṭ a.s. dan kaum Syu‘aib a.s. Semua kisah-kisah itu dapat dijadikan tamsil dan ibarat bahwa orang-orang yang menentang ajaran rasul-rasul akan mengalami kehancuran.</p>
 <p>Pokok-pokok Isinya</p>
@@ -622,7 +622,7 @@ UPDATE quran_surah SET surahInfo = "<p>Surah ini terdiri dari 99 ayat, termasuk 
 <p>Pada bagian akhir Surah al-Ḥijr (ayat 92-93), Allah menyatakan bahwa manusia akan dimintai pertanggungjawabannya pada hari kiamat atas apa yang dikerjakannya di dunia. Pada awal Surah an-NaḤl, Allah menegaskan kepastian datangnya hari kiamat, dan pada ayat 93 an-NaḤl ditegaskan lagi pertanggungjawaban manusia itu.</p>
 <p>Pada bagian pertama Surah al-Ḥijr, Allah menerangkan tentang kebenaran Al-Qur’an serta jaminan-Nya untuk memeliharanya, sedang dalam Surah an-NaḤl terdapat ancaman bagi mereka yang mendustakan kebenaran Al-Qur’an itu.</p>
 " WHERE id = 15;
-UPDATE quran_surah SET surahInfo = "<p>Surah ini terdiri dari 128 ayat, termasuk kelompok surah-surah Makkiyyah, kecuali tiga ayat yang terakhir. Ayat-ayat ini turun pada waktu Rasulullah saw kembali dari peperangan Uhud.</p>
+UPDATE quran_surah SET idnSurahInfo = "<p>Surah ini terdiri dari 128 ayat, termasuk kelompok surah-surah Makkiyyah, kecuali tiga ayat yang terakhir. Ayat-ayat ini turun pada waktu Rasulullah saw kembali dari peperangan Uhud.</p>
 <p>Surah ini dinamakan dengan an-Naḥl yang berarti “lebah” karena di dalamnya terdapat firman Allah ayat 68 yang artinya, “Dan Tuhanmu mewahyukan kepada lebah”.</p>
 <p>Lebah adalah makhluk yang sangat berguna bagi manusia. Ada persamaan hakikat antara madu yang dihasilkan lebah dengan intisari yang terdapat di dalam Al-Qur’an. Madu berasal dari sari bunga dan menjadi obat bagi manusia. Sedangkan Al-Qur’an mengandung intisari dari kitab-kitab yang telah diturunkan kepada para nabi terdahulu ditambah dengan ajaran-ajaran yang diperlukan oleh semua bangsa sepanjang masa untuk mencapai kebahagiaan dunia dan akhirat.</p>
 <p>Surah ini dinamakan pula Surah an-Ni‘am yang berarti nikmat-nikmat, karena di dalamnya Allah swt menyebutkan beberapa nikmat untuk hamba-hamba-Nya.</p>
@@ -659,7 +659,7 @@ UPDATE quran_surah SET surahInfo = "<p>Surah ini terdiri dari 128 ayat, termasuk
 <li>Dalam Surah an-Naḥl, Allah mengatakan bahwa madu yang keluar dari lebah merupakan minuman yang mengandung obat bagi manusia. Dalam Surah al-Isrā’ diterangkan bahwa Al-Qur’an pun menjadi obat dan penyembuh penyakit hati, dan rahmat bagi orang-orang yang beriman.</li>
 </ol>
 " WHERE id = 16;
-UPDATE quran_surah SET surahInfo = "<p>Surah ini terdiri dari 111 ayat, dan termasuk golongan surah-surah Makkiyah. Dinamakan Surah al-Isrā’ yang berarti “memperjalankan di malam hari” karena dalam surah itu disebutkan peristiwa Isrā’ Nabi Muhammad saw dari Masjidilharam di Mekah, ke Masjidil Aqsa di Baitul Maqdis. Peristiwa ini diabadikan pada ayat pertama Surah al-Isrā’.</p>
+UPDATE quran_surah SET idnSurahInfo = "<p>Surah ini terdiri dari 111 ayat, dan termasuk golongan surah-surah Makkiyah. Dinamakan Surah al-Isrā’ yang berarti “memperjalankan di malam hari” karena dalam surah itu disebutkan peristiwa Isrā’ Nabi Muhammad saw dari Masjidilharam di Mekah, ke Masjidil Aqsa di Baitul Maqdis. Peristiwa ini diabadikan pada ayat pertama Surah al-Isrā’.</p>
 <p>Surah ini dinamakan pula Surah Banī Isrā’īl yang berarti “Keturunan Israil”, karena pada bagian permulaan, yaitu pada ayat yang kedua sampai dengan ayat kedelapan, dan kemudian pada bagian akhir surah, yaitu pada ayat 101 sampai dengan ayat 104, disebutkan tentang kisah Bani Israil. Dijelaskan dalam ayat-ayat tersebut bagaimana bangsa Israil setelah mereka menjadi bangsa yang kuat dan besar, menjadi bangsa yang terhina, karena menyimpang dari ajaran Allah swt.</p>
 <p>Kisah Isrā’ dikaitkan dengan kisah Bani Israil pada surah ini untuk memberi peringatan bahwa apabila umat meninggalkan ajaran-ajaran agamanya, akan mengalami keruntuhan sebagaimana halnya Bani Israil.</p>
 <p>Pokok-pokok Isinya</p>
@@ -695,7 +695,7 @@ UPDATE quran_surah SET surahInfo = "<p>Surah ini terdiri dari 111 ayat, dan term
 <li>Dalam Surah al-Isrā’ ayat 85 Allah berfirman, “Tidaklah kamu diberi ilmu kecuali hanyalah sedikit.” Firman ini ditujukan kepada sebagian orang-orang Yahudi yang merasa sombong dengan ilmu pengetahuan yang ada pada mereka, sebab bagaimanapun juga mereka adalah manusia yang hanya diberi ilmu pengetahuan sedikit. Dalam Surah al-Kahf Allah menceritakan tentang Nabi Musa a.s. dengan Nabi Khidir a.s. yang belum pernah diketahui oleh orang-orang Yahudi. Dalam kisah ini terlihat betapa sedikitnya ilmu Nabi Musa dibandingkan dengan ilmu Nabi Khidir.</li>
 </ol>
 " WHERE id = 17;
-UPDATE quran_surah SET surahInfo = "<p>Surah ini terdiri atas 110 ayat, termasuk golongan surah-surah Makkiyah. Dinamai al-Kahf artinya gua dan Aṣḥābul Kahfi yang artinya “Penghuni-penghuni Gua”. Kedua nama ini diambil dari kisah yang terdapat dalam surah ini pada ayat 9 s/d 26, tentang beberapa orang pemuda yang bersembunyi dan ditidurkan Allah dalam gua selama bertahun-tahun lamanya. Selain kisah tersebut, terdapat pula beberapa kisah dalam surah ini, yang kesemuanya mengandung iktibar dan pelajaran yang amat berguna bagi manusia dalam menjalani kehidupannya.</p>
+UPDATE quran_surah SET idnSurahInfo = "<p>Surah ini terdiri atas 110 ayat, termasuk golongan surah-surah Makkiyah. Dinamai al-Kahf artinya gua dan Aṣḥābul Kahfi yang artinya “Penghuni-penghuni Gua”. Kedua nama ini diambil dari kisah yang terdapat dalam surah ini pada ayat 9 s/d 26, tentang beberapa orang pemuda yang bersembunyi dan ditidurkan Allah dalam gua selama bertahun-tahun lamanya. Selain kisah tersebut, terdapat pula beberapa kisah dalam surah ini, yang kesemuanya mengandung iktibar dan pelajaran yang amat berguna bagi manusia dalam menjalani kehidupannya.</p>
 <p>Pokok-pokok Isinya:</p>
 <ol>
 <li>Keimanan:</li>
@@ -724,7 +724,7 @@ UPDATE quran_surah SET surahInfo = "<p>Surah ini terdiri atas 110 ayat, termasuk
 <li>Bagian akhir surah al-Kahf menerangkan tentang ancaman Allah terhadap orang-orang kafir yang mencari pelindungan kepada selain Allah, semua amal mereka sia-sia dan mereka dimasukkan dalam neraka, sedang pada bagian akhir surah Maryam diulang lagi celaan dan ancaman Allah terhadap orang-orang yang mempersekutukan-Nya.</li>
 </ol>
 " WHERE id = 18;
-UPDATE quran_surah SET surahInfo = "<p>Surah Maryam terdiri atas 98 ayat, termasuk golongan surah-surah Makkiyyah karena hampir seluruh ayatnya diturunkan sebelum Nabi Muhammad saw hijrah ke Medinah, bahkan sebelum sahabat-sahabat beliau hijrah ke Negeri Habsyah (Ethiopia). Menurut riwayat Ibnu Mas`ud, Ja`far bin Abi Talib membacakan permulaan Surah Maryam kepada raja Najasyi dan pengikut-pengikutnya di waktu ia ikut hijrah bersama-sama sahabatsahabat yang lain ke negeri itu. Surah ini dinamai “Maryam”, karena surah ini mengandung kisah Maryam, Ibu Nabi Isa a.s. yang serba ajaib, yaitu melahirkan putranya Isa a.s. sedang ia sebelumnya belum pernah dinikahi atau dicampuri oleh seorang laki-laki pun. Kelahiran Isa a.s. tanpa bapak merupakan suatu bukti kekuasaan Allah. Pengutaraan kisah Maryam sebagai kejadian yang luar biasa dan ajaib dalam Surah ini, diawali dengan kisah kejadian yang luar biasa dan ajaib pula, yaitu dikabulkannya doa Zakaria a.s. oleh Allah agar beliau dianugerahi seorang putra sebagai pewaris dan pelanjut cita-cita dan kepercayaan beliau, sedang usia beliau sudah sangat tua dan istri beliau seorang yang mandul, yang menurut ukuran ilmu biologi tidak mungkin bisa hamil.</p>
+UPDATE quran_surah SET idnSurahInfo = "<p>Surah Maryam terdiri atas 98 ayat, termasuk golongan surah-surah Makkiyyah karena hampir seluruh ayatnya diturunkan sebelum Nabi Muhammad saw hijrah ke Medinah, bahkan sebelum sahabat-sahabat beliau hijrah ke Negeri Habsyah (Ethiopia). Menurut riwayat Ibnu Mas`ud, Ja`far bin Abi Talib membacakan permulaan Surah Maryam kepada raja Najasyi dan pengikut-pengikutnya di waktu ia ikut hijrah bersama-sama sahabatsahabat yang lain ke negeri itu. Surah ini dinamai “Maryam”, karena surah ini mengandung kisah Maryam, Ibu Nabi Isa a.s. yang serba ajaib, yaitu melahirkan putranya Isa a.s. sedang ia sebelumnya belum pernah dinikahi atau dicampuri oleh seorang laki-laki pun. Kelahiran Isa a.s. tanpa bapak merupakan suatu bukti kekuasaan Allah. Pengutaraan kisah Maryam sebagai kejadian yang luar biasa dan ajaib dalam Surah ini, diawali dengan kisah kejadian yang luar biasa dan ajaib pula, yaitu dikabulkannya doa Zakaria a.s. oleh Allah agar beliau dianugerahi seorang putra sebagai pewaris dan pelanjut cita-cita dan kepercayaan beliau, sedang usia beliau sudah sangat tua dan istri beliau seorang yang mandul, yang menurut ukuran ilmu biologi tidak mungkin bisa hamil.</p>
 <p>POKOK-POKOK ISINYA</p>
 <ol>
 <li>Keimanan:</li>
@@ -749,7 +749,7 @@ UPDATE quran_surah SET surahInfo = "<p>Surah Maryam terdiri atas 98 ayat, termas
 <li>Menurut riwayat Ibnu ‘Abbas, Surah Ṭāhā diturunkan kepada Nabi Muhammad setelah turunnya Surah Maryam.</li>
 </ol>
 " WHERE id = 19;
-UPDATE quran_surah SET surahInfo = "<p>Surah Ṭāhā terdiri atas 135 ayat, diturunkan sesudah Surah Maryam, termasuk golongan Surah-surah Makkiyyah. Surah ini dinamakan “Ṭāhā”, diambil dari perkataan yang berasal dari ayat pertama Surah ini. Sebagaimana lazimnya Surah-surah yang memakai huruf-huruf Hijaiyyah pada permulaannya, huruf tersebut merupakan pemberitahuan Allah kepada orang-orang yang membacanya, bahwa sesudah huruf itu akan dikemukakan hal-hal yang sangat penting diketahui. Demikian pula halnya dengan ayat-ayat yang terdapat sesudah huruf “Ṭāhā”. Ayat ini menerangkan bahwa Al-Qur’an diturunkan bukanlah untuk menyusahkan manusia, tetapi justeru berisi peringatan bagi manusia dan berasal dari Tuhan Yang Maha Penyayang. Selain hal-hal tersebut di atas, juga Surah ini mengandung pokok-pokok isi sebagai berikut:</p>
+UPDATE quran_surah SET idnSurahInfo = "<p>Surah Ṭāhā terdiri atas 135 ayat, diturunkan sesudah Surah Maryam, termasuk golongan Surah-surah Makkiyyah. Surah ini dinamakan “Ṭāhā”, diambil dari perkataan yang berasal dari ayat pertama Surah ini. Sebagaimana lazimnya Surah-surah yang memakai huruf-huruf Hijaiyyah pada permulaannya, huruf tersebut merupakan pemberitahuan Allah kepada orang-orang yang membacanya, bahwa sesudah huruf itu akan dikemukakan hal-hal yang sangat penting diketahui. Demikian pula halnya dengan ayat-ayat yang terdapat sesudah huruf “Ṭāhā”. Ayat ini menerangkan bahwa Al-Qur’an diturunkan bukanlah untuk menyusahkan manusia, tetapi justeru berisi peringatan bagi manusia dan berasal dari Tuhan Yang Maha Penyayang. Selain hal-hal tersebut di atas, juga Surah ini mengandung pokok-pokok isi sebagai berikut:</p>
 <p>POKOK-POKOK ISINYA</p>
 <ol>
 <li>Keimanan:</li>
@@ -770,7 +770,7 @@ UPDATE quran_surah SET surahInfo = "<p>Surah Ṭāhā terdiri atas 135 ayat, dit
 <p>Dalam Surah Ṭāhā ini diterangkan bahwa Al-Qur’an sebagai kitab yang diwahyukan Allah kepada Nabi Muhammad saw berisi peringatan dan kabar gembira bagi manusia, wajib diikuti dan dipercayai. Akibat yang dialami oleh umat-umat dahulu yang tidak mempercayai dan mengingkari rasul-rasul yang diutus kepada mereka sangat menakutkan, seperti Fir‘aun dan pengikutpengikutnya. Kisah Bani Israil pun dipaparkan Allah dalam Surah ini sebagai umat yang selalu mengingkari nabi-Nya.</p>
 <p>Surah Ṭāhā diakhiri dengan penjelasan bahwa manusia mudah di-pengaruhi oleh kenikmatan hidup duniawi, yang oleh Allah dijadikan sebagai cobaan bagi manusia, juga diakhiri dengan perintah bersabar dan mendirikan salat, serta menerangkan imbalan orang-orang yang bertakwa. Penjelasan ini diulangi kembali pada permulaan Surah al-Anbiyā’ dan ditegaskan bahwa manusia selalu lalai dan lupa terhadap perbuatan-perbuatan yang harus dilaksanakannya sebagai bekal menghadapi hari Kiamat dan berhisab di akhirat nanti.</p>
 " WHERE id = 20;
-UPDATE quran_surah SET surahInfo = "<p>Surah al-Anbiyā’ terdiri atas 112 ayat, termasuk golongan Surah-surah Makkiyyah.</p>
+UPDATE quran_surah SET idnSurahInfo = "<p>Surah al-Anbiyā’ terdiri atas 112 ayat, termasuk golongan Surah-surah Makkiyyah.</p>
 <p>Surah ini dinamai dengan “al-Anbiyā’” (Nabi-nabi), karena Surah ini mengutarakan kisah beberapa orang nabi. Permulaan Surah al-Anbiyā’ menegaskan bahwa manusia lalai dalam menghadapi hari berhisab, kemudian berhubung adanya pengingkaran kaum musyrik Mekah terhadap wahyu yang dibawa oleh Nabi Muhammad, maka Allah menegaskan bahwa nabi-nabi itu manusia biasa, tetapi masing-masing mereka adalah manusia yang membawa wahyu yang berisi pokok ajaran tauhid, dan keharusan manusia menyembah Allah Penciptanya. Orang yang tidak mau mengakui kekuasaan Allah dan mengingkari ajaran yang dibawa oleh para nabi akan diazab di dunia dan di akhirat. Kemudian dikemukakan kisah beberapa orang nabi dengan umatnya. Akhirnya Surah ini ditutup dengan seruan agar kaum musyrik Mekah percaya kepada ajaran yang dibawa oleh Nabi Muhammad, supaya tidak mengalami apa yang telah dialami oleh umat-umat yang kafir kepada para nabinya dahulu.</p>
 <p>POKOK-POKOK ISINYA</p>
 <ol>
@@ -798,7 +798,7 @@ UPDATE quran_surah SET surahInfo = "<p>Surah al-Anbiyā’ terdiri atas 112 ayat
 <li>Surah al-Anbiyā’ menerangkan kisah nabi-nabi, dan dalil-dalil yang dipaparkan kepada kaumnya tentang kebenaran agama yang dibawanya, sedang Surah al-Ḥajj menuntut agar manusia memperhatikan aneka ragam ciptaan Allah dan pengaturannya, untuk memperkuat kepercayaan kepada kebenaran agama Allah.</li>
 </ol>
 " WHERE id = 21;
-UPDATE quran_surah SET surahInfo = "<p>Surah al-Ḥajj termasuk surah-surah Madaniyah, terdiri atas 78 ayat, menurut pendapat sebagian mufasir, surah ini termasuk golongan surah-surah Makiyah. Sebab perbedaan pendapat ini ialah karena sebagian ayat-ayat surah ini, ada yang diturunkan di Mekah dan sebagian lagi ada yang diturunkan di Medinah.</p>
+UPDATE quran_surah SET idnSurahInfo = "<p>Surah al-Ḥajj termasuk surah-surah Madaniyah, terdiri atas 78 ayat, menurut pendapat sebagian mufasir, surah ini termasuk golongan surah-surah Makiyah. Sebab perbedaan pendapat ini ialah karena sebagian ayat-ayat surah ini, ada yang diturunkan di Mekah dan sebagian lagi ada yang diturunkan di Medinah.</p>
 <p>Surah ini dinamai “al-Ḥajj”, karena mengemukakan hal-hal yang berhubungan dengan ibadah haji, seperti ihram, tawaf, sa’i, wuquf di Arafah, mencukur rambut serta menerangkan tentang syiar-syiar Allah, faedah-faedah dan hikmah-hikmah disyariatkan haji, dan sebagainya. Ditegaskan pula bahwa ibadah haji itu telah disyariatkan semenjak masa Nabi Nuh as dan Ka’bah didirikan kembali oleh Nabi Ibrahim as bersama putranya Ismail as.</p>
 <p>Menurut al-Gaznawi, Surah al-Ḥajj termasuk surah-surah yang ajaib; diturunkan di malam hari dan di siang hari, ketika musafir dan dalam keadaan tidak musafir, ada ayat-ayat yang diturunkan di Mekah, dan ada pula ayat-ayat yang diturunkan di Medinah, isinya ada yang berhubungan dengan peperangan dan ada pula yang berhubungan dengan perdamaian, ada ayat-ayat yang muḥkamāt dan ada pula ayat-ayat yang mutasyābihāt:</p>
 <p>POKOK-POKOK ISINYA</p>
@@ -830,7 +830,7 @@ UPDATE quran_surah SET surahInfo = "<p>Surah al-Ḥajj termasuk surah-surah Mada
 <li>Sama-sama mengemukakan bukti-bukti adanya Allah dan Keesaan-Nya.</li>
 </ol>
 " WHERE id = 22;
-UPDATE quran_surah SET surahInfo = "<p>Surah al-Mu’minūn terdiri dari 118 ayat, termasuk kelompok surah-surah Makiyah. Dinamai “al-Mu’minūn”, karena permulaan surah ini menerangkan bagaimana seharusnya sifat-sifat orang mukmin yang menyebabkan keberuntungan di akhirat dan ketenteraman jiwa mereka di dunia. Demikian tingginya sifat-sifat itu, hingga ia telah menjadi akhlak bagi Nabi Muhammad.</p>
+UPDATE quran_surah SET idnSurahInfo = "<p>Surah al-Mu’minūn terdiri dari 118 ayat, termasuk kelompok surah-surah Makiyah. Dinamai “al-Mu’minūn”, karena permulaan surah ini menerangkan bagaimana seharusnya sifat-sifat orang mukmin yang menyebabkan keberuntungan di akhirat dan ketenteraman jiwa mereka di dunia. Demikian tingginya sifat-sifat itu, hingga ia telah menjadi akhlak bagi Nabi Muhammad.</p>
 <p>POKOK-POKOK ISINYA</p>
 <ol>
 <li>Keimanan:</li>
@@ -859,7 +859,7 @@ UPDATE quran_surah SET surahInfo = "<p>Surah al-Mu’minūn terdiri dari 118 aya
 <li>Pada Surah al-Mu’minūn dijelaskan bahwa di balik penciptaan alam ini pasti ada hikmahnya, yaitu agar semua makhluk yang diciptakan itu melaksanakan perintah dan larangan-Nya, sedang Surah an-Nūr menyebutkan sejumlah perintah-perintah dan larangan-larangan itu.</li>
 </ol>
 " WHERE id = 23;
-UPDATE quran_surah SET surahInfo = "<p>Surah an-Nūr terdiri atas 64 ayat, dan termasuk golongan surah-surah Madaniyah. Dinamai “An-Nūr” yang berarti “Cahaya”, diambil dari kata an-nūr yang terdapat pada ayat 35. Dalam ayat ini, Allah menjelaskan tentang nur Ilahi, petunjuk-petunjuk Allah itu merupakan cahaya yang terang benderang yang menerangi alam semesta. Surah ini sebagian besar isinya memuat petunjuk-petunjuk Allah yang berhubungan dengan soal kemasyarakatan dan rumah tangga.</p>
+UPDATE quran_surah SET idnSurahInfo = "<p>Surah an-Nūr terdiri atas 64 ayat, dan termasuk golongan surah-surah Madaniyah. Dinamai “An-Nūr” yang berarti “Cahaya”, diambil dari kata an-nūr yang terdapat pada ayat 35. Dalam ayat ini, Allah menjelaskan tentang nur Ilahi, petunjuk-petunjuk Allah itu merupakan cahaya yang terang benderang yang menerangi alam semesta. Surah ini sebagian besar isinya memuat petunjuk-petunjuk Allah yang berhubungan dengan soal kemasyarakatan dan rumah tangga.</p>
 <p>POKOK-POKOK ISINYA</p>
 <ol>
 <li>Keimanan:</li>
@@ -887,7 +887,7 @@ UPDATE quran_surah SET surahInfo = "<p>Surah an-Nūr terdiri atas 64 ayat, dan t
 <li>Dalam kedua surah ini Allah menjelaskan bahwa amal usaha orang-orang kafir pada hari Kiamat tidak diberi pahala barang sedikit pun, dan kedua surah itu menerangkan pula asal mula kejadian manusia.</li>
 </ol>
 " WHERE id = 24;
-UPDATE quran_surah SET surahInfo = "<p>Surah ini terdiri atas 77 ayat, termasuk golongan Surah-surah Makkiyah. Dinamakan “al-Furqān” yang artinya “Pembeda” diambil dari kata “al Furqān” yang terdapat pada ayat pertama dalam Surah ini. Yang dimaksud dengan al-Furqān dalam ayat ini adalah Al-Qur’an. Al-Qur’an dinamai al- Furqān karena dialah pembeda antara yang hak dan yang batil. Maka pada surah ini pun terdapat ayat-ayat yang membedakan antara kebenaran, Keesaan Allah dengan kebatilan dan syirik.</p>
+UPDATE quran_surah SET idnSurahInfo = "<p>Surah ini terdiri atas 77 ayat, termasuk golongan Surah-surah Makkiyah. Dinamakan “al-Furqān” yang artinya “Pembeda” diambil dari kata “al Furqān” yang terdapat pada ayat pertama dalam Surah ini. Yang dimaksud dengan al-Furqān dalam ayat ini adalah Al-Qur’an. Al-Qur’an dinamai al- Furqān karena dialah pembeda antara yang hak dan yang batil. Maka pada surah ini pun terdapat ayat-ayat yang membedakan antara kebenaran, Keesaan Allah dengan kebatilan dan syirik.</p>
 <p>POKOK-POKOK ISINYA</p>
 <ol>
 <li>Keimanan:</li>
@@ -915,7 +915,7 @@ UPDATE quran_surah SET surahInfo = "<p>Surah ini terdiri atas 77 ayat, termasuk 
 <li>Masing-masing dari kedua surah itu dimulai dengan keterangan dari Allah bahwa Al-Qur’an adalah petunjuk bagi manusia dan pembeda antara yang hak dengan yang batil dan ditutup dengan ancaman bagi orang yang mendustakan Allah.</li>
 </ol>
 " WHERE id = 25;
-UPDATE quran_surah SET surahInfo = "<p>Surah ini terdiri dari 227 ayat, termasuk kelompok surah-surah Makkiyyah. Dinamakan asy-Syu’arā’ (kata jamak dari asy-syā’ir yang berarti penyair) diambil dari kata “asy-Syu’arā’” yang terdapat pada ayat 224, yaitu pada bagian terakhir surah ini, ketika Allah swt secara khusus menyebutkan kedudukan penyair-penyair. Para penyair itu mempunyai sifat-sifat yang jauh berbeda dengan rasul-rasul. Mereka diikuti oleh orang-orang yang sesat dan suka memutarbalikkan lidah serta tidak mempunyai pendirian, per-buatannya tidak sesuai dengan apa yang diucapkan. Sifat-sifat yang demikian itu tidaklah sekali-kali dimiliki para rasul. Oleh karena itu, tidak patut bila Nabi Muhammad dituduh sebagai penyair dan Al-Qur’an dianggap sebagai syair. Al-Qur’an adalah wahyu Allah bukan buatan manusia.</p>
+UPDATE quran_surah SET idnSurahInfo = "<p>Surah ini terdiri dari 227 ayat, termasuk kelompok surah-surah Makkiyyah. Dinamakan asy-Syu’arā’ (kata jamak dari asy-syā’ir yang berarti penyair) diambil dari kata “asy-Syu’arā’” yang terdapat pada ayat 224, yaitu pada bagian terakhir surah ini, ketika Allah swt secara khusus menyebutkan kedudukan penyair-penyair. Para penyair itu mempunyai sifat-sifat yang jauh berbeda dengan rasul-rasul. Mereka diikuti oleh orang-orang yang sesat dan suka memutarbalikkan lidah serta tidak mempunyai pendirian, per-buatannya tidak sesuai dengan apa yang diucapkan. Sifat-sifat yang demikian itu tidaklah sekali-kali dimiliki para rasul. Oleh karena itu, tidak patut bila Nabi Muhammad dituduh sebagai penyair dan Al-Qur’an dianggap sebagai syair. Al-Qur’an adalah wahyu Allah bukan buatan manusia.</p>
 <p>Pokok-pokok Isinya:</p>
 <ol>
 <li>Keimanan:</li>
@@ -950,7 +950,7 @@ UPDATE quran_surah SET surahInfo = "<p>Surah ini terdiri dari 227 ayat, termasuk
 <li>Kedua surah ini sama-sama menghibur hati Nabi Muhammad saw yang mengalami bermacam-macam penderitaan dan permusuhan dari kaumnya.</li>
 </ol>
 " WHERE id = 26;
-UPDATE quran_surah SET surahInfo = "<p>Surah an-Naml terdiri dari 93 ayat, termasuk kelompok surah Makkiyyah dan diturunkan sesudah surah asy-Syu’arā’. Dinamai dengan an-Naml karena pada ayat 18 dan 19 terdapat perkataan an-naml (semut), di mana raja semut mengatakan kepada anak buahnya, agar masuk ke sarangnya masing-masing supaya jangan terinjak oleh Nabi Sulaiman dan tentaranya yang akan melalui tempat itu. Mendengar perintah raja semut kepada anak buahnya, Nabi Sulaiman tersenyum dan takjub atas keteraturan, keharmonisan, dan kedisiplinan kerajaan semut itu. Beliau mengucapkan syukur kepada Allah Yang Mahakuasa yang telah melimpahkan rahmat dan nikmat-Nya kepadanya berupa kerajaan, kekayaan, memahami ucapan-ucapan binatang, mempunyai tentara yang terdiri atas jin, manusia, dan burung, serta berbagai karunia lainnya. Nabi Sulaiman yang telah diberi Allah hikmah yang besar itu tidak merasa takabur dan sombong, sebagai seorang hamba Allah, mohon agar Allah memasukkannya ke dalam kelompok orang-orang yang saleh.</p>
+UPDATE quran_surah SET idnSurahInfo = "<p>Surah an-Naml terdiri dari 93 ayat, termasuk kelompok surah Makkiyyah dan diturunkan sesudah surah asy-Syu’arā’. Dinamai dengan an-Naml karena pada ayat 18 dan 19 terdapat perkataan an-naml (semut), di mana raja semut mengatakan kepada anak buahnya, agar masuk ke sarangnya masing-masing supaya jangan terinjak oleh Nabi Sulaiman dan tentaranya yang akan melalui tempat itu. Mendengar perintah raja semut kepada anak buahnya, Nabi Sulaiman tersenyum dan takjub atas keteraturan, keharmonisan, dan kedisiplinan kerajaan semut itu. Beliau mengucapkan syukur kepada Allah Yang Mahakuasa yang telah melimpahkan rahmat dan nikmat-Nya kepadanya berupa kerajaan, kekayaan, memahami ucapan-ucapan binatang, mempunyai tentara yang terdiri atas jin, manusia, dan burung, serta berbagai karunia lainnya. Nabi Sulaiman yang telah diberi Allah hikmah yang besar itu tidak merasa takabur dan sombong, sebagai seorang hamba Allah, mohon agar Allah memasukkannya ke dalam kelompok orang-orang yang saleh.</p>
 <p>Allah menceritakan tentang semut dalam surah ini, agar manusia mengambil pelajaran dari kehidupannya. Semut adalah binatang yang hidup berkelompok di dalam tanah, membuat liang dan ruang yang bertingkat-tingkat sebagai rumah dan gudang tempat menyimpan makanan sebagai persiapan menghadapi musim dingin. Rakyat semut mempunyai organisasi dan kerja sama yang baik. Kerapian dan kedisiplinan yang terdapat dalam kerajaan semut ini, dinyatakan Allah dalam ayat ini dengan menerangkan bagaimana rakyat semut mencari perlindungan dengan segera agar jangan terinjak oleh Nabi Sulaiman dan tentaranya, setelah menerima peringatan dari rajanya.</p>
 <p>Secara tidak langsung, Allah mengingatkan manusia agar berusaha untuk mencukupi kebutuhan sehari-hari, kemaslahatan bersama, dan sebagainya. Dengan mengisahkan Nabi Sulaiman dalam surah ini, Allah mengisyaratkan hari depan dan kebesaran Nabi Muhammad. Sebagaimana Nabi Sulaiman sebagai seorang nabi, rasul, dan raja yang dianugerahi kerajaan yang besar, begitu pula Nabi Muhammad sebagai seorang nabi, rasul, dan kepala negara yang ummi dan miskin akan berhasil membawa dan memimpin umatnya ke jalan Allah.</p>
 <p>Pokok-pokok Isinya</p>
@@ -1001,7 +1001,7 @@ UPDATE quran_surah SET surahInfo = "<p>Surah an-Naml terdiri dari 93 ayat, terma
 <li>Bagian akhir kedua surah ini masing-masing menyebutkan perintah menyembah Allah dan membaca ayat-ayat Al-Qur’an.</li>
 </ol>
 " WHERE id = 27;
-UPDATE quran_surah SET surahInfo = "<p>Surah al-Qaṣaṣ terdiri dari 88 ayat dan termasuk surah-surah Makkiyyah. Dinamai dengan “al-Qaṣaṣ” karena pada ayat 25 surah ini terdapat kata “al-qaṣaṣ” yang berarti kisah-kisah. Ayat ini menerangkan bahwa setelah Nabi Musa bertemu dengan seorang tokoh Madyan, ia menceritakan pengalaman-nya dengan Fir‘aun, dan ketika dikejar dan diburu oleh kaum Fir‘aun karena membunuh salah seorang dari bangsa Qibṭi tanpa sengaja. Tokoh tersebut mengatakan bahwa Musa telah selamat dari pengejaran orang-orang zalim itu.</p>
+UPDATE quran_surah SET idnSurahInfo = "<p>Surah al-Qaṣaṣ terdiri dari 88 ayat dan termasuk surah-surah Makkiyyah. Dinamai dengan “al-Qaṣaṣ” karena pada ayat 25 surah ini terdapat kata “al-qaṣaṣ” yang berarti kisah-kisah. Ayat ini menerangkan bahwa setelah Nabi Musa bertemu dengan seorang tokoh Madyan, ia menceritakan pengalaman-nya dengan Fir‘aun, dan ketika dikejar dan diburu oleh kaum Fir‘aun karena membunuh salah seorang dari bangsa Qibṭi tanpa sengaja. Tokoh tersebut mengatakan bahwa Musa telah selamat dari pengejaran orang-orang zalim itu.</p>
 <p>Turunnya ayat 25 pada surah ini amat besar artinya bagi Nabi Muhammad dan para sahabatnya untuk melakukan hijrah ke Madinah dan menambah keyakinan mereka bahwa akhirnya orang-orang Islamlah yang akan menang. Ayat ini menunjukkan barang siapa yang berhijrah dari tempat musuh untuk mempertahankan keimanan, pastilah akan berhasil dalam perjuangannya menghadapi musuh-musuh agama. Kepastian kemenangan bagi kaum Muslimin itu ditegaskan pada bagian akhir surah ini yang menerangkan bahwa setelah hijrah ke Madinah, kaum Muslimin akan kembali ke Mekah sebagai pemenang dalam menegakkan agama Allah. Surah al-Qaṣaṣ ini adalah surah yang paling lengkap memuat cerita Nabi Musa sehingga menurut suatu riwayat, surah ini dinamai pula dengan Surah Musa.</p>
 <p>Pokok-pokok Isinya</p>
 <ol>
@@ -1033,7 +1033,7 @@ UPDATE quran_surah SET surahInfo = "<p>Surah al-Qaṣaṣ terdiri dari 88 ayat d
 <li>Kedua surah ini sama-sama menerangkan kisah Fir‘aun dan Karun, serta akibat perbuatan keduanya. Kedua surah ini sama-sama menyinggung soal hijrah Nabi Muhammad.</li>
 </ol>
 " WHERE id = 28;
-UPDATE quran_surah SET surahInfo = "<p>Surah al-’Ankabūt terdiri dari 69 ayat, termasuk kelompok surah-surah Makkiyyah. Dinamai “al-’Ankabūt” karena terdapat kata al-’Ankabūt yang berarti “laba-laba” pada ayat 41 surah ini.</p>
+UPDATE quran_surah SET idnSurahInfo = "<p>Surah al-’Ankabūt terdiri dari 69 ayat, termasuk kelompok surah-surah Makkiyyah. Dinamai “al-’Ankabūt” karena terdapat kata al-’Ankabūt yang berarti “laba-laba” pada ayat 41 surah ini.</p>
 <p>Allah mengumpamakan penyembah-penyembah berhala dengan laba-laba yang percaya kepada kekuatan rumahnya sebagai tempat berlindung dan menjerat mangsanya, padahal kalau diembus angin atau ditimpa oleh sesuatu barang yang kecil saja, rumah itu akan hancur. Begitu pula halnya dengan kaum musyrikin yang percaya kepada kekuatan sembahan-sembahan mereka sebagai tempat berlindung dan tempat meminta sesuatu yang mereka inginkan. Sembahan-sembahan itu tidak mampu sedikit juga menolong mereka dari azab Allah di dunia, seperti yang terjadi pada kaum Nuh, kaum Ibrahim, kaum Lut, kaum Syuaib, kaum Saleh, dan lain-lain. Apalagi menghadapi azab Allah di akhirat nanti, sembahan-sembahan itu lebih tidak mampu menghindarkan dan melindungi mereka.</p>
 <p>POKOK-POKOK ISINYA</p>
 <ol>
@@ -1067,7 +1067,7 @@ UPDATE quran_surah SET surahInfo = "<p>Surah al-’Ankabūt terdiri dari 69 ayat
 <li>Surah al-‘Ankabūt menyebutkan bahwa kewajiban rasul-rasul adalah menyampaikan agama Allah, sedang Surah ar-Rūm menyebutkan bahwa rasul-rasul-Nya tidak dapat memberi taufik dan hidayah untuk menjadikan seseorang menerima apa yang disampaikannya, hanya Allah-lah yang dapat berbuat demikian.</li>
 </ol>
 " WHERE id = 29;
-UPDATE quran_surah SET surahInfo = "<p>Surah ar-Rūm yang terdiri dari 60 ayat, termasuk golongan surah-surah Makkiyyah dan diturunkan sesudah Surah al-Insyiqāq.</p>
+UPDATE quran_surah SET idnSurahInfo = "<p>Surah ar-Rūm yang terdiri dari 60 ayat, termasuk golongan surah-surah Makkiyyah dan diturunkan sesudah Surah al-Insyiqāq.</p>
 <p>Surah ini dinamakan ar-Rūm karena pada permulaan surah ini, yaitu ayat 2, 3, dan 4 terdapat berita tentang bangsa Romawi yang pada mulanya dikalahkan oleh bangsa Persia, tetapi beberapa tahun kemudian mereka dapat menuntut balas dan mengalahkan kerajaan Persia kembali.</p>
 <p>Ini adalah salah satu dari mukjizat Al-Qur’an, yaitu memberitakan hal-hal yang akan terjadi di masa yang akan datang. Ia juga mengisyaratkan bahwa kaum Muslimin yang demikian lemah pada waktu itu akan menang dan menghancurkan kaum musyrik. Isyarat ini terbukti pada perang Badar.</p>
 <p>Pokok-pokok Isinya:</p>
@@ -1103,7 +1103,7 @@ UPDATE quran_surah SET surahInfo = "<p>Surah ar-Rūm yang terdiri dari 60 ayat, 
 <li>Kedua surah juga menyatakan bahwa Kiamat pasti, dan janji Allah, baik bagi mereka yang beriman maupun bagi mereka yang kafir, juga pasti. Di akhir Surah ar-Rūm, Nabi saw diminta tabah menghadapi mereka yang tidak percaya, dan di akhir Surah Luqmān, manusia dihimbau agar mempersiapkan diri menghadapi Kiamat itu.</li>
 </ol>
 " WHERE id = 30;
-UPDATE quran_surah SET surahInfo = "<p>Surah Luqmān terdiri dari 34 ayat, turun di Mekah setelah Surah aṣ-Ṣāffāt. Surah ini dinamai Surah Luqmān karena di dalamnya terdapat kisah Luqmān menasihati anaknya. Di dalam kisah itu terkandung pelajaran, yaitu agar setiap orang tua mendidik anak-anaknya agama dan akhlak yang baik.</p>
+UPDATE quran_surah SET idnSurahInfo = "<p>Surah Luqmān terdiri dari 34 ayat, turun di Mekah setelah Surah aṣ-Ṣāffāt. Surah ini dinamai Surah Luqmān karena di dalamnya terdapat kisah Luqmān menasihati anaknya. Di dalam kisah itu terkandung pelajaran, yaitu agar setiap orang tua mendidik anak-anaknya agama dan akhlak yang baik.</p>
 <p>Pokok-pokok Isinya:</p>
 <ol>
 <li>Keimanan:</li>
@@ -1134,7 +1134,7 @@ UPDATE quran_surah SET surahInfo = "<p>Surah Luqmān terdiri dari 34 ayat, turun
 <li>Dalam Surah Luqmān ayat 34 disebutkan bahwa ada lima hal yang gaib yang hanya diketahui Allah, sedang dalam Surah as-Sajdah, Allah menerangkan dengan rinci hal-hal yang berhubungan dengan yang gaib itu (lihat ayat 5 sampai dengan 11 dan 27 Surah as-Sajdah).</li>
 </ol>
 " WHERE id = 31;
-UPDATE quran_surah SET surahInfo = "<p>Surah as-Sajdah terdiri dari 30 ayat, termasuk kelompok surah-surah Makkiyah, diturunkan sesudah surah Al-Mu’minūn.</p>
+UPDATE quran_surah SET idnSurahInfo = "<p>Surah as-Sajdah terdiri dari 30 ayat, termasuk kelompok surah-surah Makkiyah, diturunkan sesudah surah Al-Mu’minūn.</p>
 <p>Dinamakan “As-Sajdah” berhubung pada surah ini terdapat ayat sajdah, yaitu pada ayat yang kelima belas.</p>
 <p>Pokok-pokok Isinya:</p>
 <ol>
@@ -1154,7 +1154,7 @@ UPDATE quran_surah SET surahInfo = "<p>Surah as-Sajdah terdiri dari 30 ayat, ter
 <p>DENGAN SURAH AL-AḤZĀB</p>
 <p>Dalam Surah as-Sajdah diterangkan beberapa hal, yaitu Nabi Muhammad adalah benar-benar seorang rasul, anjuran salat malam, dan Allah adalah Penguasa alam semesta. Adapun Surah al-Aḥzāb dimulai dengan perintah Nabi Muhammad supaya orang-orang mukmin tetap bertakwa, mengikuti Al-Qur’an, dan hanya Allah-lah yang menolong mereka.</p>
 " WHERE id = 32;
-UPDATE quran_surah SET surahInfo = "<p>Surah al-Aḥzāb terdiri dari 73 ayat, termasuk golongan surah-surah Madaniyah, diturunkan sesudah surah Āli ‘Imrān.</p>
+UPDATE quran_surah SET idnSurahInfo = "<p>Surah al-Aḥzāb terdiri dari 73 ayat, termasuk golongan surah-surah Madaniyah, diturunkan sesudah surah Āli ‘Imrān.</p>
 <p>Dinamai “Al-Aḥzāb” yang berarti “golongan-golongan yang bersekutu”, karena dalam surah ini terdapat beberapa ayat, yaitu ayat 9 sampai dengan 27 yang berhubungan dengan Perang Ahzab, yaitu peperangan yang dilancarkan oleh orang-orang Yahudi, kaum munafik, dan orang-orang musyrik Mekah terhadap orang-orang mukmin di Medinah. Mereka telah mengepung rapat orang mukmin, sehingga sebagian dari mereka telah berputus asa dan menyangka bahwa mereka akan dihancurkan oleh musuh-musuh mereka.</p>
 <p>Peperangan ini merupakan ujian berat dari Allah terhadap orang-orang mukmin untuk menguji keteguhan iman mereka. Akhirnya Allah memberi-kan bala bantuan berupa tentara yang tidak kelihatan dan angin topan, sehingga musuh-musuh yang telah mengepung rapat itu menjadi kacau balau dan melarikan diri.</p>
 <p>Pokok-pokok Isinya:</p>
@@ -1184,7 +1184,7 @@ UPDATE quran_surah SET surahInfo = "<p>Surah al-Aḥzāb terdiri dari 73 ayat, t
 <li>Pada Surah al-Aḥzāb diceritakan bahwa orang-orang kafir menanyakan kapan terjadinya hari Kiamat dengan maksud memperolok-olokkan Nabi Muhammad, sedang pada Surah Saba’ diceritakan pula bahwa orang kafir itu menjadikan berita hari Kiamat bukan saja sebagai olok-olokan, tetapi dengan angkuh mengingkarinya dan mencela orang-orang yang percaya kepada hari Kiamat itu.</li>
 </ol>
 " WHERE id = 33;
-UPDATE quran_surah SET surahInfo = "<p>Surah Saba’ terdiri atas 54 ayat, termasuk golongan surah-surah Makkiyyah, diturunkan sesudah Surah Luqmān. Dinamakan Surah Saba’ karena di dalamnya terdapat kisah kaum Saba’.</p>
+UPDATE quran_surah SET idnSurahInfo = "<p>Surah Saba’ terdiri atas 54 ayat, termasuk golongan surah-surah Makkiyyah, diturunkan sesudah Surah Luqmān. Dinamakan Surah Saba’ karena di dalamnya terdapat kisah kaum Saba’.</p>
 <p>Saba’ adalah nama suatu kabilah dari kabilah-kabilah Arab yang tinggal di daerah Yaman sekarang ini. Mereka mendirikan kerajaan yang terkenal dengan nama kerajaan Sabaiyah, ibu kotanya Ma’rib. Mereka telah dapat membangun suatu bendungan raksasa yang bernama Bendungan Ma’rib, sehingga negeri mereka menjadi subur dan makmur. Kemewahan dan kemakmuran menyebabkan kaum Saba’ lupa dan ingkar kepada Allah yang telah melimpahkan nikmat dan karunia-Nya kepada mereka. Mereka mengingkari pula seruan para rasul yang diutus Allah. Karena keingkaran ini, Allah menimpakan kepada mereka azab berupa sailul ‘arim (banjir besar) yang ditimbulkan oleh bobolnya Bendungan Ma’rib. Setelah itu, negeri Saba’ menjadi kering dan tandus, dan kerajaan mereka pun hancur.</p>
 <p>Pokok-pokok Isinya:</p>
 <ol>
@@ -1232,7 +1232,7 @@ UPDATE quran_surah SET surahInfo = "<p>Surah Saba’ terdiri atas 54 ayat, terma
 <li>Kedua surah meminta agar Nabi Muhammad tidak goyah dalam menghadapi kekafiran manusia. Dalam Surah Saba’, kekafiran itu dilatarbelakangi kesombongan dan kebanggaan terhadap nenek moyang. Dalam Surah Fāṭir, kekafiran itu karena rayuan setan.</li>
 </ol>
 " WHERE id = 34;
-UPDATE quran_surah SET surahInfo = "<p>Surah Fāṭir terdiri atas 45 ayat, termasuk surah Makkiyyah, diturunkan sesudah Surah al-Furqān, dan merupakan surah terakhir dari urutan surah-surah yang dimulai dengan al-ḥamdulillāh. Dinamakan Fāṭir karena terdapat kata fāṭir pada ayat pertama surah ini, yang artinya adalah “Pencipta”. Dalam ayat itu diterangkan bahwa Allah adalah pencipta alam semesta, termasuk manusia dan malaikat. Surah ini dinamai juga “Surah Malaikat”, karena pada ayat ini disebutkan bahwa Allah telah menjadikan malaikat-malaikat sebagai utusan-Nya kepada manusia.</p>
+UPDATE quran_surah SET idnSurahInfo = "<p>Surah Fāṭir terdiri atas 45 ayat, termasuk surah Makkiyyah, diturunkan sesudah Surah al-Furqān, dan merupakan surah terakhir dari urutan surah-surah yang dimulai dengan al-ḥamdulillāh. Dinamakan Fāṭir karena terdapat kata fāṭir pada ayat pertama surah ini, yang artinya adalah “Pencipta”. Dalam ayat itu diterangkan bahwa Allah adalah pencipta alam semesta, termasuk manusia dan malaikat. Surah ini dinamai juga “Surah Malaikat”, karena pada ayat ini disebutkan bahwa Allah telah menjadikan malaikat-malaikat sebagai utusan-Nya kepada manusia.</p>
 <p>Pokok-pokok Isinya</p>
 <ol>
 <li>Keimanan:</li>
@@ -1256,7 +1256,7 @@ UPDATE quran_surah SET surahInfo = "<p>Surah Fāṭir terdiri atas 45 ayat, term
 <li>Pada Surah Fāṭir disebutkan bahwa Allah menundukkan matahari dan bulan, masing-masing beredar menurut waktu tertentu, sedang pada Surah Yāsīn disebutkan bahwa matahari beredar pada garis edar yang telah ditetapkan Allah, dan bulan mempunyai garis edar yang telah ditentukan pula.</li>
 </ol>
 " WHERE id = 35;
-UPDATE quran_surah SET surahInfo = "<p>Surah Yāsīn terdiri dari 83 ayat, termasuk kelompok surah-surah Makkiyyah, diturunkan sesudah Surah al-Jinn. Dinamakan Yāsīn karena dimulai dengan huruf Yā Sīn. Sebagaimana halnya arti huruf-huruf abjad yang terletak pada permulaan beberapa surah Al-Qur’an, demikian pula arti Yā Sīn yang terdapat pada ayat permulaan surah ini, yaitu Allah mengisyaratkan bahwa sesudah huruf tersebut akan dikemukakan hal-hal yang penting, antara lain Allah bersumpah dengan Al-Qur’an bahwa Muhammad saw benar-benar seorang rasul yang diutus-Nya kepada kaum yang belum pernah diutus kepada mereka rasul-rasul.</p>
+UPDATE quran_surah SET idnSurahInfo = "<p>Surah Yāsīn terdiri dari 83 ayat, termasuk kelompok surah-surah Makkiyyah, diturunkan sesudah Surah al-Jinn. Dinamakan Yāsīn karena dimulai dengan huruf Yā Sīn. Sebagaimana halnya arti huruf-huruf abjad yang terletak pada permulaan beberapa surah Al-Qur’an, demikian pula arti Yā Sīn yang terdapat pada ayat permulaan surah ini, yaitu Allah mengisyaratkan bahwa sesudah huruf tersebut akan dikemukakan hal-hal yang penting, antara lain Allah bersumpah dengan Al-Qur’an bahwa Muhammad saw benar-benar seorang rasul yang diutus-Nya kepada kaum yang belum pernah diutus kepada mereka rasul-rasul.</p>
 <p>Pokok-pokok Isinya:</p>
 <ol>
 <li>Keimanan:</li>
@@ -1283,7 +1283,7 @@ UPDATE quran_surah SET surahInfo = "<p>Surah Yāsīn terdiri dari 83 ayat, terma
 <li>Pada Surah Yāsīn disebutkan tentang kekuasaan Allah membangkitkan manusia dan menghidupkannya kembali, karena Dialah yang menciptakan mereka dan Dialah yang menghendakinya demikian, sedang Surah aṣ-Ṣāffāt menjelaskan lebih luas dengan mengemukakan contoh-contoh yang berhubungan dengan itu.</li>
 </ol>
 " WHERE id = 36;
-UPDATE quran_surah SET surahInfo = "<p>Surah ini merupakan surah ke-37 dalam Al-Qur’an dan termasuk dalam kelompok surah-surah Makkiyyah, diturunkan sesudah Surah al-An‘ām. Ia terdiri dari 182 ayat.</p>
+UPDATE quran_surah SET idnSurahInfo = "<p>Surah ini merupakan surah ke-37 dalam Al-Qur’an dan termasuk dalam kelompok surah-surah Makkiyyah, diturunkan sesudah Surah al-An‘ām. Ia terdiri dari 182 ayat.</p>
 <p>Nama surah ini diambil dari kata-kata “aṣ-Ṣāffāt” yang terdapat pada ayat yang pertama, aṣ-Ṣāffāt berarti “yang berbaris-baris”.</p>
 <p>Pada permulaan surah ini diterangkan keadaan malaikat yang berbaris-baris dengan jiwa yang bersih di hadapan Tuhan, tidak dapat digoda oleh iblis dan setan.</p>
 <p>Ini semua dikemukakan untuk menjadi pelajaran dan kaca perbandingan tentang ketaatan dan penghambaan diri yang tulus ikhlas kepada Allah swt.</p>
@@ -1318,7 +1318,7 @@ UPDATE quran_surah SET surahInfo = "<p>Surah ini merupakan surah ke-37 dalam Al-
 <li>Gambaran kehidupan di dalam surga dan neraka yang sangat hidup. Di dalam Surah aṣ-Ṣāffāt dilukiskan bagaimana penghuni-penghuni neraka itu saling menyalahkan tetapi itu tidak ada gunanya. Dalam Surah Ṣād penghuni neraka itu mencari orang yang menjerumuskan mereka tetapi tidak mereka temukan.</li>
 </ol>
 " WHERE id = 37;
-UPDATE quran_surah SET surahInfo = "<p>Surah Ṣād terdiri dari 88 ayat, termasuk surah Makkiyyah, diturunkan sesudah Surah al-Qamar dan sebelum Surah al-A‘rāf. Surah ini dinamakan Surah Ṣād karena dimulai dengan huruf “Ṣād”.</p>
+UPDATE quran_surah SET idnSurahInfo = "<p>Surah Ṣād terdiri dari 88 ayat, termasuk surah Makkiyyah, diturunkan sesudah Surah al-Qamar dan sebelum Surah al-A‘rāf. Surah ini dinamakan Surah Ṣād karena dimulai dengan huruf “Ṣād”.</p>
 <p>Pokok-pokok Isinya</p>
 <ol>
 <li>Keimanan:</li>
@@ -1353,7 +1353,7 @@ UPDATE quran_surah SET surahInfo = "<p>Surah Ṣād terdiri dari 88 ayat, termas
 <li>Kalau kita perhatikan seakan-akan Surah az-Zumar merupakan lanjutan dari Surah Ṣād, karena pada akhir Surah Ṣād diterangkan penciptaan Adam. Kemudian pada Surah az-Zumar diterangkan Allah menciptakan manusia semuanya dan menerangkan kesudahan nasib manusia yaitu semua manusia akan mati, kemudian dibangkitkan kembali dan dihisab, akhirnya orang yang bertakwa dimasukkan ke dalam surga, dan orang yang kafir dimasukkan ke dalam neraka.</li>
 </ol>
 " WHERE id = 38;
-UPDATE quran_surah SET surahInfo = "<p>Surah az-Zumar terdiri dari 75 ayat, termasuk kelompok surah-surah Makkiyyah diturunkan sesudah Surah Saba’.</p>
+UPDATE quran_surah SET idnSurahInfo = "<p>Surah az-Zumar terdiri dari 75 ayat, termasuk kelompok surah-surah Makkiyyah diturunkan sesudah Surah Saba’.</p>
 <p>Dinamakan “az-Zumar” karena kata “az-zumar” terdapat pada ayat 71 dan 73 surah itu.</p>
 <p>Dalam ayat-ayat tersebut diterangkan keadaan manusia di hari Kiamat setelah mereka dihisab, di waktu itu mereka terbagi menjadi dua kelompok: satu kelompok dibawa ke neraka dan satu kelompok lagi dibawa ke surga. Masing-masing rombongan memperoleh balasan dari apa yang mereka kerjakan di dunia dahulu.</p>
 <p>Surah ini dinamakan juga “al-Guraf” (kamar-kamar) sehubungan dengan perkataan “guraf” yang terdapat dalam ayat 20, di mana diterangkan keadaan kamar-kamar dalam surga yang diperoleh orang-orang yang bertakwa.</p>
@@ -1389,7 +1389,7 @@ UPDATE quran_surah SET surahInfo = "<p>Surah az-Zumar terdiri dari 75 ayat, term
 <li>Keduanya mengutarakan hal-hal yang berhubungan dengan keadaan hari Kiamat, keadaan di Padang Mahsyar, surga, dan neraka.</li>
 </ol>
 " WHERE id = 39;
-UPDATE quran_surah SET surahInfo = "<p>Surah Gāfir terdiri atas 85 ayat, termasuk kelompok surah Makkiyyah, diturunkan sesudah Surah az-Zumar. Dinamai “Gāfir” (yang mengampuni) karena ada hubungannya dengan kalimat “Gāfir” yang terdapat pada ayat 3 surah ini. Ayat ini mengingatkan bahwa “Maha Pengampun” dan “Maha Penerima Taubat” adalah termasuk dari sifat-sifat Allah. Oleh karena itu, hamba-hamba Allah tidak perlu terlalu risau terhadap perbuatan-perbuatan dosa yang telah terlanjur mereka lakukan. Semuanya itu akan diampuni Allah asal benar-benar memohon ampun dan bertobat kepada-Nya dan berjanji tidak akan mengerjakan perbuatan-perbuatan dosa itu lagi.</p>
+UPDATE quran_surah SET idnSurahInfo = "<p>Surah Gāfir terdiri atas 85 ayat, termasuk kelompok surah Makkiyyah, diturunkan sesudah Surah az-Zumar. Dinamai “Gāfir” (yang mengampuni) karena ada hubungannya dengan kalimat “Gāfir” yang terdapat pada ayat 3 surah ini. Ayat ini mengingatkan bahwa “Maha Pengampun” dan “Maha Penerima Taubat” adalah termasuk dari sifat-sifat Allah. Oleh karena itu, hamba-hamba Allah tidak perlu terlalu risau terhadap perbuatan-perbuatan dosa yang telah terlanjur mereka lakukan. Semuanya itu akan diampuni Allah asal benar-benar memohon ampun dan bertobat kepada-Nya dan berjanji tidak akan mengerjakan perbuatan-perbuatan dosa itu lagi.</p>
 <p>Dinamakan pula “al-Mu&rsquo;min” (Orang yang beriman), karena terdapat perkataan “mu&rsquo;min” dalam surah ini, yaitu pada ayat 28. Dalam ayat 28 ini diterangkan bahwa salah seorang dari kaum Fir‘aun telah beriman kepada Nabi Musa dengan menyembunyikan imannya kepada kaumnya, setelah mendengar keterangan dan melihat mukjizat yang ditujukan oleh Nabi Musa. Hati kecil orang ini mencela Fir‘aun dan kaumnya yang tidak mau beriman kepada Nabi Musa, sekalipun telah dikemukakan keterangan dan mukjizat yang diminta mereka.</p>
 <p>Surah ini juga dinamai “aṭ-Ṭaul” (Yang mempunyai Karunia) karena perkataan tersebut terdapat pada ayat 3.</p>
 <p>Pokok-pokok Isinya:</p>
@@ -1423,7 +1423,7 @@ UPDATE quran_surah SET surahInfo = "<p>Surah Gāfir terdiri atas 85 ayat, termas
 <li>Keduanya dimulai dengan menyebut sifat-sifat Al-Qur’an.</li>
 </ol>
 " WHERE id = 40;
-UPDATE quran_surah SET surahInfo = "<p>Surah Fuṣṣilat terdiri dari 54 ayat dan termasuk kelompok surah-surah Makkiyyah, diturunkan sesudah Surah Gāfir.</p>
+UPDATE quran_surah SET idnSurahInfo = "<p>Surah Fuṣṣilat terdiri dari 54 ayat dan termasuk kelompok surah-surah Makkiyyah, diturunkan sesudah Surah Gāfir.</p>
 <p>Dinamai “Fuṣṣilat” karena ada hubungannya dengan perkataan “Fuṣṣilat” yang terdapat pada permulaan surah ini. Maksudnya adalah ayat-ayat diperinci dengan jelas tentang hukum-hukum, keimanan, janji dan ancaman, budi pekerti, kisah, dan sebagainya.</p>
 <p>Dinamai juga dengan “Ḥā Mīm as-Sajdah” karena surah ini dimulai dengan “Ḥā Mīm” dan dalam surah ini terdapat ayat Sajdah.</p>
 <p>Pokok-pokok Isinya:</p>
@@ -1440,7 +1440,7 @@ UPDATE quran_surah SET surahInfo = "<p>Surah Fuṣṣilat terdiri dari 54 ayat d
 <p>SURAH ASY-SYŪRĀ</p>
 <p>Kedua surah ini sama-sama menerangkan kebenaran Al-Qur’an sebagai wahyu Allah yang disampaikan kepada Muhammad saw, menolak celaan dan kecaman orang-orang kafir terhadapnya; menghibur Nabi Muhammad saw agar tidak bersedih hati terhadap sikap, celaan dan ancaman mereka karena sudah sewajarnya musuh-musuh agama itu berusaha menghancurkan agama Allah yang disampaikan kepada mereka. Hal yang seperti itu telah dialami pula oleh para rasul yang diutus Allah sebelumnya.</p>
 " WHERE id = 41;
-UPDATE quran_surah SET surahInfo = "<p>Surah asy-Syūrā terdiri atas 53 ayat, termasuk kelompok surah Makkiyyah, diturunkan sesudah Surah Fuṣṣilat. Dinamai asy-Syūrā (musyawarah) diambil dari kata syūrā yang terdapat pada ayat 38 surah ini. Dalam ayat tersebut diletakkan salah satu dari dasar pemerintahan Islam yaitu musyawarah. Dinamai juga Ḥā Mīm ‘Aīn Sīn Qāf karena surah ini dimulai dengan huruf-huruf hijaiah tersebut.</p>
+UPDATE quran_surah SET idnSurahInfo = "<p>Surah asy-Syūrā terdiri atas 53 ayat, termasuk kelompok surah Makkiyyah, diturunkan sesudah Surah Fuṣṣilat. Dinamai asy-Syūrā (musyawarah) diambil dari kata syūrā yang terdapat pada ayat 38 surah ini. Dalam ayat tersebut diletakkan salah satu dari dasar pemerintahan Islam yaitu musyawarah. Dinamai juga Ḥā Mīm ‘Aīn Sīn Qāf karena surah ini dimulai dengan huruf-huruf hijaiah tersebut.</p>
 <p>POKOK-POKOK ISINYA:</p>
 <ol>
 <li>Keimanan:</li>
@@ -1464,7 +1464,7 @@ UPDATE quran_surah SET surahInfo = "<p>Surah asy-Syūrā terdiri atas 53 ayat, t
 <li>Kedua surah ini sama-sama mengutarakan bagaimana sikap orang-orang kafir terhadap Al-Qur’an dan mengemukakan dalil-dalil atas keesaan dan kekuasaan Allah.</li>
 </ol>
 " WHERE id = 42;
-UPDATE quran_surah SET surahInfo = "<p>Surah az-Zukhruf terdiri dari 89 ayat, termasuk kelompok surah Makkiyyah, diturunkan sesudah Surah asy-Syūrā.</p>
+UPDATE quran_surah SET idnSurahInfo = "<p>Surah az-Zukhruf terdiri dari 89 ayat, termasuk kelompok surah Makkiyyah, diturunkan sesudah Surah asy-Syūrā.</p>
 <p>Dinamai az-Zukhruf (perhiasan) diambil dari kata az-zukhruf yang terdapat pada ayat 35 surah ini. Orang-orang musyrik mengukur tinggi atau rendahnya derajat seseorang bergantung kepada perhiasan dan harta benda yang ia punyai. Karena Muhammad saw adalah seorang anak yatim lagi miskin ia tidak pantas diangkat Allah sebagai seorang rasul dan nabi. Menurut mereka, pangkat rasul dan nabi itu harus diberikan kepada orang yang kaya. Ayat ini menegaskan bahwa harta tidak dapat dijadikan dasar untuk mengukur tinggi atau rendahnya derajat seseorang karena harta itu merupakan hiasan kehidupan duniawi, bukan berarti kesenangan akhirat.</p>
 <p>POKOK-POKOK ISINYA:</p>
 <ol>
@@ -1496,7 +1496,7 @@ UPDATE quran_surah SET surahInfo = "<p>Surah az-Zukhruf terdiri dari 89 ayat, te
 <li>Pada surah itu terdapat kesamaan sikap antara Nabi Muhammad saw dan Nabi Musa. Pada Surah az-Zukhruf, Nabi Muhammad saw mengadu kepada Tuhannya bahwa kaumnya adalah orang-orang yang tidak mau beriman, sedangkan pada Surah ad-Dukhān Nabi Musa mengadu kepada Tuhannya bahwa kaumnya adalah orang yang durhaka dan banyak dosa.</li>
 </ol>
 " WHERE id = 43;
-UPDATE quran_surah SET surahInfo = "<p>Surah ad-Dukhān terdiri dari 59 ayat, termasuk kelompok surah Makkiyyah, diturunkan sesudah Surah az-Zukhruf. Nama ad-Dukhān (kabut) diambil dari perkataan dukhān yang terdapat pada ayat 10 surah ini.</p>
+UPDATE quran_surah SET idnSurahInfo = "<p>Surah ad-Dukhān terdiri dari 59 ayat, termasuk kelompok surah Makkiyyah, diturunkan sesudah Surah az-Zukhruf. Nama ad-Dukhān (kabut) diambil dari perkataan dukhān yang terdapat pada ayat 10 surah ini.</p>
 <p>Menurut riwayat al-Bukhārī, secara ringkas dapat diterangkan sebagai berikut: Perbuatan orang-orang kafir Mekah dalam menghalang-halangi agama Islam dan menyakiti serta mendurhakai Nabi Muhammad saw sudah melewati batas, karena itu Nabi berdoa kepada Allah agar diturunkan azab, sebagaimana yang telah diturunkan kepada orang-orang yang durhaka kepada Nabi Yusuf yaitu kemarau yang panjang. Doa Nabi saw itu dikabulkan Allah sampai orang-orang kafir memakan tulang dan bangkai karena kelaparan. Mereka selalu menengadah ke langit mengharap pertolongan Allah, tetapi tidak satu pun yang mereka lihat kecuali kabut yang menutupi pandangan mereka.</p>
 <p>Akhirnya mereka datang kepada Nabi Muhammad saw agar Nabi memohon kepada Allah, agar diturunkan hujan. Setelah Allah mengabulkan doa Nabi dan hujan diturunkan, mereka kembali kafir seperti semula, karena itu, Allah menyatakan bahwa mereka nanti akan diazab dengan azab yang pedih.</p>
 <p>POKOK-POKOK ISINYA:</p>
@@ -1517,7 +1517,7 @@ UPDATE quran_surah SET surahInfo = "<p>Surah ad-Dukhān terdiri dari 59 ayat, te
 <p>SURAH AL-JĀṠIYAH</p>
 <p>Kedua surah ini hampir sama isi dan maksudnya yaitu sama-sama menjelaskan adanya Allah, keesaan dan kekuasaan-Nya, sama-sama pula menerangkan sikap orang-orang kafir terhadap seruan Nabi Muhammad, ancaman kepada orang-orang kafir, dan siksaan yang hebat yang akan mereka derita pada hari Kiamat.</p>
 " WHERE id = 44;
-UPDATE quran_surah SET surahInfo = "<p>Surah al-Jāṡiyah terdiri dari 37 ayat, termasuk kelompok surah Makkiyyah, diturunkan sesudah Surah ad-Dukhān.</p>
+UPDATE quran_surah SET idnSurahInfo = "<p>Surah al-Jāṡiyah terdiri dari 37 ayat, termasuk kelompok surah Makkiyyah, diturunkan sesudah Surah ad-Dukhān.</p>
 <p>Sebutan al-Jāṡiyah (yang berlutut) diambil dari kata jāṡiyah yang terdapat pada ayat 28 surah ini.</p>
 <p>Ayat tersebut menerangkan keadaan manusia pada hari Kiamat, pada waktu mereka dikumpulkan di hadapan mahkamah Allah Yang Mahatinggi lagi Mahaperkasa untuk memberi keputusan terhadap perbuatan-perbuatan yang telah mereka lakukan selama hidup di dunia. Pada hari itu, manusia berlutut di hadapan Allah, tunduk dan berserah diri menunggu keputusan yang akan ditetapkan-Nya.</p>
 <p>Dinamakan juga Asy-Syarī‘ah (peraturan agama) diambil dari perkataan syarī‘ah yang terdapat pada ayat 18 surah ini. Dalam ayat tersebut Allah memerintahkan agar manusia bertindak dan berbuat sesuai dengan yang digariskan oleh syariat Allah yang telah disampaikan-Nya dengan perantaraan Rasul-Nya.</p>
@@ -1549,7 +1549,7 @@ UPDATE quran_surah SET surahInfo = "<p>Surah al-Jāṡiyah terdiri dari 37 ayat,
 <li>Surah al-Jāṡiyah memuat ancaman terhadap kaum musyrik, sedangkan pada Surah al-Aḥqāf, ancaman itu lebih dipertegas dengan mengingatkan azab yang telah menimpa kaum ‘Ad.</li>
 </ol>
 " WHERE id = 45;
-UPDATE quran_surah SET surahInfo = "<p>Surah al-Aḥqāf terdiri dari 35 ayat, termasuk kelompok surah Makkiyyah, diturunkan sesudah Surah al-Jāṡiyah. Dinamai al-Aḥqāf (bukit-bukit pasir) karena ada hubungannya dengan perkataan al-aḥqāf yang terdapat pada ayat 21 surah ini.</p>
+UPDATE quran_surah SET idnSurahInfo = "<p>Surah al-Aḥqāf terdiri dari 35 ayat, termasuk kelompok surah Makkiyyah, diturunkan sesudah Surah al-Jāṡiyah. Dinamai al-Aḥqāf (bukit-bukit pasir) karena ada hubungannya dengan perkataan al-aḥqāf yang terdapat pada ayat 21 surah ini.</p>
 <p>Dalam ayat tersebut dan ayat-ayat sesudahnya, diterangkan kisah Nabi Hud yang telah menyampaikan agama Allah kepada kaumnya yang bertempat tinggal di al-Aḥqāf yang sekarang terkenal dengan ar-Rab‘ al-Khāli. Kaum Hud itu tetap mengingkari seruan Nabi Hud sekalipun mereka juga telah diberi peringatan dan pengertian oleh rasul-rasul sebelumnya yang telah diutus kepada mereka. Akhirnya mereka dihancurkan Allah dengan tiupan angin yang amat dingin dan kencang. Hal ini sebagai isyarat dari Allah kepada kaum musyrik Mekah bahwa mereka akan dihancurkan sebagaimana kaum Hud jika mereka tidak mengindahkan seruan Nabi Muhammad.</p>
 <p>Pokok-pokok Isinya:</p>
 <ol>
@@ -1573,7 +1573,7 @@ UPDATE quran_surah SET surahInfo = "<p>Surah al-Aḥqāf terdiri dari 35 ayat, t
 <p>DENGAN SURAH MUḤAMMAD</p>
 <p>Pada akhir Surah al-Aḥqāf Allah mengancam orang-orang kafir dengan kebinasaan, dan pada permulaan Surah Muḥammad disebutkan bahwa Allah membinasakan semua amal orang kafir dan Allah swt memerintahkan Nabi Muhammad memerangi mereka.</p>
 " WHERE id = 46;
-UPDATE quran_surah SET surahInfo = "<p>Surah Muḥammad terdiri dari 38 ayat, termasuk kelompok surah Madaniyyah, diturunkan sesudah Surah al-Ḥadīd. Muḥammad sebagai nama surah ini diambil dari kata Muḥammad yang terdapat pada ayat 2 surah ini.</p>
+UPDATE quran_surah SET idnSurahInfo = "<p>Surah Muḥammad terdiri dari 38 ayat, termasuk kelompok surah Madaniyyah, diturunkan sesudah Surah al-Ḥadīd. Muḥammad sebagai nama surah ini diambil dari kata Muḥammad yang terdapat pada ayat 2 surah ini.</p>
 <p>Pada ayat 1-3 surah ini, Allah membandingkan antara hasil yang diperoleh dari orang-orang yang percaya akan apa yang diturunkan kepada Nabi Muhammad dan hasil yang diperoleh oleh orang-orang yang tidak percaya kepadanya. Orang-orang yang percaya kepada risalah yang dibawa Nabi Muhammad, merekalah orang-orang yang beriman dan melaksanakan yang hak, diterima semua amalnya, diampuni segala kesalahannya. Adapun orang-orang yang tidak percaya kepada Muhammad saw adalah orang-orang yang mengikuti kebatilan, amalnya tidak diterima, dosa mereka tidak diampuni, dan mereka akan ditimpa azab di dunia dan di akhirat.</p>
 <p>Pokok-pokok Isinya:</p>
 <ol>
@@ -1601,7 +1601,7 @@ UPDATE quran_surah SET surahInfo = "<p>Surah Muḥammad terdiri dari 38 ayat, te
 <li>Dalam Surah Muḥammad disinggung tentang orang-orang munafik yang tidak mau berjuang dan berinfak. Dalam Surah al-Fatḥ diterangkan lebih jelas tentang sikap dan sifat orang munafik.</li>
 </ol>
 " WHERE id = 47;
-UPDATE quran_surah SET surahInfo = "<p>Surah al-Fatḥ terdiri dari 29 ayat, termasuk kelompok surah Madaniyyah, diturunkan sesudah Surah al-Jumu‘ah.</p>
+UPDATE quran_surah SET idnSurahInfo = "<p>Surah al-Fatḥ terdiri dari 29 ayat, termasuk kelompok surah Madaniyyah, diturunkan sesudah Surah al-Jumu‘ah.</p>
 <p>Nama al-Fatḥ (kemenangan) diambil dari kata fataḥa yang terdapat pada ayat pertama surah ini. Sebagian besar dari ayat-ayat surah ini menerangkan hal-hal yang berhubungan dengan kemenangan yang dicapai Nabi Muhammad dalam peperangan.</p>
 <p>Nabi Muhammad sangat gembira dengan turunnya ayat pertama ini. Kegembiraan beliau dinyatakan dalam sabda beliau yang diriwayatkan al-Bukhārī. Beliau berkata, “Sesungguhnya telah diturunkan kepadaku suatu surah yang benar-benar lebih aku cintai daripada seluruh apa yang disinari matahari.” Kegembiraan Nabi Muhammad itu ialah karena ayat-ayatnya menerangkan tentang kemenangan yang akan diperoleh Nabi Muhammad dalam perjuangannya dan tentang kesempurnaan nikmat Allah kepadanya.</p>
 <p>Pokok-pokok Isinya:</p>
@@ -1627,7 +1627,7 @@ UPDATE quran_surah SET surahInfo = "<p>Surah al-Fatḥ terdiri dari 29 ayat, ter
 <p>Dalam surah al-Fatḥ diterangkan perintah memerangi orang-orang kafir yang berniat memadamkan agama Islam dan menghancurkan kaum muslim, sedangkan dalam surah al-Ḥujurāt disebutkan perintah mengadakan perdamaian antara dua golongan dari kaum muslim yang bersengketa, dan perintah memerangi kaum muslim yang berbuat aniaya kepada kaum muslim yang lain sampai dapat terpelihara persatuan dan kesatuan di antara kaum muslim.</p>
 <p>Surah al-Fatḥ ditutup dengan keterangan mengenai sifat-sifat Rasulullah saw dan sahabat-sahabatnya, sedangkan surah al-Ḥujurāt dimulai dengan bagaimana seharusnya para sahabat bergaul dengan Nabi Muhammad.</p>
 " WHERE id = 48;
-UPDATE quran_surah SET surahInfo = "<p>Surah al-Ḥujurāt terdiri dari 18 ayat, termasuk kelompok surah Madaniyyah, diturunkan sesudah surah al-Mujādalah. Nama al-Ḥuju-rāt (kamar-kamar) diambil dari kata al-ḥujurāt yang terdapat pada a-yat 4 surah ini. Ayat tersebut mencela para sahabat yang memanggil Nabi Muhammad yang sedang berada di dalam kamar rumahnya ber-sama istrinya. Memanggil Nabi Muhammad dengan cara dan dalam ke-adaan yang demikian menunjukkan sifat yang kurang hormat kepada beliau dan mengganggu ketenteraman beliau.</p>
+UPDATE quran_surah SET idnSurahInfo = "<p>Surah al-Ḥujurāt terdiri dari 18 ayat, termasuk kelompok surah Madaniyyah, diturunkan sesudah surah al-Mujādalah. Nama al-Ḥuju-rāt (kamar-kamar) diambil dari kata al-ḥujurāt yang terdapat pada a-yat 4 surah ini. Ayat tersebut mencela para sahabat yang memanggil Nabi Muhammad yang sedang berada di dalam kamar rumahnya ber-sama istrinya. Memanggil Nabi Muhammad dengan cara dan dalam ke-adaan yang demikian menunjukkan sifat yang kurang hormat kepada beliau dan mengganggu ketenteraman beliau.</p>
 <p>Pokok-pokok Isinya:</p>
 <ol>
 <li>Keimanan:</li>
@@ -1651,7 +1651,7 @@ UPDATE quran_surah SET surahInfo = "<p>Surah al-Ḥujurāt terdiri dari 18 ayat,
 <li>Surah al-Ḥujurāt telah banyak menguraikan soal-soal duniawi, sedang surah Qāf lebih banyak menguraikan masalah akhirat.</li>
 </ol>
 " WHERE id = 49;
-UPDATE quran_surah SET surahInfo = "<p>Surah Qāf terdiri dari 45 ayat, termasuk kelompok surah Makkiyyah, diturunkan sesudah Surah al-Mursalāt. Dinamai Qāf karena surah ini dimulai dengan huruf Qāf.</p>
+UPDATE quran_surah SET idnSurahInfo = "<p>Surah Qāf terdiri dari 45 ayat, termasuk kelompok surah Makkiyyah, diturunkan sesudah Surah al-Mursalāt. Dinamai Qāf karena surah ini dimulai dengan huruf Qāf.</p>
 <p>Diterangkan dalam hadis yang diriwayatkan Imam Muslim, bahwa Rasulullah saw senang membaca surah ini pada rakaat pertama salat Subuh dan pada salat hari raya, sedangkan menurut Abū Dāwud, al-Baihaqī, dan Ibnu Mājah, Rasulullah membaca surah ini tiap-tiap membacakan khotbah pada hari Jumat.</p>
 <p>Kedua riwayat ini menunjukkan bahwa surah Qāf sering dibaca Nabi Mu-hammad di tempat-tempat umum untuk memperingatkan manusia tentang kejadian mereka dan nikmat-nikmat yang diberikan kepadanya. Begitu pula tentang hari kebangkitan, hari perhitungan, surga, neraka, pahala, dosa dan sebagainya.</p>
 <p>Surah ini juga dinamai al-Bāsiqāt, diambil dari kata al-bāsiqāt yang terdapat pada ayat 10 surah ini.</p>
@@ -1676,7 +1676,7 @@ UPDATE quran_surah SET surahInfo = "<p>Surah Qāf terdiri dari 45 ayat, termasuk
 <li>Dalam Surah Qāf disebutkan secara sepintas lalu tentang pembinasaan umat-umat dahulu yang mendustakan rasul-rasul, sedangkan dalam Surah aż-Żāriyāt diterangkan juga kepada mereka, tetapi dengan agak terperinci.</li>
 </ol>
 " WHERE id = 50;
-UPDATE quran_surah SET surahInfo = "<p>Surah aż-Żāriyāt terdiri dari 60 ayat, termasuk kelompok surah Makkiyyah, diturunkan sesudah Surah al-Aḥqāf.</p>
+UPDATE quran_surah SET idnSurahInfo = "<p>Surah aż-Żāriyāt terdiri dari 60 ayat, termasuk kelompok surah Makkiyyah, diturunkan sesudah Surah al-Aḥqāf.</p>
 <p>Nama aż-Żāriyāt diambil dari kata aż-żāriyāt yang terdapat pada ayat pertama surah ini. Allah bersumpah dengan angin, mega, bahtera, dan malaikat, yang menjadi sumber kesejahteraan dan pembawa kemakmuran. Hal ini mengisyaratkan inayah Allah kepada hamba-hamba-Nya.</p>
 <p>Pokok-pokok Isinya:</p>
 <ol>
@@ -1706,7 +1706,7 @@ UPDATE quran_surah SET surahInfo = "<p>Surah aż-Żāriyāt terdiri dari 60 ayat
 <li>Keduanya mengandung perintah kepada Rasulullah saw supaya berpaling dari orang-orang musyrik yang keras kepala dan sama-sama berisi alasan-alasan serta dalil-dalil keesaan Allah dan adanya hari kebangkitan.</li>
 </ol>
 " WHERE id = 51;
-UPDATE quran_surah SET surahInfo = "<p>Surah aṭ-Ṭūr diturunkan di Makkah, jumlah ayatnya 49. Diturunkan setelah surah as-Sajdah.</p>
+UPDATE quran_surah SET idnSurahInfo = "<p>Surah aṭ-Ṭūr diturunkan di Makkah, jumlah ayatnya 49. Diturunkan setelah surah as-Sajdah.</p>
 <p>Dari Ummu Salamah:</p>
 <p dir=\"rtl\">اَنَّهَا سَمِعَتْ رَسُوْلَ اللّٰهِ صَلَّى اللّٰهُ عَلَيْهِ وَسَلَّمَ يُصَلِّى اِلَى جَنْبِ اْلبَيْتِ يَقْرَأُ وَالطُّوْرِ وَكِتَابٍ مَسْطُوْر.ٍ (رواه البخاري)</p>
 <p>“Bahwa ia mendengar Rasulullah saw sedang salat menghadap Baitullah membaca surah aṭ-Ṭūr” (Riwayat al-Bukhārī)</p>
@@ -1764,7 +1764,7 @@ UPDATE quran_surah SET surahInfo = "<p>Surah aṭ-Ṭūr diturunkan di Makkah, j
 <p>Dan bahwa manusia hanya memperoleh apa yang telah diusahakannya (an-Najm/53: 39)</p>
 <p>Menurut Ibnu Mardawaih dari Ibnu Mas‘ūd, Surah an-Najm ini adalah surah pertama yang dibaca oleh Nabi Muhammad saw di hadapan umum di Masjidil Haram dan didengar oleh orang-orang musyrik. Menurut al-Bukhārī, Muslim, Abū Dāwud, dan Nasā’ī, surah ini adalah surah pertama yang diturunkan yang di dalamnya terdapat ayat as-Sajdah, kemudian Nabi Muhammad saw bersujud diikuti oleh semua orang, kecuali orang yang kelihatan sedang mengambil segenggam tanah, lalu ia sujud ke tanah itu. Akhirnya orang itu mati dibunuh dalam kekufuran, dia adalah Umayyah bin Khalaf.</p>
 " WHERE id = 52;
-UPDATE quran_surah SET surahInfo = "<p>Surah an-Najm terdiri dari 62 ayat, termasuk kelompok surah Makkiyyah, kecuali ayat 32 yang diturunkan di Medinah. Surah ini diturunkan sesudah Surah al-Ikhlāṣ.</p>
+UPDATE quran_surah SET idnSurahInfo = "<p>Surah an-Najm terdiri dari 62 ayat, termasuk kelompok surah Makkiyyah, kecuali ayat 32 yang diturunkan di Medinah. Surah ini diturunkan sesudah Surah al-Ikhlāṣ.</p>
 <p>Nama an-Najm (Bintang), diambil dari kata an-najm yang terdapat pada ayat pertama dari surah ini. Allah swt bersumpah dengan an-najm (bintang) ialah karena bintang-bintang yang timbul dan tenggelam, sangat besar manfaatnya bagi manusia sebagai pedoman bagi mereka dalam melakukan pelayaran di lautan, dalam perjalanan di padang pasir, untuk menentukan peredaran musim, dan lain-lain sebagainya.</p>
 <p>Pokok-pokok Isinya:</p>
 <ol>
@@ -1788,7 +1788,7 @@ UPDATE quran_surah SET surahInfo = "<p>Surah an-Najm terdiri dari 62 ayat, terma
 <li>Dalam Surah an-Najm disinggung secara sepintas keadaan umat-umat yang terdahulu, sedang pada Surah al-Qamar juga disebutkan keadaan umat-umat yang terdahulu, yang mendustakan rasul-rasul mereka.</li>
 </ol>
 " WHERE id = 53;
-UPDATE quran_surah SET surahInfo = "<p>Surah al-Qamar terdiri dari 55 ayat, termasuk kelompok surah Makkiyyah, diturunkan sesudah Surah aṭ-Ṭāriq.</p>
+UPDATE quran_surah SET idnSurahInfo = "<p>Surah al-Qamar terdiri dari 55 ayat, termasuk kelompok surah Makkiyyah, diturunkan sesudah Surah aṭ-Ṭāriq.</p>
 <p>Nama al-Qamar (bulan) diambil dari kata al-Qamar (yang terdapat pada ayat yang pertama surah ini). Pada ayat ini diterangkan tentang terbelahnya bulan sebagai mukjizat.</p>
 <p>Pokok-pokok Isinya:</p>
 <ol>
@@ -1811,7 +1811,7 @@ UPDATE quran_surah SET surahInfo = "<p>Surah al-Qamar terdiri dari 55 ayat, term
 <li>Surah al-Qamar menerangkan azab yang ditimpakan kepada umat-umat terdahulu yang mendurhakai nabi-nabi mereka, Surah ar-Raḥmān menye-butkan berbagai nikmat Allah yang dilimpahkan-Nya kepada jin dan manusia sebagai hamba-hamba-Nya, agar mereka memilih beriman.</li>
 </ol>
 " WHERE id = 54;
-UPDATE quran_surah SET surahInfo = "<p>Surah ar-Raḥmān terdiri dari 78 ayat, termasuk kelompok surah Madaniyyah, diturunkan sesudah Surah ar-Ra‘d.</p>
+UPDATE quran_surah SET idnSurahInfo = "<p>Surah ar-Raḥmān terdiri dari 78 ayat, termasuk kelompok surah Madaniyyah, diturunkan sesudah Surah ar-Ra‘d.</p>
 <p>Dinamai ar-Raḥmān (Yang Maha Pemurah), diambil dari kata ar-raḥmān yang terdapat pada ayat pertama surah ini. Ar-Raḥmān adalah salah satu dari nama-nama Allah. Sebagian besar dari isi surah ini menerangkan kemurahan Allah kepada hamba-hamba-Nya, dengan memberikan nikmat-nikmat yang tidak terhingga kepada mereka baik di dunia maupun di akhirat nanti.</p>
 <p>Pokok-pokok Isinya:</p>
 <ol>
@@ -1837,7 +1837,7 @@ UPDATE quran_surah SET surahInfo = "<p>Surah ar-Raḥmān terdiri dari 78 ayat, 
 <li>Telah disebutkan pula di dalam Surah ar-Raḥmān terbelahnya langit dan diterangkan di sini tentang gempa, seolah-olah kedua surah ini berisikan pokok-pokok yang sama yang dapat disatukan karena sangat erat hubungan keduanya, hanya susunannya berbeda. Yaitu apa yang disebut permulaan di sini, disebut penghabisan di sana, dan apa yang disebut penghabisan di sini, disebut permulaan di sana.</li>
 </ol>
 " WHERE id = 55;
-UPDATE quran_surah SET surahInfo = "<p>Surah al-Wāqi‘ah terdiri dari 96 ayat, termasuk kelompok surah Makkiyyah, diturunkan sesudah Surah Ṭāhā. Nama Al-Wāqi‘ah (hari Kiamat) diambil dari kata al-wāqi‘ah yang terdapat pada ayat pertama surah ini.</p>
+UPDATE quran_surah SET idnSurahInfo = "<p>Surah al-Wāqi‘ah terdiri dari 96 ayat, termasuk kelompok surah Makkiyyah, diturunkan sesudah Surah Ṭāhā. Nama Al-Wāqi‘ah (hari Kiamat) diambil dari kata al-wāqi‘ah yang terdapat pada ayat pertama surah ini.</p>
 <p>Pokok-pokok Isinya:</p>
 <ol>
 <li>Keimanan:</li>
@@ -1860,7 +1860,7 @@ UPDATE quran_surah SET surahInfo = "<p>Surah al-Wāqi‘ah terdiri dari 96 ayat,
 <li>Sama-sama menerangkan kekuasaan Allah.</li>
 </ol>
 " WHERE id = 56;
-UPDATE quran_surah SET surahInfo = "<p>Surah al-Ḥadīd terdiri dari 29 ayat, termasuk kelompok surah Makkiyyah, diturunkan sesudah Surah az-Zalzalah.</p>
+UPDATE quran_surah SET idnSurahInfo = "<p>Surah al-Ḥadīd terdiri dari 29 ayat, termasuk kelompok surah Makkiyyah, diturunkan sesudah Surah az-Zalzalah.</p>
 <p>Dinamai al-ḥadīd (besi), diambil dari perkataan al-ḥadīd yang terdapat pada ayat 25 surah ini.</p>
 <p>Pokok-pokok Isinya:</p>
 <ol>
@@ -1883,7 +1883,7 @@ UPDATE quran_surah SET surahInfo = "<p>Surah al-Ḥadīd terdiri dari 29 ayat, t
 <li>Pada akhir Surah al-Ḥadīd disebutkan bahwa Allah memberikan karunia-Nya kepada siapa yang dikehendaki-Nya dan Allah mempunyai karunia yang besar.</li>
 </ol>
 " WHERE id = 57;
-UPDATE quran_surah SET surahInfo = "<p>Surah al-Mujādalah terdiri dari 22 ayat, termasuk kelompok surah Madaniyyah, diturunkan sesudah Surah al-Munāfiqūn.</p>
+UPDATE quran_surah SET idnSurahInfo = "<p>Surah al-Mujādalah terdiri dari 22 ayat, termasuk kelompok surah Madaniyyah, diturunkan sesudah Surah al-Munāfiqūn.</p>
 <p>Surah ini dinamai al-Mujādalah, karena pada awal surah ini disebutkan pengaduan seorang istri yang dalam riwayat disebut bernama Khaulah binti Ṡa‘labah. Perempuan itu telah dizihar oleh suaminya, sehingga mereka tidak dapat bergaul lagi. Khaulah mencoba memberi pengertian kepada suaminya, akibat ziharnya itu terhadap anak-anaknya. Oleh karena itu, suaminya ingin kembali kepadanya, tetapi telah ada penghalang karena ziharnya itu. Maka si istri pergi meminta keputusan kepada Rasulullah saw. Sebagai jawabannya, maka turunlah ayat-ayat di permulaan surah ini.</p>
 <p>Pokok-pokok Isinya:</p>
 <ol>
@@ -1905,7 +1905,7 @@ UPDATE quran_surah SET surahInfo = "<p>Surah al-Mujādalah terdiri dari 22 ayat,
 <li>Dalam Surah al-Mujādalah, Allah menyebutkan keadaan orang-orang munafik dan orang-orang Yahudi dan bagaimana mereka saling membantu dalam memusuhi kaum muslimin, sedang dalam Surah al-Ḥasyr disebutkan kekalahan yang menimpa mereka dan kenyataan bahwa persatuan mereka tidak dapat menolong mereka sedikit pun.</li>
 </ol>
 " WHERE id = 58;
-UPDATE quran_surah SET surahInfo = "<p>Surah al-Ḥasyr terdiri dari 24 ayat, termasuk kelompok surah Madaniyyah, diturunkan sesudah Surah al-Bayyinah.</p>
+UPDATE quran_surah SET idnSurahInfo = "<p>Surah al-Ḥasyr terdiri dari 24 ayat, termasuk kelompok surah Madaniyyah, diturunkan sesudah Surah al-Bayyinah.</p>
 <p>Nama al-Ḥasyr (Pengusiran), diambil dari kata al-ḥasyr yang terdapat pada ayat 2 surah ini. Di dalam surah ini disebutkan kisah pengusiran salah satu suku Yahudi yang bernama Bani Naḍīr, yang berdiam di sekitar Medinah.</p>
 <p>Mereka telah membuat perjanjian damai dengan Nabi Muhammad, hidup berdampingan dengan kaum Muslimin dalam membina masyarakat yang aman dan tenteram di kota Medinah. Namun demikian, perjanjian damai yang telah dibuat itu tidak saja mereka khianati, tetapi mereka berbuat lebih dari itu. Mereka mengadakan perjanjian rahasia dengan kafir Mekah untuk menghancurkan Islam dan kaum Muslimin.</p>
 <p>Pokok-pokok Isinya:</p>
@@ -1924,7 +1924,7 @@ UPDATE quran_surah SET surahInfo = "<p>Surah al-Ḥasyr terdiri dari 24 ayat, te
 <p>Surah ini menerangkan bagaimana seharusnya sikap setiap Muslim terhadap orang-orang yang bukan Islam yang melakukan tindakan-tindakan yang merugikan mereka seperti yang dilakukan oleh Bani Naḍīr. Dijelaskan juga hukum tentang fai’ dan pembagiannya, kewajiban bertakwa, ketinggian dan keagungan Al-Qur’an, kemudian ditutup dengan menyebut sebagian al-Asmā’ul-Ḥusnā.</p>
 <p>Dalam Surah al-Ḥasyr disebutkan bagaimana orang-orang munafik saling menolong dengan orang-orang Yahudi dalam memusuhi kaum Muslimin, sedang dalam Surah al-Mumtaḥanah, Allah melarang orang Muslim mengangkat orang-orang kafir menjadi pimpinan atau menjadikan mereka teman setia. Namun demikian, dibolehkan bekerja sama dan tolong-menolong dengan mereka selama tidak memusuhi kaum Muslimin.</p>
 " WHERE id = 59;
-UPDATE quran_surah SET surahInfo = "<p>Surah al-Mumtaḥanah terdiri dari 13 ayat, termasuk kelompok surah Madaniyyah, diturunkan sesudah Surah al-Aḥzāb.</p>
+UPDATE quran_surah SET idnSurahInfo = "<p>Surah al-Mumtaḥanah terdiri dari 13 ayat, termasuk kelompok surah Madaniyyah, diturunkan sesudah Surah al-Aḥzāb.</p>
 <p>Nama al-Mumtaḥanah (perempuan yang diuji) diambil dari kata “famtaḥinūhunna” yang berarti “maka ujilah mereka”, yang terdapat pada ayat 10 surah ini.</p>
 <p>Pokok-pokok Isinya:</p>
 <ol>
@@ -1938,7 +1938,7 @@ UPDATE quran_surah SET surahInfo = "<p>Surah al-Mumtaḥanah terdiri dari 13 aya
 <p>Surah ini menerangkan hubungan orang-orang Islam dan orang bukan Islam dalam masa perang dan damai serta dalam hal perkawinan.</p>
 <p>Pada Surah al-Mumtaḥanah, Allah melarang orang-orang Muslim mengadakan hubungan akrab dengan orang-orang kafir yang memusuhi dan memerangi mereka, sedangkan Surah aṣ-Ṣaff memperkuatnya dengan menganjurkan agar berjihad di jalan Allah.</p>
 " WHERE id = 60;
-UPDATE quran_surah SET surahInfo = "<p>Surah aṣ-Ṣaff terdiri dari 14 ayat, termasuk kelompok surah Madaniyyah. Dinamai aṣ-Ṣaff (Barisan), karena pada ayat 4 surah ini terdapat kata ṣaffan yang berarti “barisan”. Ayat ini menerangkan apa yang diridai Allah sesudah menerangkan apa yang dimurkai-Nya. Pada ayat 3 diterangkan bahwa Allah murka kepada orang yang hanya pandai berkata saja tetapi tidak melaksanakan apa yang diucapkannya. Dan pada ayat 4 diterangkan bahwa Allah menyukai orang yang mempraktekkan apa yang diucapkan yaitu orang-orang yang berperang pada jalan Allah dalam satu barisan.</p>
+UPDATE quran_surah SET idnSurahInfo = "<p>Surah aṣ-Ṣaff terdiri dari 14 ayat, termasuk kelompok surah Madaniyyah. Dinamai aṣ-Ṣaff (Barisan), karena pada ayat 4 surah ini terdapat kata ṣaffan yang berarti “barisan”. Ayat ini menerangkan apa yang diridai Allah sesudah menerangkan apa yang dimurkai-Nya. Pada ayat 3 diterangkan bahwa Allah murka kepada orang yang hanya pandai berkata saja tetapi tidak melaksanakan apa yang diucapkannya. Dan pada ayat 4 diterangkan bahwa Allah menyukai orang yang mempraktekkan apa yang diucapkan yaitu orang-orang yang berperang pada jalan Allah dalam satu barisan.</p>
 <p>Pokok-pokok Isinya:</p>
 <p>Semua yang ada di langit dan di bumi bertasbih kepada Allah; anjuran berjihad di jalan Allah; pengikut-pengikut Nabi Musa dan Isa pernah mengingkari ajaran-ajaran nabi mereka. Demikian pula kaum musyrikin Mekah hendak memadamkan cahaya Allah (agama Islam). Ampunan Allah dan surga dapat dicapai dengan iman dan perjuangan menegakkan kalimat Allah dengan harta dan jiwa.</p>
 <p>Surah ini menganjurkan agar orang-orang mukmin selalu menyesuaikan ucapan dengan perbuatan, dan menerima tawaran Allah yaitu ampunan dan surga yang dapat dicapai dengan iman dan berjihad di jalan-Nya dengan harta dan jiwa.</p>
@@ -1949,7 +1949,7 @@ UPDATE quran_surah SET surahInfo = "<p>Surah aṣ-Ṣaff terdiri dari 14 ayat, t
 <li>Pada Surah aṣ-Ṣaff diterangkan bahwa orang-orang Yahudi adalah kaum yang sesat dan fasik, sedang pada Surah al-Jumu‘ah diterangkan kembali bahwa mereka adalah orang yang bodoh seperti keledai yang membawa buku-buku yang banyak, tetapi tidak dapat memahaminya.</li>
 </ol>
 " WHERE id = 61;
-UPDATE quran_surah SET surahInfo = "<p>Surah al-Jumu‘ah terdiri dari 11 ayat, termasuk kelompok surah Madaniyyah dan diturunkan sesudah Surah aṣ-Ṣaff.</p>
+UPDATE quran_surah SET idnSurahInfo = "<p>Surah al-Jumu‘ah terdiri dari 11 ayat, termasuk kelompok surah Madaniyyah dan diturunkan sesudah Surah aṣ-Ṣaff.</p>
 <p>Nama al-Jumu‘ah diambil dari kata al-jumu‘ah yang terdapat pada ayat 9 surah ini, yang artinya “Hari Jumat.”</p>
 <p>Pokok-pokok Isinya:</p>
 <p>Menjelaskan sifat orang munafik dan sifat buruk pada umumnya, di antaranya berdusta, bersumpah palsu, dan penakut; mengajak orang-orang mukmin agar taat dan patuh kepada Allah dan rasul-Nya dan agar bersedia menafkahkan harta untuk menegakkan agama-Nya, sebelum ajal tiba.</p>
@@ -1961,7 +1961,7 @@ UPDATE quran_surah SET surahInfo = "<p>Surah al-Jumu‘ah terdiri dari 11 ayat, 
 <li>Dalam Surah al-Jumu‘ah, orang Muslim diperintahkan meninggalkan perniagaannya dan segera pergi salat Jumat, sedangkan pada Surah al-Munāfiqūn diperingatkan bahwa harta benda dan anak jangan sampai melalaikan orang dari mengingat Allah.</li>
 </ol>
 " WHERE id = 62;
-UPDATE quran_surah SET surahInfo = "<p>Surah ini terdiri dari sebelas ayat, termasuk kelompok surah Madaniyyah, diturunkan sesudah Surah al-Ḥajj.</p>
+UPDATE quran_surah SET idnSurahInfo = "<p>Surah ini terdiri dari sebelas ayat, termasuk kelompok surah Madaniyyah, diturunkan sesudah Surah al-Ḥajj.</p>
 <p>Surah ini dinamai al-Munāfiqūn yang artinya orang-orang munafik, karena surah ini mengungkapkan sifat-sifat orang munafik.</p>
 <p>Pokok-pokok Isinya:</p>
 <p>Keterangan tentang orang-orang munafik dan sifat mereka yang buruk, di antaranya ialah pendusta, suka bersumpah palsu, sombong, kikir, dan tidak menepati janji. Peringatan kepada orang-orang mukmin agar harta benda dan anak-anaknya tidak melalaikan mereka dari mengingat Allah dan anjuran agar menafkahkan sebagian dari rezeki yang diperoleh.</p>
@@ -1976,7 +1976,7 @@ UPDATE quran_surah SET surahInfo = "<p>Surah ini terdiri dari sebelas ayat, term
 <li>Kedua surah ini sama-sama mengajak orang mukmin agar menafkahkan harta untuk menegakkan agama Allah.</li>
 </ol>
 " WHERE id = 63;
-UPDATE quran_surah SET surahInfo = "<p>Surah ini terdiri dari 18 ayat, termasuk kelompok surah Madaniyyah dan diturunkan sesudah Surah at-Taḥrīm.</p>
+UPDATE quran_surah SET idnSurahInfo = "<p>Surah ini terdiri dari 18 ayat, termasuk kelompok surah Madaniyyah dan diturunkan sesudah Surah at-Taḥrīm.</p>
 <p>Nama at-Tagābun diambil dari kata at-tagābun yang terdapat pada ayat ke-9 yang artinya “hari pengungkapan kesalahan-kesalahan.”</p>
 <p>Pokok-pokok Isinya:</p>
 <ol>
@@ -1994,7 +1994,7 @@ UPDATE quran_surah SET surahInfo = "<p>Surah ini terdiri dari 18 ayat, termasuk 
 <p>Dalam Surah at-Tagābun, Allah memberi peringatan kepada kaum musyrikin tentang azab yang ditimpakan kepada umat-umat sebelumnya, dan memberi hiburan kepada Nabi saw bahwa keingkaran orang-orang kafir itu tidak akan mendatangkan mudarat kepada-Nya.</p>
 <p>Dalam Surah at-Tagābun diterangkan bahwa di antara istri-istri dan anak-anak ada yang menjadi musuh. Permusuhan antara suami dan istri mungkin membawa kepada perceraian (talak). Maka dalam Surah aṭ-Ṭalāq diterangkan hukum-hukum talak secara ringkas.</p>
 " WHERE id = 64;
-UPDATE quran_surah SET surahInfo = "<p>Surah ini terdiri dari 12 ayat, termasuk kelompok surah Madaniyyah, diturunkan sesudah Surah al-Insān.</p>
+UPDATE quran_surah SET idnSurahInfo = "<p>Surah ini terdiri dari 12 ayat, termasuk kelompok surah Madaniyyah, diturunkan sesudah Surah al-Insān.</p>
 <p>Dinamakan Surah aṭ-Ṭalāq karena kebanyakan ayat-ayat mengenai masalah talak dan yang berhubungan dengan masalah itu.</p>
 <p>Pokok-pokok Isinya:</p>
 <p>Dalam surah ini diterangkan hukum mengenai talak, idah, dan kewajiban masing-masing suami dan istri dalam masa-masa talak dan idah. Hal itu bertujuan agar tidak ada pihak yang dirugikan dan keadilan dapat dilaksanakan dengan sebaik-baiknya.</p>
@@ -2007,7 +2007,7 @@ UPDATE quran_surah SET surahInfo = "<p>Surah ini terdiri dari 12 ayat, termasuk 
 <li>Keduanya sama-sama dimulai dengan seruan Allah kepada Nabi Muhammad tentang hal-hal yang berhubungan dengan kehidupan keluarga.</li>
 </ol>
 " WHERE id = 65;
-UPDATE quran_surah SET surahInfo = "<p>Surah ini terdiri dari 12 ayat, termasuk kelompok surah Madaniyyah, diturunkan sesudah Surah al-Ḥujurāt. Dinamai Surah at-Taḥrīm karena pada awal surah ini terdapat kata tuḥarrimu yang kata asalnya adalah at-taḥrīm yang berarti “pengharaman.”</p>
+UPDATE quran_surah SET idnSurahInfo = "<p>Surah ini terdiri dari 12 ayat, termasuk kelompok surah Madaniyyah, diturunkan sesudah Surah al-Ḥujurāt. Dinamai Surah at-Taḥrīm karena pada awal surah ini terdapat kata tuḥarrimu yang kata asalnya adalah at-taḥrīm yang berarti “pengharaman.”</p>
 <p>Pokok-pokok Isinya:</p>
 <ol>
 <li>Keimanan:</li>
@@ -2024,7 +2024,7 @@ UPDATE quran_surah SET surahInfo = "<p>Surah ini terdiri dari 12 ayat, termasuk 
 <p>Surah at-Taḥrīm menerangkan hubungan Rasulullah saw dengan istri-istrinya, diikuti dengan keharusan bagi orang-orang mukmin untuk bertobat; dan ditutup dengan contoh-contoh wanita yang baik dan yang buruk.</p>
 <p>Dalam Surah at-Taḥrīm diterangkan bahwa Allah mengetahui segala rahasia, sedang pada Surah al-Mulk ditegaskan lagi bahwa Allah mengetahui segala rahasia karena Ia menguasai seluruh alam.</p>
 " WHERE id = 66;
-UPDATE quran_surah SET surahInfo = "<p>Surah ini terdiri dari 30 ayat, termasuk kelompok surah Makkiyyah, diturunkan sesudah Surah aṭ-Ṭūr.</p>
+UPDATE quran_surah SET idnSurahInfo = "<p>Surah ini terdiri dari 30 ayat, termasuk kelompok surah Makkiyyah, diturunkan sesudah Surah aṭ-Ṭūr.</p>
 <p>Nama al-Mulk diambil dari kata al-mulk yang terdapat pada ayat pertama surah ini yang artinya “kerajaan” atau “kekuasaan”. Surah ini dinamai juga Tabārak (Mahasuci) diambil dari kata pertama pada ayat pertama surah ini.</p>
 <p>Pokok-pokok Isinya:</p>
 <p>Hidup dan mati itu adalah ujian bagi manusia. Allah swt menciptakan langit dan bumi bertingkat-tingkat dan semua ciptaan-Nya memiliki keseimbangan dan keharmonisan. Perintah Allah untuk memperhatikan alam semesta untuk mempertebal keimanan kepada-Nya. Azab yang diancamkan kepada orang-orang kafir; janji Allah swt kepada orang-orang yang beriman. Allah swt menjadikan bumi dengan sempurna sehingga mudah bagi manusia mencari rezeki di atasnya. Peringatan Allah swt kepada manusia karena amat sedikit di antara mereka yang mensyukuri nikmat-Nya, dan lain-lain.</p>
@@ -2036,7 +2036,7 @@ UPDATE quran_surah SET surahInfo = "<p>Surah ini terdiri dari 30 ayat, termasuk 
 <li>Kedua surah ini sama-sama menerangkan ancaman yang diberikan kepada orang-orang kafir.</li>
 </ol>
 " WHERE id = 67;
-UPDATE quran_surah SET surahInfo = "<p>Surah ini terdiri dari 52 ayat, termasuk kelompok surah Makkiyyah, diturunkan sesudah Surah al-‘Alaq.</p>
+UPDATE quran_surah SET idnSurahInfo = "<p>Surah ini terdiri dari 52 ayat, termasuk kelompok surah Makkiyyah, diturunkan sesudah Surah al-‘Alaq.</p>
 <p>Nama al-Qalam yang artinya qalam atau pena, diambil dari kata al-qalam yang terdapat pada ayat pertama surah ini. Surah ini dinamai pula dengan “Nūn” (huruf nun), yang diambil dari huruf pertama yang terdapat pada permulaan ayat-ayat surah ini.</p>
 <p>Pokok-pokok Isinya:</p>
 <p>Nabi Muhammad bukanlah orang yang gila, melainkan manusia yang berbudi pekerti yang agung; larangan bertoleransi dalam bidang kepercayaan; larangan mengikuti sifat-sifat orang yang dicela Allah; nasib yang dialami orang-orang yang tidak bersyukur terhadap nikmat Allah; kecaman-kecaman Allah kepada mereka yang ingkar dan azab yang akan menimpa mereka; Al-Qur’an adalah peringatan bagi seluruh umat.</p>
@@ -2051,7 +2051,7 @@ UPDATE quran_surah SET surahInfo = "<p>Surah ini terdiri dari 52 ayat, termasuk 
 <li>Dalam Surah al-Qalam, Allah membantah tuduhan orang-orang musyrik Mekah bahwa Muhammad saw orang gila, sedang dalam Surah al-Ḥāqqah, Allah membantah tuduhan bahwa Nabi Muhammad seorang penyair.</li>
 </ol>
 " WHERE id = 68;
-UPDATE quran_surah SET surahInfo = "<p>Surah ini terdiri dari 52 ayat, termasuk surah Makkiyyah dan diturunkan sesudah surah al-Mulk. Surah ini bernama al-Ḥāqqah yang artinya hari Kiamat, diambil dari kata al-Ḥāqqah pada ayat pertama, kedua dan ketiga.</p>
+UPDATE quran_surah SET idnSurahInfo = "<p>Surah ini terdiri dari 52 ayat, termasuk surah Makkiyyah dan diturunkan sesudah surah al-Mulk. Surah ini bernama al-Ḥāqqah yang artinya hari Kiamat, diambil dari kata al-Ḥāqqah pada ayat pertama, kedua dan ketiga.</p>
 <p>Dalam Al-Qur’an ada beberapa surah yang namanya berarti hari Kiamat, seperti al-Wāqi‘ah/56, al-Ḥāqqah/69, dan al-Qiyāmah/75. Meskipun kata-kata yang digunakan mempunyai arti bahasa yang berbeda-beda, tetapi maksudnya satu yaitu hari Kiamat. Hal ini menunjukkan pentingnya memperhatikan dan mempersiapkan diri dengan beriman yang mantap dan beramal saleh untuk menghadapi hari Kiamat.</p>
 <p>Pokok-pokok Isinya:</p>
 <p>Peringatan terhadap azab yang ditimpakan kepada kaum Nuh, Samud, ‘Ad, Fir‘aun, dan kaum-kaum sebelum mereka yang durhaka kepada Allah dan rasul-Nya pada hari Kiamat; kejadian-kejadian pada hari Kiamat dan hari penghisaban; penegasan Allah bahwa Al-Qur’an itu benar-benar wahyu-Nya.</p>
@@ -2063,7 +2063,7 @@ UPDATE quran_surah SET surahInfo = "<p>Surah ini terdiri dari 52 ayat, termasuk 
 <li>Dalam Surah al-Ḥāqqah disebutkan dua golongan manusia pada hari Kiamat, yaitu ahli surga yang menerima kitab dari sebelah kanan, dan ahli neraka yang menerima kitab dari sebelah kiri; sedangkan Surah al-Ma‘ārij menerangkan sifat-sifat kedua golongan itu.</li>
 </ol>
 " WHERE id = 69;
-UPDATE quran_surah SET surahInfo = "<p>Surah ini terdiri dari 44 ayat, termasuk kelompok surah Makkiyyah, diturunkan sesudah Surah al-Ḥāqqah.</p>
+UPDATE quran_surah SET idnSurahInfo = "<p>Surah ini terdiri dari 44 ayat, termasuk kelompok surah Makkiyyah, diturunkan sesudah Surah al-Ḥāqqah.</p>
 <p>Perkataan al-Ma‘ārij yang menjadi nama surah ini adalah kata jamak dari kata mi‘raj, diambil dari kata al-ma‘ārij yang terdapat pada ayat ke-3 surah ini, yang artinya menurut bahasa “tempat naik”. Sedangkan para mufasir memberi arti bermacam-macam, di antaranya ialah “langit”, karunia, dan derajat atau tingkatan yang diberikan Allah kepada penghuni surga.</p>
 <p>Pokok-pokok Isinya:</p>
 <p>Perintah bersabar kepada Nabi Muhammad dalam menghadapi ejekan dan keingkaran orang-orang kafir; kejadian-kejadian pada hari kiamat; azab Allah tidak dapat dihindarkan dengan tebusan apa pun; sifat-sifat manusia yang mendorong mereka ke api neraka; amal perbuatan yang dapat membawa manusia ke martabat yang tinggi; peringatan Allah akan mengganti kaum yang durhaka dengan kaum yang lebih baik.</p>
@@ -2075,13 +2075,13 @@ UPDATE quran_surah SET surahInfo = "<p>Surah ini terdiri dari 44 ayat, termasuk 
 <li>Kedua surah ini dimulai dengan ancaman azab kepada orang-orang kafir.</li>
 </ol>
 " WHERE id = 70;
-UPDATE quran_surah SET surahInfo = "<p>Surah ini terdiri dari 28 ayat, turun di Mekah (Makkiyyah) sesudah Surah an-Naḥl. Dinamakan dengan Surah Nūḥ, karena surah ini seluruhnya mengisahkan dakwah Nabi Nuh.</p>
+UPDATE quran_surah SET idnSurahInfo = "<p>Surah ini terdiri dari 28 ayat, turun di Mekah (Makkiyyah) sesudah Surah an-Naḥl. Dinamakan dengan Surah Nūḥ, karena surah ini seluruhnya mengisahkan dakwah Nabi Nuh.</p>
 <p>Pokok-pokok Isinya:</p>
 <p>Pengutusan Nabi Nuh kepada kaumnya; dakwah Nabi Nuh kepada kaumnya agar beriman kepada Allah yang telah menciptakan alam ini; penentangan kaumnya doa Nabi Nuh; dan kehancuran umatnya yang ingkar dan keselamatan mereka yang beriman.</p>
 <p>Surah Nuh menjelaskan dakwah Nabi Nuh kepada kaumnya dan tantangan yang dihadapinya, serta azab yang ditimpakan Allah kepada mereka.</p>
 <p>Dalam Surah Nūḥ, Allah meminta manusia supaya beriman kepada-Nya, sedangkan dalam Surah al-Jinn dijelaskan bahwa makhluk-Nya jenis lain, yaitu jin juga beriman kepada-Nya. Hal itu mengandung pelajaran bagi umat Nabi Nuh yang ingkar supaya beriman.</p>
 " WHERE id = 71;
-UPDATE quran_surah SET surahInfo = "<p>Surah al-Jinn terdiri dari 28 ayat, termasuk kelompok surah Makkiyyah, diturunkan sesudah Surah al-A‘rāf.</p>
+UPDATE quran_surah SET idnSurahInfo = "<p>Surah al-Jinn terdiri dari 28 ayat, termasuk kelompok surah Makkiyyah, diturunkan sesudah Surah al-A‘rāf.</p>
 <p>Nama al-Jinn (jin) diambil dari kata al-jinn yang terdapat pada ayat pertama surah ini. Dalam ayat tersebut dan ayat-ayat berikutnya diterangkan bahwa jin sebagai makhluk halus beriman kepada Allah dan Al-Qur’an.</p>
 <p>Pokok-pokok Isinya:</p>
 <p>Pengetahuan tentang jin diperoleh Nabi Muhammad dengan jalan wahyu; pernyataan iman segolongan jin kepada Allah; jin ada yang mukmin dan ada pula yang kafir; janji Allah kepada jin dan manusia untuk melimpahkan nikmat-Nya bila mereka mengikuti jalan yang lurus; janji perlindungan Allah terhadap Nabi Muhammad dan wahyu yang dibawanya.</p>
@@ -2093,7 +2093,7 @@ UPDATE quran_surah SET surahInfo = "<p>Surah al-Jinn terdiri dari 28 ayat, terma
 <li>Pada Surah al-Jinn diterangkan bahwa orang-orang kafir Mekah selalu mengganggu Nabi Muhammad jika beliau salat, sedangkan pada Surah al-Muzzammil, Allah memerintahkan agar Nabi Muhammad mengerjakan salat malam untuk menguatkan jiwa.</li>
 </ol>
 " WHERE id = 72;
-UPDATE quran_surah SET surahInfo = "<p>Surah al-Muzzammil termasuk kelompok surah Makkiyyah, kecuali ayat 10, 11, dan 12. Ketiga ayat ini termasuk kelompok surah Madaniyyah. Surah al-Muzzammil terdiri dari 20 ayat. Diturunkan sesudah Surah al-Qalam.</p>
+UPDATE quran_surah SET idnSurahInfo = "<p>Surah al-Muzzammil termasuk kelompok surah Makkiyyah, kecuali ayat 10, 11, dan 12. Ketiga ayat ini termasuk kelompok surah Madaniyyah. Surah al-Muzzammil terdiri dari 20 ayat. Diturunkan sesudah Surah al-Qalam.</p>
 <p>Surah ini dinamai al-Muzzammil (orang yang berselimut), diambil dari ayat pertama yang berbunyi: Yā ayyuhal muzzammil. Yang dimaksud dengan orang yang berselimut ialah Nabi Muhammad.</p>
 <p>Pokok-pokok Isinya:</p>
 <p>Petunjuk-petunjuk yang harus dilakukan oleh Rasulullah saw untuk menguatkan rohani guna persiapan menerima wahyu, yaitu dengan bangun di malam hari untuk salat Tahajud, membaca Al-Qur’an dengan tartil, bertasbih, dan bertahmid; perintah bersabar terhadap celaan orang-orang yang mendustakan rasul; umat Islam diperintahkan untuk salat Tahajud, berjihad di jalan Allah, membaca Al-Qur’an, mendirikan salat, menunaikan zakat, membelanjakan harta di jalan Allah, dan memohon ampunan kepada-Nya.</p>
@@ -2114,7 +2114,7 @@ UPDATE quran_surah SET surahInfo = "<p>Surah al-Muzzammil termasuk kelompok sura
 <li>Surah al-Muzzammil berisi perintah bangun di malam hari untuk melakukan salat Tahajud dan membaca Al-Qur’an untuk menguatkan jiwa seseorang, sedangkan Surah al-Muddaṡṡir berisi perintah melakukan dakwah menyucikan diri dan bersabar.</li>
 </ol>
 " WHERE id = 73;
-UPDATE quran_surah SET surahInfo = "<p>Surah al-Muddaṡṡir terdiri 56 ayat, termasuk kelompok surah Makkiyyah, diturunkan sesudah Surah al-Muzzammil.</p>
+UPDATE quran_surah SET idnSurahInfo = "<p>Surah al-Muddaṡṡir terdiri 56 ayat, termasuk kelompok surah Makkiyyah, diturunkan sesudah Surah al-Muzzammil.</p>
 <p>Nama al-Muddaṡṡir diambil dari perkataan al-muddaṡṡir yang terdapat pada ayat pertama surah ini.</p>
 <p>Pokok-pokok Isinya:</p>
 <p>Perintah untuk mulai berdakwah mengagungkan Allah, membersihkan pakaian, menjauhi maksiat, memberikan sesuatu dengan ikhlas, dan bersabar dalam menjalankan perintah serta menjauhi larangan Allah; Allah akan mengazab orang-orang yang menentang Nabi Muhammad dan mendustakan Al-Qur’an; tiap-tiap manusia terikat dengan apa yang telah diusahakannya.</p>
@@ -2126,7 +2126,7 @@ UPDATE quran_surah SET surahInfo = "<p>Surah al-Muddaṡṡir terdiri 56 ayat, t
 <li>Surah al-Muddaṡṡir mengungkapkan bahwa orang-orang kafir mendustakan Al-Qur’an dan menganggapnya sebagai perkataan manusia biasa, sedang pada Surah al-Qiyāmah ini, Allah menjamin Al-Qur’an dalam ingatan Nabi dan mengajarkan bacaannya.</li>
 </ol>
 " WHERE id = 74;
-UPDATE quran_surah SET surahInfo = "<p>Surah al-Qiyāmah terdiri atas 40 ayat, 199 kata dan 652 huruf. Termasuk kelompok surah Makkiyyah, dan diturunkan sesudah Surah al-Qāri‘ah. Nama al-Qiyāmah (Hari Kiamat) diambil dari kata al-qiyāmah yang terdapat pada ayat pertama. Dinamakan al-Qiyāmah karena sebagian besar surah ini menceritakan kedahsyatan hari Kiamat. Saat pahala dan siksaan yang dialami manusia tiada batasnya. Pada hari itu manusia menyesal karena sedikitnya perbuatan baik yang telah dikerjakannya.</p>
+UPDATE quran_surah SET idnSurahInfo = "<p>Surah al-Qiyāmah terdiri atas 40 ayat, 199 kata dan 652 huruf. Termasuk kelompok surah Makkiyyah, dan diturunkan sesudah Surah al-Qāri‘ah. Nama al-Qiyāmah (Hari Kiamat) diambil dari kata al-qiyāmah yang terdapat pada ayat pertama. Dinamakan al-Qiyāmah karena sebagian besar surah ini menceritakan kedahsyatan hari Kiamat. Saat pahala dan siksaan yang dialami manusia tiada batasnya. Pada hari itu manusia menyesal karena sedikitnya perbuatan baik yang telah dikerjakannya.</p>
 <p>Pokok-pokok Isinya:</p>
 <ol>
 <li>Allah memastikan kedatangan hari Kiamat itu, disertai gambaran sekitar huru-hara yang terjadi pada masa itu.</li>
@@ -2160,7 +2160,7 @@ UPDATE quran_surah SET surahInfo = "<p>Surah al-Qiyāmah terdiri atas 40 ayat, 1
 <li>Surah al-Qiyāmah menerangkan huru-hara pada hari Kiamat dan azab yang dialami orang-orang kafir, sedang surah al-Insān menerangkan keadaan yang dialami orang-orang yang bertakwa dan berbakti di akhirat dan di dalam surga nanti.</li>
 </ol>
 " WHERE id = 75;
-UPDATE quran_surah SET surahInfo = "<p>Surah al-Insān terdiri dari 31 ayat, termasuk kelompok surah Madaniyyah, diturunkan sesudah Surah al-Raḥmān.</p>
+UPDATE quran_surah SET idnSurahInfo = "<p>Surah al-Insān terdiri dari 31 ayat, termasuk kelompok surah Madaniyyah, diturunkan sesudah Surah al-Raḥmān.</p>
 <p>Nama al-Insān (manusia) diambil dari perkataan al-insān yang terdapat pada ayat pertama surah ini.</p>
 <p>Surah ini dinamai Surah ad-Dahr (masa) dan “Hal atā”, yang kedua-duanya diambil dari perkataan yang terdapat pada ayat pertama. Dinamakan pula Surah Amsyāj (yang bercampur) yang diambil dari perkataan yang terdapat pada ayat kedua.</p>
 <p>Dalam hadis riwayat Muslim disebutkan bahwa Ibnu ‘Abbās menceritakan, di antara kebiasaan Rasulullah saw adalah membaca Surah as-Sajdah dan Hal atā ‘ala insāni pada salat Subuh pada hari Jumat.</p>
@@ -2198,7 +2198,7 @@ UPDATE quran_surah SET surahInfo = "<p>Surah al-Insān terdiri dari 31 ayat, ter
 <li>Surah al-Insān menerangkan tentang kejadian manusia secara umum, sedang Surah al-Mursalāt menerangkan kejadian itu secara terperinci.</li>
 </ol>
 " WHERE id = 76;
-UPDATE quran_surah SET surahInfo = "<p>Surah al-Mursalāt terdiri 50 ayat, termasuk kelompok surah Makkiyyah, diturunkan sesudah Surah al-Humazah.</p>
+UPDATE quran_surah SET idnSurahInfo = "<p>Surah al-Mursalāt terdiri 50 ayat, termasuk kelompok surah Makkiyyah, diturunkan sesudah Surah al-Humazah.</p>
 <p>Nama al-Mursalāt (Malaikat-malaikat yang diutus) diambil dari perkataan al-mursalāt yang terdapat pada ayat pertama surah ini.</p>
 <p>Pokok-pokok Isinya:</p>
 <p>Penegasan Allah bahwa semua yang diancamkan-Nya pasti terjadi; peristiwa-peristiwa yang terjadi sebelum hari kebangkitan; peringatan Allah akan kehancuran umat-umat yang dahulu yang mendustakan nabi-nabi dan asal kejadian manusia dari air yang hina; keadaan orang kafir dan orang mukmin di hari Kiamat.</p>
@@ -2224,7 +2224,7 @@ UPDATE quran_surah SET surahInfo = "<p>Surah al-Mursalāt terdiri 50 ayat, terma
 <li>Dalam Surah al-Mursalāt diterangkan tentang “yaumul-faṣl” (hari keputusan) secara umum sedang Surah an-Naba’ menjelaskannya.</li>
 </ol>
 " WHERE id = 77;
-UPDATE quran_surah SET surahInfo = "<p>Surah an-Naba’ terdiri dari 40 ayat, termasuk kelompok surah Makkiyyah, diturunkan sesudah Surah al-Ma‘ārij.</p>
+UPDATE quran_surah SET idnSurahInfo = "<p>Surah an-Naba’ terdiri dari 40 ayat, termasuk kelompok surah Makkiyyah, diturunkan sesudah Surah al-Ma‘ārij.</p>
 <p>Nama an-Naba’ diambil dari kata an-naba’ yang terdapat pada ayat kedua surah ini.</p>
 <p>Disebut juga Surah ‘Amma yatasā’alūn yang diambil dari perkataan ‘amma yatasā’alūn yang terdapat pada ayat pertama surah ini.</p>
 <p>Pokok-pokok Isinya:</p>
@@ -2240,7 +2240,7 @@ UPDATE quran_surah SET surahInfo = "<p>Surah an-Naba’ terdiri dari 40 ayat, te
 <li>Sama-sama menerangkan huru-hara yang terjadi pada hari Kiamat dan hari kebangkitan.</li>
 </ol>
 " WHERE id = 78;
-UPDATE quran_surah SET surahInfo = "<p>Surah an-Nāzi‘āt terdiri dari 46 ayat, termasuk kelompok surah Makkiyyah, diturunkan sesudah Surah an-Naba’.</p>
+UPDATE quran_surah SET idnSurahInfo = "<p>Surah an-Nāzi‘āt terdiri dari 46 ayat, termasuk kelompok surah Makkiyyah, diturunkan sesudah Surah an-Naba’.</p>
 <p>Nama an-Nāzi‘āt (Malaikat-malaikat yang mencabut) diambil dari kata an-Nāzi‘āt yang terdapat pada ayat pertama surah ini.</p>
 <p>Surah ini dinamai pula dengan as-Sāhirah yang diambil dari ayat 14, dan dinamai juga aṭ-Ṭāmmah yang diambil dari ayat 34.</p>
 <p>Pokok-pokok Isinya:</p>
@@ -2257,7 +2257,7 @@ UPDATE quran_surah SET surahInfo = "<p>Surah an-Nāzi‘āt terdiri dari 46 ayat
 <p>DENGAN SURAH ‘ABASA</p>
 <p>Pada akhir Surah an-Nāzi’āt diterangkan bahwa Nabi Muhammad saw hanyalah pemberi peringatan kepada orang-orang yang takut kepada hari Kiamat, sedangkan pada permulaan Surah ‘Abasa dibayangkan bahwa dalam memberikan peringatan itu hendaklah memberikan penghargaan yang sama kepada orang-orang yang diberi peringatan dengan tidak memandang kedudukan seseorang dalam masyarakat.</p>
 " WHERE id = 79;
-UPDATE quran_surah SET surahInfo = "<p>Surah ‘Abasa terdiri dari 42 ayat, termasuk kelompok surah Makkiyyah, diturunkan sesudah Surah an-Najm.</p>
+UPDATE quran_surah SET idnSurahInfo = "<p>Surah ‘Abasa terdiri dari 42 ayat, termasuk kelompok surah Makkiyyah, diturunkan sesudah Surah an-Najm.</p>
 <p>Nama ‘Abasa (ia bermuka masam) diambil dari perkataan ‘abasa yang terdapat pada ayat pertama surah ini.</p>
 <p>Menurut riwayat, pada suatu ketika Rasulullah saw menerima dan berbicara dengan pemuka-pemuka Quraisy, yang beliau harapkan agar masuk Islam. Ketika itu, datanglah ‘Abdullāh bin Ummi Maktūm, seorang sahabat yang buta yang mengharap agar Rasulullah saw membacakan kepadanya ayat-ayat Al-Qur’an yang telah diturunkan Allah. Akan tetapi, Rasulullah saw bermuka masam dan memalingkan muka dari ‘Abdullāh bin Ummi Maktūm yang buta itu, lalu Allah menurunkan surah ini sebagai teguran atas sikap Rasulullah saw kepada sahabat tersebut.</p>
 <p>Pokok-pokok Isinya:</p>
@@ -2280,7 +2280,7 @@ UPDATE quran_surah SET surahInfo = "<p>Surah ‘Abasa terdiri dari 42 ayat, term
 <li>Pada Surah ‘Abasa, Allah menegur Muhammad saw, sedang dalam at-Takwīr, Allah menegaskan bahwa Muhammad saw adalah seorang rasul yang mulia.</li>
 </ol>
 " WHERE id = 80;
-UPDATE quran_surah SET surahInfo = "<p>Surah at-Takwīr terdiri dari 29 ayat, termasuk kelompok surah Makkiyyah, diturunkan sesudah Surah al-Lahab.</p>
+UPDATE quran_surah SET idnSurahInfo = "<p>Surah at-Takwīr terdiri dari 29 ayat, termasuk kelompok surah Makkiyyah, diturunkan sesudah Surah al-Lahab.</p>
 <p>Kata at-Takwīr yang menjadi nama bagi surah ini adalah kata asal (maṣdar) dari kata kerja kuwwirat (digulung) yang terdapat pada ayat pertama surah ini.</p>
 <p>Pokok-pokok Isinya:</p>
 <p>Keguncangan-keguncangan yang terjadi pada hari Kiamat; pada hari Kiamat setiap jiwa akan mengetahui apa yang telah dikerjakannya waktu di dunia; Al-Qur’an adalah firman Allah yang disampaikan oleh Jibril a.s.; penegasan atas kenabian Muhammad saw; Al-Qur’an sumber petunjuk bagi umat manusia yang menginginkan hidup lurus; suksesnya manusia dalam mencatat kehidupan yang lurus itu tergantung kepada taufik dari Allah.</p>
@@ -2294,7 +2294,7 @@ UPDATE quran_surah SET surahInfo = "<p>Surah at-Takwīr terdiri dari 29 ayat, te
 <li>Dalam Surah at-Takwīr dinyatakan bahwa tiap-tiap jiwa akan mengetahui apa-apa yang telah dikerjakannya, kemudian pada Surah al-Infiṭār diulangi lagi penegasan bahwa manusia tidak dapat saling menolong di akhirat.</li>
 </ol>
 " WHERE id = 81;
-UPDATE quran_surah SET surahInfo = "<p>Surah ini terdiri dari 19 ayat, termasuk kelompok surah Makkiyyah dan diturunkan sesudah Surah an-Nāzi‘āt. Al-Infiṭār yang dijadikan nama untuk surah ini adalah kata asal dari kata infaṭarat (terbelah) yang terdapat pada ayat pertama.</p>
+UPDATE quran_surah SET idnSurahInfo = "<p>Surah ini terdiri dari 19 ayat, termasuk kelompok surah Makkiyyah dan diturunkan sesudah Surah an-Nāzi‘āt. Al-Infiṭār yang dijadikan nama untuk surah ini adalah kata asal dari kata infaṭarat (terbelah) yang terdapat pada ayat pertama.</p>
 <p>Pokok-pokok Isinya:</p>
 <p>Peristiwa-peristiwa yang terjadi pada hari Kiamat; peringatan kepada manusia agar tidak teperdaya sampai durhaka kepada Allah; adanya malaikat yang selalu menjaga dan mencatat segala amal perbuatan manusia; pada hari Kiamat manusia tak dapat menolong orang lain. Hanya kekuasaan Allah-lah yang berlaku pada waktu itu.</p>
 <p>Surah al-Infiṭār ini menggambarkan peristiwa dahsyat yang mengiringi kedatangan hari Kiamat, seperti terbelahnya langit, berjatuhannya bintang-bintang, dan lain-lain. Juga diterangkan penyerahan catatan amal manusia, sehingga mereka mengetahui amal perbuatan masing-masing. Surah ini juga menerangkan keingkaran manusia kepada karunia Allah dan bahwa segala amal perbuatan mereka itu akan mendapat pembalasan.</p>
@@ -2307,7 +2307,7 @@ UPDATE quran_surah SET surahInfo = "<p>Surah ini terdiri dari 19 ayat, termasuk 
 <li>Dalam Surah al-Infiṭār secara singkat diterangkan dua golongan manusia pada hari Kiamat yaitu orang-orang yang berbuat kebajikan dan orang-orang yang durhaka. Dalam Surah al-Muṭaffifīn diuraikan lebih luas keadaan dan sifat kedua golongan manusia itu.</li>
 </ol>
 " WHERE id = 82;
-UPDATE quran_surah SET surahInfo = "<p>Surah ini terdiri dari 36 ayat, termasuk kelompok surah Makkiyyah, diturunkan sesudah Surah al-‘Ankabūt dan merupakan surah yang terakhir diturunkan di Mekah sebelum hijrah. Al-Muṭaffifīn yang dijadikan nama bagi surah ini diambil dari kata al-muṭaffifīn yang terdapat pada ayat pertama.</p>
+UPDATE quran_surah SET idnSurahInfo = "<p>Surah ini terdiri dari 36 ayat, termasuk kelompok surah Makkiyyah, diturunkan sesudah Surah al-‘Ankabūt dan merupakan surah yang terakhir diturunkan di Mekah sebelum hijrah. Al-Muṭaffifīn yang dijadikan nama bagi surah ini diambil dari kata al-muṭaffifīn yang terdapat pada ayat pertama.</p>
 <p>Pokok-pokok Isinya:</p>
 <p>Ancaman Allah terhadap orang-orang yang mengurangi hak orang lain dalam timbangan, ukuran, dan takaran. Catatan kejahatan manusia dicantumkan dalam sijjīn, sedangkan catatan kebajikan manusia dicantumkan dalam ‘illiyyīn. Balasan dan berbagai macam kenikmatan bagi orang yang berbuat kebajikan; sikap dan pandangan orang-orang kafir di dunia terhadap orang-orang yang beriman; sikap orang-orang yang beriman di akhirat terhadap orang-orang kafir.</p>
 <p>Surah al-Muṭaffifīn mengandung ancaman terhadap orang kafir dan orang yang melakukan kecurangan. Di samping itu, juga memberikan janji yang baik kepada mereka yang beriman dan melakukan kebajikan.</p>
@@ -2320,7 +2320,7 @@ UPDATE quran_surah SET surahInfo = "<p>Surah ini terdiri dari 36 ayat, termasuk 
 <li>Dalam kedua surah ini, Allah juga menggambarkan ancaman bagi orang kafir dan ganjaran yang tak terhingga bagi orang-orang yang beriman.</li>
 </ol>
 " WHERE id = 83;
-UPDATE quran_surah SET surahInfo = "<p>Surah al-Insyiqāq terdiri dari 25 ayat, termasuk kelompok surah Makkiyyah, diturunkan sesudah Surah al-Infiṭār. Nama al-Insyiqāq (terbelah) diambil dari perkataan insyaqqat yang terdapat pada permulaan surah ini, yang pokok katanya ialah insyiqāq.</p>
+UPDATE quran_surah SET idnSurahInfo = "<p>Surah al-Insyiqāq terdiri dari 25 ayat, termasuk kelompok surah Makkiyyah, diturunkan sesudah Surah al-Infiṭār. Nama al-Insyiqāq (terbelah) diambil dari perkataan insyaqqat yang terdapat pada permulaan surah ini, yang pokok katanya ialah insyiqāq.</p>
 <p>Pokok-pokok Isinya:</p>
 <p>Peristiwa-peristiwa pada permulaan terjadinya hari Kiamat; peringatan bahwa manusia bersusah payah menemui Tuhannya; dalam menemui Tuhannya kelak ada yang mendapat kebahagiaan dan ada pula yang mendapat kesengsaraan; tingkat-tingkat kejadian dan kehidupan manusia di dunia dan akhirat.</p>
 <p>Surah al-Insyiqāq mengutarakan kejadian-kejadian permulaan terjadinya hari Kiamat, bagaimana balasan perbuatan yang baik dan yang buruk, dan kepastian terjadinya hari Kiamat yang ditentang oleh orang-orang kafir.</p>
@@ -2333,7 +2333,7 @@ UPDATE quran_surah SET surahInfo = "<p>Surah al-Insyiqāq terdiri dari 25 ayat, 
 <li>Dalam Surah al-Insyiqāq diterangkan sikap kaum musyrikin terhadap seruan Rasulullah saw, sedangkan Surah al-Burūj menerangkan sikap orang-orang musyrik dan tindakan mereka yang biasa mereka lakukan sejak dahulu terhadap orang-orang yang menerima seruan para rasul.</li>
 </ol>
 " WHERE id = 84;
-UPDATE quran_surah SET surahInfo = "<p>Surah al-Burūj terdiri dari 22 ayat, termasuk kelompok surah Makkiyyah, diturunkan sesudah Surah asy-Syams.</p>
+UPDATE quran_surah SET idnSurahInfo = "<p>Surah al-Burūj terdiri dari 22 ayat, termasuk kelompok surah Makkiyyah, diturunkan sesudah Surah asy-Syams.</p>
 <p>Nama al-Burūj (gugusan bintang) diambil dari kata al-burūj yang terdapat pada ayat pertama surah ini.</p>
 <p>Pokok-pokok Isinya:</p>
 <p>Sikap dan tindakan orang kafir terhadap orang-orang yang mengikuti seruan para rasul; bukti-bukti kekuasaan dan keesaan Allah; isyarat dari Allah bahwa orang-orang kafir Mekah akan ditimpa azab sebagaimana kaum Fir‘aun dan Samud telah ditimpa azab; serta jaminan Allah terhadap kemurnian Al-Qur’an.</p>
@@ -2347,7 +2347,7 @@ UPDATE quran_surah SET surahInfo = "<p>Surah al-Burūj terdiri dari 22 ayat, ter
 <li>Pada Surah al-Burūj disebutkan bahwa Al-Qur’an itu dijaga dan dipelihara oleh Allah dari segala yang dapat merusaknya, sedang Surah aṭ-Ṭāriq menerangkan bahwa Al-Qur’an adalah pemisah antara yang hak dan yang batil.</li>
 </ol>
 " WHERE id = 85;
-UPDATE quran_surah SET surahInfo = "<p>Surah aṭ-Ṭāriq terdiri dari 17 ayat, termasuk kelompok surah Makkiyah, diturunkan sesudah Surah al-Balad.</p>
+UPDATE quran_surah SET idnSurahInfo = "<p>Surah aṭ-Ṭāriq terdiri dari 17 ayat, termasuk kelompok surah Makkiyah, diturunkan sesudah Surah al-Balad.</p>
 <p>Nama aṭ-Ṭāriq (yang datang pada malam hari) diambil dari kata aṭ-ṭāriq yang terdapat pada ayat petama surah ini. Aṭ-Ṭāriq adalah nama bintang dan semua bintang disebut ṭāriq karena terbitnya pada malam hari.</p>
 <p>Pokok-pokok Isinya:</p>
 <p>Tiap-tiap jiwa selalu dipelihara dan diawasi Allah; mereka merenungkan asal kejadian diri sendiri, yaitu dari air mani yang akan menghilangkan sifat sombong dan takabur; Allah kuasa menghidupkan manusia kembali pada hari Kiamat, pada waktu itu tidak ada kekuatan yang dapat menolong selain Allah; Al-Qur’an adalah pemisah antara yang hak dan yang batil.</p>
@@ -2361,7 +2361,7 @@ UPDATE quran_surah SET surahInfo = "<p>Surah aṭ-Ṭāriq terdiri dari 17 ayat,
 <li>Dalam surah aṭ-Ṭāriq diterangkan tentang penciptaan manusia dan diisyaratkan pula penciptaan tumbuh-tumbuhan, sedang pada surah al-A‘lā diterangkan bahwa Allah menciptakan alam dengan sempurna dan dengan ukuran-ukuran tertentu.</li>
 </ol>
 " WHERE id = 86;
-UPDATE quran_surah SET surahInfo = "<p>Surah ini terdiri dari 19 ayat, termasuk kelompok surah Makkiyyah, diturunkan sesudah Surah at-Takwīr. Nama al-A‘lā diambil dari kata a‘lā yang terdapat pada ayat pertama, berarti “Yang Mahatinggi”. Muslim meriwayatkan dalam kitab al-Jumu‘ah, dan diriwayatkan pula oleh Aṡḥābus-Sunan, dari Nu‘man bin Basyir bahwa Rasulullah saw pada salat dua hari raya (Fitri dan Adha) dan salat Jumat membaca Surah al-A‘lā pada rakaat pertama dan Surah al-Gāsyiyah pada rakaat kedua.</p>
+UPDATE quran_surah SET idnSurahInfo = "<p>Surah ini terdiri dari 19 ayat, termasuk kelompok surah Makkiyyah, diturunkan sesudah Surah at-Takwīr. Nama al-A‘lā diambil dari kata a‘lā yang terdapat pada ayat pertama, berarti “Yang Mahatinggi”. Muslim meriwayatkan dalam kitab al-Jumu‘ah, dan diriwayatkan pula oleh Aṡḥābus-Sunan, dari Nu‘man bin Basyir bahwa Rasulullah saw pada salat dua hari raya (Fitri dan Adha) dan salat Jumat membaca Surah al-A‘lā pada rakaat pertama dan Surah al-Gāsyiyah pada rakaat kedua.</p>
 <p>Pokok-pokok Isinya:</p>
 <p>Perintah Allah untuk bertasbih dengan menyebut nama-Nya. Nabi Muhammad sekali-kali tidak lupa pada ayat-ayat yang dibacakan kepadanya. Jalan yang menjadikan orang sukses hidup dunia dan akhirat. Allah menciptakan, menyempurnakan ciptaan-Nya, menentukan kadar-kadar, memberi petunjuk, dan melengkapi keperluannya sehingga tercapai tujuannya.</p>
 <p>Surah al-A‘lā mengemukakan sifat-sifat Allah; salah satu kelebihan yang diberikan Allah kepada Nabi Muhammad ialah apabila didengarnya apa yang dibacakan kepadanya dari kitab suci Al-Qur’an, maka tetap akan diingatnya. Dikemukakan pula orang yang akan mendapat kebahagiaan di akhirat.</p>
@@ -2369,7 +2369,7 @@ UPDATE quran_surah SET surahInfo = "<p>Surah ini terdiri dari 19 ayat, termasuk 
 <p>SURAH AL-GĀSYIYAH</p>
 <p>Pada Surah al-A‘lā diterangkan secara umum tentang orang yang beriman, orang yang kafir, surga dan neraka. Kemudian dalam Surah al-Gāsyiyah dikemukakan kembali dengan cara yang lebih luas.</p>
 " WHERE id = 87;
-UPDATE quran_surah SET surahInfo = "<p>Surah ini terdiri dari 26 ayat, termasuk kelompok surah Makkiyyah, diturunkan sesudah Surah aż-Żāriyāt. Nama al-Gāsyiyah diambil dari kata al-gāsyiyah yang terdapat pada ayat pertama surah ini yang artinya peristiwa yang dahsyat; tetapi yang dimaksud adalah hari Kiamat. Surah ini adalah surah yang kerap kali dibaca Nabi pada rakaat kedua pada salat Hari Raya dan salat Jum’at.</p>
+UPDATE quran_surah SET idnSurahInfo = "<p>Surah ini terdiri dari 26 ayat, termasuk kelompok surah Makkiyyah, diturunkan sesudah Surah aż-Żāriyāt. Nama al-Gāsyiyah diambil dari kata al-gāsyiyah yang terdapat pada ayat pertama surah ini yang artinya peristiwa yang dahsyat; tetapi yang dimaksud adalah hari Kiamat. Surah ini adalah surah yang kerap kali dibaca Nabi pada rakaat kedua pada salat Hari Raya dan salat Jum’at.</p>
 <p>Pokok-pokok Isinya:</p>
 <p>Keterangan tentang orang-orang kafir pada hari Kiamat dan azab yang dijatuhkan atas mereka. Keterangan tentang orang-orang yang beriman serta keadaan surga yang diberikan kepada mereka sebagai balasan. Perintah untuk memperhatikan keajaiban ciptaan-ciptaan Allah. Perintah kepada Rasulullah saw untuk memperingatkan kaumnya kepada ayat-ayat Allah karena beliau adalah seorang pemberi peringatan, dan bukanlah seorang yang berkuasa atas keimanan mereka.</p>
 <p>Surah al-Gāsyiyah menerangkan penderitaan orang kafir dan kenikmatan orang yang beriman pada hari Kiamat.</p>
@@ -2382,7 +2382,7 @@ UPDATE quran_surah SET surahInfo = "<p>Surah ini terdiri dari 26 ayat, termasuk 
 <li>Dalam Surah al-Gāsyiyah, Allah mengemukakan orang yang bercahaya wajahnya, sedang pada surah al-Fajr disebutkan orang yang berjiwa tenang di dunia karena iman dan takwanya yang di akhirat akan berseri-seri wajahnya.</li>
 </ol>
 " WHERE id = 88;
-UPDATE quran_surah SET surahInfo = "<p>Surah ini terdiri dari 30 ayat, termasuk kelompok surah Makkiyyah, turun sebelum Surah aḍ-Ḍuhā dan sesudah Surah al-Fīl. Nama al-Fajr diambil dari kata al-fajr yang terdapat pada ayat pertama surah ini yang artinya “fajar”.</p>
+UPDATE quran_surah SET idnSurahInfo = "<p>Surah ini terdiri dari 30 ayat, termasuk kelompok surah Makkiyyah, turun sebelum Surah aḍ-Ḍuhā dan sesudah Surah al-Fīl. Nama al-Fajr diambil dari kata al-fajr yang terdapat pada ayat pertama surah ini yang artinya “fajar”.</p>
 <p>Pokok-pokok Isinya:</p>
 <p>Allah bersumpah dengan fajar dan malam setiap hari atau hari-hari tertentu untuk menekankan bahwa apa dan siapa pun di alam ini tidak akan abadi. Contohnya adalah beberapa umat terdahulu yang dihancurkan Allah karena kedurhakaan mereka walaupun mereka begitu kuat dan perkasa. Peristiwa-peristiwa itu hendaknya menjadi peringatan bagi kaum kafir Mekah bahwa bila mereka tetap membangkang, mereka dapat saja dihancurkan oleh Allah seperti umat-umat itu. Manusia secara pribadi juga demikian, mereka akan mati, kemudian akan menjalani kehidupan yang abadi di akhirat dalam keadaan bahagia atau sengsara. Oleh karena itu, manusia jangan terlalu cinta harta, sebab kecukupan materi di dunia belum tentu merupakan pertanda bahwa Allah mencintainya. Yang diperlukan adalah mencintai anak yatim, membantu orang miskin, dan tidak memakan harta pusaka yang tidak menjadi haknya. Orang yang bersih dari dosa akan dipersilakan oleh Allah untuk memasuki surga-Nya.</p>
 <p>Surah al-Fajr berisi pesan bahwa kepuasan hidup di dunia terdapat pada perbuatan baik sesama manusia dan menjauhi perbuatan jahat. Kepuasan hidup di dunia itu akan berbalas kepuasan hidup pula di akhirat, yaitu memperoleh cinta dari Allah dan masuk surga-Nya.</p>
@@ -2395,7 +2395,7 @@ UPDATE quran_surah SET surahInfo = "<p>Surah ini terdiri dari 30 ayat, termasuk 
 <li>Kedua surah sama-sama mengemukakan bahwa manusia itu terbagi dua dalam kaitannya dengan harta kekayaan mereka, ada yang akan masuk surga dan ada yang akan masuk neraka.</li>
 </ol>
 " WHERE id = 89;
-UPDATE quran_surah SET surahInfo = "<p>Surah al-Balad terdiri dari 20 ayat, termasuk kelompok surah Makkiyyah, diturunkan sebelum Surah Qāf dan sesudah Surah aṭ-Ṭāriq.</p>
+UPDATE quran_surah SET idnSurahInfo = "<p>Surah al-Balad terdiri dari 20 ayat, termasuk kelompok surah Makkiyyah, diturunkan sebelum Surah Qāf dan sesudah Surah aṭ-Ṭāriq.</p>
 <p>Nama al-Balad (negeri) diambil dari perkataan al-balad yang terdapat pada ayat pertama surah ini. Yang dimaksud dengan kota di sini ialah kota Mekah yang merupakan kota yang diberkahi sekalipun negeri itu padang pasir.</p>
 <p>Pokok-pokok Isinya:</p>
 <p>Manusia diciptakan Allah untuk berjuang menghadapi kesulitan. Manusia jangan teperdaya oleh kekuasaan dan harta benda yang banyak yang telah dibelanjakannya. Beberapa peringatan kepada manusia atas beberapa nikmat yang telah diberikan Allah kepadanya dan bahwa Allah telah menunjukkan jalan-jalan yang akan menyampaikannya kepada kebahagiaan dan yang akan membawanya kepada kecelakaan.</p>
@@ -2409,7 +2409,7 @@ UPDATE quran_surah SET surahInfo = "<p>Surah al-Balad terdiri dari 20 ayat, term
 <li>Kedua surah juga menyampaikan pesan bahwa manusia perlu berusaha dan berjuang untuk memperoleh kebahagiaan dengan menyelesaikan pekerjaan-pekerjaan besar dan sulit.</li>
 </ol>
 " WHERE id = 90;
-UPDATE quran_surah SET surahInfo = "<p>Surah asy-Syams terdiri dari 15 ayat, termasuk kelompok surah Makkiyyah, diturunkan sesudah Surah al-Qadar dan sebelum Surah al-Burūj.</p>
+UPDATE quran_surah SET idnSurahInfo = "<p>Surah asy-Syams terdiri dari 15 ayat, termasuk kelompok surah Makkiyyah, diturunkan sesudah Surah al-Qadar dan sebelum Surah al-Burūj.</p>
 <p>Nama asy-Syams diambil dari kata itu yang disebutkan pada ayat pertama.</p>
 <p>Pokok-pokok Isinya:</p>
 <ol>
@@ -2423,7 +2423,7 @@ UPDATE quran_surah SET surahInfo = "<p>Surah asy-Syams terdiri dari 15 ayat, ter
 <p>DENGAN SURAH AL-LAIL</p>
 <p>Surah asy-Syams menginformasikan adanya dua golongan manusia, yaitu yang menyucikan dirinya dengan berbuat baik dan bebas dari dosa, dan orang mengotori dirinya dengan melakukan dosa-dosa. Dalam Surah al-Lail juga diterangkan dua golongan manusia. Bila dalam Surah asy-Syams penggolongan itu berdasarkan usaha manusia membersihkan dirinya dengan melakukan perbuatan-perbuatan baik dan menjauhi perbuatan-perbuatan dosa, dalam Surah al-Lail ini penggolongan itu berdasarkan aktualisasi yang konkrit perbuatan baik itu, yaitu kesediaan mengorbankan harta atau ketidak sediaannya. Hal itu mengandung arti bahwa salah satu cara membersihkan diri itu adalah dengan mengorbankan harta tersebut.</p>
 " WHERE id = 91;
-UPDATE quran_surah SET surahInfo = "<p>Surah al-Lail terdiri dari 21 ayat, termasuk kelompok surah Makkiyyah, diturunkan sesudah surah al-A‘lā sebelum Surah al-Fajr.</p>
+UPDATE quran_surah SET idnSurahInfo = "<p>Surah al-Lail terdiri dari 21 ayat, termasuk kelompok surah Makkiyyah, diturunkan sesudah surah al-A‘lā sebelum Surah al-Fajr.</p>
 <p>Surah ini dinamai al-Lail (malam), diambil dari kata al-lail yang terdapat pada ayat pertama surah ini.</p>
 <p>Pokok-pokok Isinya:</p>
 <p>Surah ini juga dimulai dengan sumpah-sumpah Allah dengan makhluk-makhluk-Nya yang bertolak belakang sifat-sifatnya, yaitu malam dan siang serta laki-laki dan perempuan. Isi sumpah (muqsam ‘alaih) Allah juga berkenaan dengan sifat manusia berkenaan kekayaan yang bermacam-macam, yaitu ada yang mau menggunakannya untuk membantu orang lain dan ada yang tidak mau. Menggunakannya untuk membantu orang lain akan membawa mereka masuk ke dalam surga. Sedangkan kikir akan membawa ke dalam neraka.</p>
@@ -2432,7 +2432,7 @@ UPDATE quran_surah SET surahInfo = "<p>Surah al-Lail terdiri dari 21 ayat, terma
 <p>DENGAN SURAH AḌ-ḌUḤĀ</p>
 <p>Setelah pada surah sebelumnya (al-Lail), diceritakan tentang dua kelompok manusia, yang bahagia dan celaka. Terhadap orang yang bertakwa, yang selalu berinfak karena Allah, dia akan mendapatkan rida dari Allah swt. Maka pada Surah aḍ-Ḍuḥa Allah menjelaskan bahwa Nabi Muhammad saw orang yang paling berbahagia di dunia dan juga kelak di akhirat. Allah tidak akan meninggalkannya dan Allah akan memberikan karunia yang agung dan akan meridainya.</p>
 " WHERE id = 92;
-UPDATE quran_surah SET surahInfo = "<p>Surah aḍ-Ḍuḥā terdiri dari 11 ayat, termasuk kelompok surah Makkiyyah, diturunkan sesudah surah al-Fajr. Nama aḍ-Ḍuḥā diambil dari kata aḍ-Ḍuḥā yang terdapat pada ayat pertama, artinya, “ketika matahari naik sepenggalah”.</p>
+UPDATE quran_surah SET idnSurahInfo = "<p>Surah aḍ-Ḍuḥā terdiri dari 11 ayat, termasuk kelompok surah Makkiyyah, diturunkan sesudah surah al-Fajr. Nama aḍ-Ḍuḥā diambil dari kata aḍ-Ḍuḥā yang terdapat pada ayat pertama, artinya, “ketika matahari naik sepenggalah”.</p>
 <p>Pokok-pokok Isinya:</p>
 <p>Surah ini berisi bantahan terhadap persangkaan kaum musyrikin Mekah dulu bahwa Allah meninggalkan Nabi Muhammad dan membenci beliau. Masalah kapan dan kepada siapa Allah menurunkan wahyu-Nya, itu adalah wewenang-Nya sepenuhnya, manusia tidak dapat campur tangan. Di samping bantahan itu, Allah juga menyampaikan nikmat-nikmat yang telah diberikan-Nya kepada Nabi Muhammad, supaya beliau berbesar hati. Allah kemudian memberikan perintah-perintah-Nya untuk beliau laksanakan, khususnya perhatian pada anak yatim dan orang miskin.</p>
 <p>Surah aḍ-Ḍuḥā menerangkan tentang bimbingan dan pemeliharaan Allah terhadap Nabi Muhammad dengan cara yang tak putus-putusnya dan mengandung pula perintah kepada Nabi supaya mensyukuri segala nikmat itu.</p>
@@ -2445,7 +2445,7 @@ UPDATE quran_surah SET surahInfo = "<p>Surah aḍ-Ḍuḥā terdiri dari 11 ayat
 <li>Kedua surah ini sama-sama menerangkan nikmat-nikmat Allah dan memerintahkan Nabi untuk menyukurinya.</li>
 </ol>
 " WHERE id = 93;
-UPDATE quran_surah SET surahInfo = "<p>Surah ini terdiri dari 8 ayat, termasuk kelompok surah Makkiyyah, diturunkan sesudah Surah aḍ-Ḍuḥā. Nama asy-Syarḥ (melapangkan) diambil dari kata alam nasyraḥ yang terdapat pada ayat pertama, yang memberitakan tentang dibukanya hati Nabi Muhammad, dan kemudian disinari dan diisi dengan petunjuk, keimanan, dan hikmah.</p>
+UPDATE quran_surah SET idnSurahInfo = "<p>Surah ini terdiri dari 8 ayat, termasuk kelompok surah Makkiyyah, diturunkan sesudah Surah aḍ-Ḍuḥā. Nama asy-Syarḥ (melapangkan) diambil dari kata alam nasyraḥ yang terdapat pada ayat pertama, yang memberitakan tentang dibukanya hati Nabi Muhammad, dan kemudian disinari dan diisi dengan petunjuk, keimanan, dan hikmah.</p>
 <p>Pokok-pokok Isinya:</p>
 <p>Penegasan tentang nikmat-nikmat Allah yang diberikan kepada Nabi Muhammad dan pernyataan Allah bahwa di samping kesukaran ada kemudahan. Oleh karena itu, Nabi diperintahkan agar tetap melakukan amal-amal saleh dan bertawakal kepada Allah.</p>
 <p>Surah asy-Syarḥ ini merupakan tasliyah (penghibur hati) bagi Nabi Muhammad saw.</p>
@@ -2453,7 +2453,7 @@ UPDATE quran_surah SET surahInfo = "<p>Surah ini terdiri dari 8 ayat, termasuk k
 <p>DENGAN SURAH AT-TĪN</p>
 <p>Dalam Surah asy-Syarḥ, Allah menjelaskan perintah kepada Nabi Muhammad selaku manusia sempurna. Dalam Surah at-Tīn diterangkan bahwa manusia itu adalah makhluk Allah yang mempunyai kesanggupan baik lahir maupun batin. Kesanggupan itu menjadi kenyataan bilamana mereka mengikuti jejak Nabi Muhammad saw.</p>
 " WHERE id = 94;
-UPDATE quran_surah SET surahInfo = "<p>Surah ini terdiri dari 8 ayat, termasuk kelompok surah Makkiyyah, diturunkan sesudah Surah al-Burūj. Nama at-Tīn diambil dari kata at-tīn yang terdapat pada ayat pertama surah ini yang artinya “buah tin”.</p>
+UPDATE quran_surah SET idnSurahInfo = "<p>Surah ini terdiri dari 8 ayat, termasuk kelompok surah Makkiyyah, diturunkan sesudah Surah al-Burūj. Nama at-Tīn diambil dari kata at-tīn yang terdapat pada ayat pertama surah ini yang artinya “buah tin”.</p>
 <p>Pokok-pokok isinya:</p>
 <p>Manusia makhluk yang terbaik secara jasmani dan rohani, tetapi mereka akan dijadikan orang yang amat rendah jika tidak beriman dan beramal saleh; Allah adalah Hakim Yang Mahaadil.</p>
 <p>Surah at-Tīn menegaskan bahwa manusia itu mulia bila beriman dan berbuat baik, dan menjadi hina bila ingkar dan berbuat jahat.</p>
@@ -2469,7 +2469,7 @@ UPDATE quran_surah SET surahInfo = "<p>Surah ini terdiri dari 8 ayat, termasuk k
 <li>Dalam Surah at-Tīn diterangkan bahwa manusia akan menjadi makhluk terhina bila menjadi manusia yang ingkar dan jahat. Dalam Surah al-‘Alaq dijelaskan sifat-sifat manusia yang jahat dan hina itu.</li>
 </ol>
 " WHERE id = 95;
-UPDATE quran_surah SET surahInfo = "<p>Surah al-‘Alaq terdiri dari 19 ayat, termasuk kelompok surah Makkiyyah. Ayat pertama sampai dengan kelima dalam surah ini adalah ayat-ayat Al-Qur’an yang pertama kali diturunkan, yaitu pada waktu Nabi Muhammad berkhalwat di Gua Hira. Surah ini dinamai al-‘Alaq (yang melekat), diambil dari perkataan al-‘alaq (zigot yang menempel) yang terdapat pada ayat kedua surah ini. Surah ini dinamai juga dengan Surah Iqra’ Bismi Rabbika atau al-Qalam.</p>
+UPDATE quran_surah SET idnSurahInfo = "<p>Surah al-‘Alaq terdiri dari 19 ayat, termasuk kelompok surah Makkiyyah. Ayat pertama sampai dengan kelima dalam surah ini adalah ayat-ayat Al-Qur’an yang pertama kali diturunkan, yaitu pada waktu Nabi Muhammad berkhalwat di Gua Hira. Surah ini dinamai al-‘Alaq (yang melekat), diambil dari perkataan al-‘alaq (zigot yang menempel) yang terdapat pada ayat kedua surah ini. Surah ini dinamai juga dengan Surah Iqra’ Bismi Rabbika atau al-Qalam.</p>
 <p>Pokok-pokok Isinya:</p>
 <p>Perintah membaca ayat-ayat Allah; keterangan tentang asal usul manusia; perlunya dikembangkan kemampuan baca-tulis; sifat-sifat manusia yang jahat; ancaman Allah terhadap orang yang melarang atau menghalang-halangi umat beribadah.</p>
 <p>Surah Al-‘Alaq mengandung pesan agar manusia menyadari asal usulnya, dan kemudian beriman dan bersyukur kepada Allah yang telah menciptakannya. Jangan lupa diri, sombong, dan berlaku sewenang-wenang, ketika sudah merasa mapan dan berkecukupan, karena Allah tidak akan bisa dikalahkan. Tingkatkan keimanan dan ketakwaan dengan banyak membaca dan meneliti ayat-ayat Allah, dan banyak beribadah.</p>
@@ -2477,39 +2477,39 @@ UPDATE quran_surah SET surahInfo = "<p>Surah al-‘Alaq terdiri dari 19 ayat, te
 <p>DENGAN SURAH AL-QADR</p>
 <p>Surah al-‘Alaq menjelaskan wahyu yang turun pertama, Surah al-Qadr menjelaskan kapan turunnya wahyu pertama itu.</p>
 " WHERE id = 96;
-UPDATE quran_surah SET surahInfo = "<p>Surah al-Qadr terdiri dari lima ayat, termasuk kelompok surah Makkiyyah, diturunkan sesudah Surah ‘Abasa.</p>
+UPDATE quran_surah SET idnSurahInfo = "<p>Surah al-Qadr terdiri dari lima ayat, termasuk kelompok surah Makkiyyah, diturunkan sesudah Surah ‘Abasa.</p>
 <p>Surah ini dinamai al-Qadr (kemuliaan), diambil dari perkataan al-qadr yang terdapat pada ayat pertama surah ini.</p>
 <p>Pokok-pokok Isinya:</p>
 <p>Al-Qur’an mulai diturunkan pada malam Lailatul-Qadr, yang nilainya lebih dari seribu bulan; para malaikat dan Jibril turun ke dunia pada malam Lailatul-Qadr untuk mengatur segala urusan.</p>
 <p>Pada Surah al-Qadr ini diterangkan bahwa permulaan Al-Qur’an diturunkan ialah pada malam qadar (Lailatul-Qadr) dan diterangkan juga kemuliaan malam qadar (Lailatul-Qadr).</p>
 <p>Surah al-Qadr menerangkan tentang kemuliaan permulaan Al-Qur’an diturunkan, sedang Surah al-Bayyinah menerangkan salah satu sebab Allah menurunkan Al-Qur’an.</p>
 " WHERE id = 97;
-UPDATE quran_surah SET surahInfo = "<p>Surah al-Bayyinah terdiri dari 8 ayat, termasuk kelompok surah Makkiyyah, diturunkan sesudah Surah aṭ-Ṭalāq.</p>
+UPDATE quran_surah SET idnSurahInfo = "<p>Surah al-Bayyinah terdiri dari 8 ayat, termasuk kelompok surah Makkiyyah, diturunkan sesudah Surah aṭ-Ṭalāq.</p>
 <p>Nama al-Bayyinah diambil dari perkataan al-bayyinah yang berarti “bukti yang nyata”, yang terdapat pada ayat pertama surah ini.</p>
 <p>Pokok-pokok Isinya:</p>
 <p>Pernyataan dari Ahli Kitab dan orang-orang musyrik bahwa mereka akan tetap dalam agamanya masing-masing sampai datang nabi yang telah dijanjikan oleh Tuhan. Setelah Nabi Muhammad datang, mereka berpecah-belah, ada yang beriman dan ada yang tidak. Padahal nabi yang datang itu sesuai dengan ciri-ciri yang mereka dapatkan dari kitab-kitab mereka dan membawa ajaran yang benar yaitu ikhlas dalam beribadah, mendirikan salat, dan menunaikan zakat.</p>
 <p>Dalam surah ini, Allah menerangkan bahwa ajaran Muhammad saw adalah ajaran-ajaran yang benar. Agama yang dibawanya adalah agama yang lurus dan mencakup pokok-pokok ajaran yang dibawa oleh para nabi terdahulu.</p>
 <p>Surah al-Bayyinah menerangkan orang yang akan mendapat balasan yang baik dan orang yang akan mendapat siksa; sedang Surah az-Zalzalah menerangkan kapan datangnya balasan ini</p>
 " WHERE id = 98;
-UPDATE quran_surah SET surahInfo = "<p>Surah ini terdiri dari 8 ayat, termasuk kelompok surah Madaniyyah, diturunkan sesudah Surah an-Nisā’. Nama az-Zalzalah diambil dari kata zilzāl yang terdapat pada ayat pertama surah ini yang berarti guncangan.</p>
+UPDATE quran_surah SET idnSurahInfo = "<p>Surah ini terdiri dari 8 ayat, termasuk kelompok surah Madaniyyah, diturunkan sesudah Surah an-Nisā’. Nama az-Zalzalah diambil dari kata zilzāl yang terdapat pada ayat pertama surah ini yang berarti guncangan.</p>
 <p>Pokok-pokok Isinya:</p>
 <p>Keguncangan bumi yang amat hebat pada hari Kiamat dan kebingungan manusia ketika itu; manusia pada hari Kiamat itu dikumpulkan untuk dihisab segala amal perbuatan mereka.</p>
 <p>Surah az-Zalzalah menerangkan tanda-tanda permulaan hari Kiamat dan pada hari itu manusia akan melihat hasil perbuatannya, baik atau buruk, meskipun seberat zarah.</p>
 <p>Surah az-Zalzalah menerangkan balasan bagi perbuatan yang baik dan yang buruk, sedangkan pada Surah al-‘Ādiyāt, Allah mencela orang-orang yang telah mencintai kehidupan dunia, dan mengabaikan kehidupan akhirat serta tidak mempersiapkan diri mereka untuk kehidupan akhirat itu dengan amal kebajikan.</p>
 " WHERE id = 99;
-UPDATE quran_surah SET surahInfo = "<p>Surah al-‘Ādiyāt ini terdiri dari 11 ayat, termasuk kelompok surah-surah Makkiyyah, diturunkan sesudah Surah al-‘Aṣr. Nama “al-‘Ādiyāt” diambil dari kata al-‘ādiyāt yang terdapat pada ayat pertama surah ini yang artinya “yang berlari kencang”.</p>
+UPDATE quran_surah SET idnSurahInfo = "<p>Surah al-‘Ādiyāt ini terdiri dari 11 ayat, termasuk kelompok surah-surah Makkiyyah, diturunkan sesudah Surah al-‘Aṣr. Nama “al-‘Ādiyāt” diambil dari kata al-‘ādiyāt yang terdapat pada ayat pertama surah ini yang artinya “yang berlari kencang”.</p>
 <p>Pokok-pokok Isinya:</p>
 <p>Ancaman Allah kepada manusia yang ingkar dan sangat mencintai harta benda bahwa mereka akan mendapat balasan yang setimpal di kala mereka dibangkitkan dari kubur dan apa yang ada di dalam dada mereka ditampakkan.</p>
 <p>Surah al-‘Ādiyāt menjelaskan sifat-sifat buruk manusia dan kebangkitan mereka serta pembalasan pada hari Kiamat.</p>
 <p>Surah al-‘Ādiyāt ditutup dengan penyebutan hari Kiamat, sedang Surah al-Qāri‘ah seluruhnya menjelaskan tentang hari Kiamat itu.</p>
 " WHERE id = 100;
-UPDATE quran_surah SET surahInfo = "<p>Surah ini terdiri dari 11 ayat, termasuk kelompok surah Makkiyyah, diturunkan sesudah Surah Quraisy. Nama al-Qāri‘ah diambil dari kata al-qāri‘ah yang terdapat pada ayat pertama; artinya yang mengetuk dengan keras. Kemudian kata ini dipakai untuk nama hari Kiamat.</p>
+UPDATE quran_surah SET idnSurahInfo = "<p>Surah ini terdiri dari 11 ayat, termasuk kelompok surah Makkiyyah, diturunkan sesudah Surah Quraisy. Nama al-Qāri‘ah diambil dari kata al-qāri‘ah yang terdapat pada ayat pertama; artinya yang mengetuk dengan keras. Kemudian kata ini dipakai untuk nama hari Kiamat.</p>
 <p>Pokok-pokok Isinya:</p>
 <p>Kejadian-kejadian pada hari Kiamat, yaitu manusia bertaburan, gunung berhamburan, serta amal perbuatan manusia ditimbang dan dibalas.</p>
 <p>Surah al-Qāri‘ah, seluruhnya menjelaskan hal-hal yang akan terjadi pada hari Kiamat.</p>
 <p>Dalam Surah al-Qāri‘ah dijelaskan golongan orang-orang yang masuk surga dan golongan yang masuk neraka, sedang pada Surah at-Takāṡur diterangkan salah satu sebab yang membawa orang masuk neraka.</p>
 " WHERE id = 101;
-UPDATE quran_surah SET surahInfo = "<p>Surah at-Takāṡur terdiri dari 8 ayat, termasuk kelompok surah Makkiyyah, diturunkan sesudah Surah al-Kauṡar.</p>
+UPDATE quran_surah SET idnSurahInfo = "<p>Surah at-Takāṡur terdiri dari 8 ayat, termasuk kelompok surah Makkiyyah, diturunkan sesudah Surah al-Kauṡar.</p>
 <p>Dinamai at-Takāṡur (bermegah-megah) diambil dari perkataan at-takāṡur yang terdapat pada ayat pertama surah ini.</p>
 <p>Pokok-pokok Isinya:</p>
 <p>Keinginan manusia untuk bermegah-megahan dalam soal duniawi, sering melalaikan manusia dari tujuan hidupnya. Dia baru menyadari kesalahannya itu setelah maut mendatanginya; manusia akan ditanya di akhirat tentang nikmat yang dibangga-banggakannya.</p>
@@ -2521,27 +2521,27 @@ UPDATE quran_surah SET surahInfo = "<p>Surah at-Takāṡur terdiri dari 8 ayat, 
 <li>Pada Surah at-Takāṡur, Allah menerangkan sifat orang yang mengikuti hawa nafsu, sedang pada Surah al-‘Aṣr, Allah menerangkan sifat orang-orang yang tidak merugi.</li>
 </ol>
 " WHERE id = 102;
-UPDATE quran_surah SET surahInfo = "<p>Surah al-‘Aṣr terdiri dari 3 ayat, termasuk kelompok surah Makkiyyah, diturunkan sesudah Surah asy-Syarḥ.</p>
+UPDATE quran_surah SET idnSurahInfo = "<p>Surah al-‘Aṣr terdiri dari 3 ayat, termasuk kelompok surah Makkiyyah, diturunkan sesudah Surah asy-Syarḥ.</p>
 <p>Dinamai al-‘Aṣr (masa) diambil dari perkataan al-‘aṣr yang terdapat pada ayat pertama surah ini.</p>
 <p>Pokok-pokok Isinya:</p>
 <p>Anjuran untuk saling memperingatkan dalam kebaikan, sebab orang yang tidak melaksanakan akan merugi.</p>
 <p>Surah ini menerangkan bahwa manusia yang tidak dapat menggunakan masa dengan sebaik-baiknya termasuk golongan yang merugi.</p>
 <p>Dalam Surah al-‘Aṣr, Allah menerangkan sifat-sifat orang yang tidak merugi, sedangkan dalam Surah al-Humazah, Allah menerangkan beberapa sifat orang yang selalu merugi.</p>
 " WHERE id = 103;
-UPDATE quran_surah SET surahInfo = "<p>Surah al-Humazah terdiri dari 9 ayat, termasuk kelompok surah Makkiyyah, diturunkan sesudah Surah al-Qiyāmah.</p>
+UPDATE quran_surah SET idnSurahInfo = "<p>Surah al-Humazah terdiri dari 9 ayat, termasuk kelompok surah Makkiyyah, diturunkan sesudah Surah al-Qiyāmah.</p>
 <p>Dinamai al-Humazah diambil dari perkataan humazah yang terdapat pada ayat pertama surah ini.</p>
 <p>Pokok-pokok Isinya:</p>
 <p>Ancaman Allah terhadap orang-orang yang suka mencela orang lain, suka mengumpat, dan mengumpulkan harta tetapi tidak menafkahkannya di jalan Allah.</p>
 <p>Dalam surah ini diterangkan bahwa orang-orang yang suka mencela orang-orang lain, suka memfitnah dan suka mengumpulkan harta tetapi tidak menafkahkannya di jalan Allah, akan diazab.</p>
 <p>Dalam Surah al-Humazah diterangkan bahwa harta tidak berguna sedikit pun untuk menghadapi kekuasaan Allah, sedang Surah al-Fīl menerangkan bahwa tentara gajah dengan segala macam perlengkapan perangnya tidak dapat menantang kekuasaan Allah.</p>
 " WHERE id = 104;
-UPDATE quran_surah SET surahInfo = "<p>Surah ini terdiri dari 5 ayat, termasuk kelompok surah Makkiyyah, diturunkan sesudah Surah al-Kāfirūn. Nama al-Fīl diambil dari kata al-fīl yang terdapat pada ayat pertama surah ini, artinya “gajah”. Surah al-Fīl mengemukakan cerita pasukan bergajah dari Yaman yang dipimpin oleh Abrahah yang ingin meruntuhkan Ka‘bah di Mekah. Peristiwa ini terjadi pada tahun Nabi Muhammad dilahirkan.</p>
+UPDATE quran_surah SET idnSurahInfo = "<p>Surah ini terdiri dari 5 ayat, termasuk kelompok surah Makkiyyah, diturunkan sesudah Surah al-Kāfirūn. Nama al-Fīl diambil dari kata al-fīl yang terdapat pada ayat pertama surah ini, artinya “gajah”. Surah al-Fīl mengemukakan cerita pasukan bergajah dari Yaman yang dipimpin oleh Abrahah yang ingin meruntuhkan Ka‘bah di Mekah. Peristiwa ini terjadi pada tahun Nabi Muhammad dilahirkan.</p>
 <p>Pokok-pokok Isinya:</p>
 <p>Cerita tentang pasukan bergajah yang diazab oleh Allah, dengan mengirimkan sejenis burung yang menyerang mereka sampai binasa.</p>
 <p>Surah al-Fīl ini menjelaskan tentang kegagalan pasukan bergajah yang dipimpin oleh Abrahah, karena Ka’bah dipelihara oleh Allah swt.</p>
 <p>Dalam Surah al-Fīl, Allah menjelaskan kehancuran pasukan bergajah yang hendak merobohkan Ka‘bah, sedang dalam Surah Quraisy Allah memerintahkan kepada penduduk Mekah untuk menyembah Allah pemilik Ka‘bah itu.</p>
 " WHERE id = 105;
-UPDATE quran_surah SET surahInfo = "<p>Surah ini terdiri dari 4 ayat, termasuk kelompok surah Makkiyyah, diturunkan sesudah Surah at-Tīn. Nama Quraisy diambil dari kata quraisy yang terdapat pada ayat pertama, artinya suku Quraisy. Suku Quraisy adalah suku yang mendapat kehormatan untuk memelihara Ka‘bah.</p>
+UPDATE quran_surah SET idnSurahInfo = "<p>Surah ini terdiri dari 4 ayat, termasuk kelompok surah Makkiyyah, diturunkan sesudah Surah at-Tīn. Nama Quraisy diambil dari kata quraisy yang terdapat pada ayat pertama, artinya suku Quraisy. Suku Quraisy adalah suku yang mendapat kehormatan untuk memelihara Ka‘bah.</p>
 <p>Pokok-pokok Isinya:</p>
 <p>Peringatan kepada orang Quraisy tentang nikmat-nikmat yang diberikan Allah kepada mereka. Oleh karena itu, mereka diperintahkan untuk menyembah Allah.</p>
 <p>Surah Quraisy menerangkan profesi orang Quraisy dan kewajiban yang seharusnya mereka penuhi.</p>
@@ -2552,45 +2552,45 @@ UPDATE quran_surah SET surahInfo = "<p>Surah ini terdiri dari 4 ayat, termasuk k
 <li>Dalam Surah Quraisy, Allah memerintahkan menyembah-Nya, maka dalam Surah al-Mā‘ūn, Allah mencela orang yang salat dengan lalai dan ria.</li>
 </ol>
 " WHERE id = 106;
-UPDATE quran_surah SET surahInfo = "<p>Surah ini terdiri dari 7 ayat, termasuk kelompok surah Makkiyyah, diturunkan sesudah Surah at-Takāṡur. Nama al-Mā‘ūn diambil dari kata al-mā‘ūn yang terdapat pada ayat 7, artinya barang-barang yang berguna.</p>
+UPDATE quran_surah SET idnSurahInfo = "<p>Surah ini terdiri dari 7 ayat, termasuk kelompok surah Makkiyyah, diturunkan sesudah Surah at-Takāṡur. Nama al-Mā‘ūn diambil dari kata al-mā‘ūn yang terdapat pada ayat 7, artinya barang-barang yang berguna.</p>
 <p>Pokok-pokok Isinya:</p>
 <p>Beberapa sifat manusia yang dipandang sebagai mendustakan agama; ancaman terhadap orang-orang yang melalaikan salat dan ria.</p>
 <p>Surah al-Mā‘ūn menjelaskan sifat-sifat manusia yang buruk yang membawa mereka ke dalam kesengsaraan.</p>
 <p>Dalam Surah al-Mā‘ūn dikemukakan sifat-sifat manusia yang lebih buruk, sedang dalam Surah al-Kauṡar ditunjukkan sifat-sifat yang mulia yang diperintahkan untuk mengerjakannya.</p>
 " WHERE id = 107;
-UPDATE quran_surah SET surahInfo = "<p>Surah al-Kauṡar terdiri dari 3 ayat, termasuk kelompok surah Makkiyyah, diturunkan sesudah Surah al-‘Ādiyāt. Nama al-Kauṡar (nikmat yang banyak) diambil dari perkataan al-kauṡar yang terdapat pada ayat pertama surah ini. Surah ini sebagai penghibur hati Nabi Muhammad.</p>
+UPDATE quran_surah SET idnSurahInfo = "<p>Surah al-Kauṡar terdiri dari 3 ayat, termasuk kelompok surah Makkiyyah, diturunkan sesudah Surah al-‘Ādiyāt. Nama al-Kauṡar (nikmat yang banyak) diambil dari perkataan al-kauṡar yang terdapat pada ayat pertama surah ini. Surah ini sebagai penghibur hati Nabi Muhammad.</p>
 <p>Pokok-pokok Isinya:</p>
 <p>Allah telah melimpahkan nikmat yang banyak, oleh karena itu dirikanlah salat dan berkorbanlah; Nabi Muhammad akan mempunyai pengikut yang banyak sampai hari Kiamat dan akan mempunyai nama yang baik di dunia dan di akhirat, tidak seperti yang dituduhkan pembenci-pembencinya.</p>
 <p>Surah ini menganjurkan agar orang selalu beribadah kepada Allah dan berkurban sebagai tanda bersyukur atas nikmat yang telah dilimpahkan-Nya.</p>
 <p>Dalam Surah al-Kauṡar, Allah memerintahkan agar beribadah hanya kepada Allah, sedang dalam Surah al-Kāfirūn perintah tersebut ditandaskan lagi.</p>
 " WHERE id = 108;
-UPDATE quran_surah SET surahInfo = "<p>Surah al-Kāfirūn terdiri dari 6 ayat, termasuk kelompok surah Makkiyyah, diturunkan sesudah Surah al-Mā‘ūn.</p>
+UPDATE quran_surah SET idnSurahInfo = "<p>Surah al-Kāfirūn terdiri dari 6 ayat, termasuk kelompok surah Makkiyyah, diturunkan sesudah Surah al-Mā‘ūn.</p>
 <p>Dinamai al-Kāfirūn (orang-orang kafir) diambil dari kata al-kāfirūn yang terdapat dalam ayat pertama surah ini.</p>
 <p>Pokok-pokok Isinya:</p>
 <p>Pernyataan bahwa Tuhan yang disembah Nabi Muhammad dan pengikut-pengikutnya bukanlah apa yang disembah oleh orang-orang kafir dan Nabi Muhammad tidak akan menyembah apa yang disembah oleh orang-orang kafir.</p>
 <p>Surah al-Kāfirūn mengisyaratkan habisnya semua harapan orang-orang kafir dalam usaha mereka agar Nabi Muhammad meninggalkan dakwahnya.</p>
 <p>Surah al-Kāfirūn menerangkan bahwa Rasulullah saw tidak akan mengikuti agama orang-orang kafir, sedang dalam Surah an-Naṣr diterangkan bahwa agama yang dibawa Nabi Muhammad akan berkembang dan menang.</p>
 " WHERE id = 109;
-UPDATE quran_surah SET surahInfo = "<p>Surah an-Naṣr terdiri dari 3 ayat, termasuk kelompok surah Madaniyyah yang diturunkan di Mekah sesudah Surah at-Taubah.</p>
+UPDATE quran_surah SET idnSurahInfo = "<p>Surah an-Naṣr terdiri dari 3 ayat, termasuk kelompok surah Madaniyyah yang diturunkan di Mekah sesudah Surah at-Taubah.</p>
 <p>Nama an-Naṣr (pertolongan) diambil dari perkataan an-naṣr yang terdapat pada ayat pertama surah ini.</p>
 <p>Pokok-pokok Isinya:</p>
 <p>Janji bahwa pertolongan Allah akan datang dan Islam akan mendapat kemenangan; perintah dari Tuhan agar bertasbih memuji-Nya, dan minta ampun kepada-Nya di kala terjadi peristiwa yang menggembirakan.</p>
 <p>Surah ini mengisyaratkan bahwa tugas Nabi Muhammad sebagai seorang rasul telah mendekati akhirnya.</p>
 <p>Surah an-Naṣr menerangkan kemenangan yang diperoleh Nabi Muhammad dan pengikut-pengikutnya, sedang Surah al-Lahab menerangkan tentang kebinasaan dan siksaan yang diderita oleh Abū Lahab dan istrinya sebagai orang-orang yang menentang Nabi saw.</p>
 " WHERE id = 110;
-UPDATE quran_surah SET surahInfo = "<p>Surah ini terdiri dari 5 ayat, termasuk kelompok surah Makkiyyah, diturunkan sesudah Surah al-Fatḥ. Nama al-Lahab diambil dari kata lahab yang terdapat pada ayat ketiga surah ini yang artinya “gejolak api”.</p>
+UPDATE quran_surah SET idnSurahInfo = "<p>Surah ini terdiri dari 5 ayat, termasuk kelompok surah Makkiyyah, diturunkan sesudah Surah al-Fatḥ. Nama al-Lahab diambil dari kata lahab yang terdapat pada ayat ketiga surah ini yang artinya “gejolak api”.</p>
 <p>Pokok-pokok Isinya:</p>
 <p>Cerita Abū Lahab dan istrinya yang menentang Rasulullah saw; keduanya akan celaka dan masuk neraka; harta Abū Lahab tak berguna untuk keselamatannya demikian pula segala usahanya.</p>
 <p>Surah al-Lahab menjelaskan kegagalan lawan-lawan Nabi Muhammad.</p>
 <p>Surah al-Lahab mengisyaratkan bahwa kemusyrikan itu tak dapat dipertahankan dan tidak akan menang walaupun pendukung-pendukungnya bekerja keras. Surah al-Ikhlāṣ mengemukakan bahwa tauhid dalam Islam adalah tauhid yang semurni-murninya.</p>
 " WHERE id = 111;
-UPDATE quran_surah SET surahInfo = "<p>Surah ini terdiri dari 4 ayat, termasuk kelompok surah Makkiyyah, diturunkan sesudah Surah an-Nās. Dinamakan Surah al-Ikhlāṣ karena surah ini sepenuhnya menegaskan kemurnian keesaan Allah.</p>
+UPDATE quran_surah SET idnSurahInfo = "<p>Surah ini terdiri dari 4 ayat, termasuk kelompok surah Makkiyyah, diturunkan sesudah Surah an-Nās. Dinamakan Surah al-Ikhlāṣ karena surah ini sepenuhnya menegaskan kemurnian keesaan Allah.</p>
 <p>Pokok-pokok Isinya:</p>
 <p>Penegasan tentang kemurnian keesaan Allah dan menolak segala macam kemusyrikan dan menerangkan bahwa tidak ada sesuatu yang menyamai-Nya.</p>
 <p>Surah al-Ikhlāṣ ini menegaskan kemurnian keesaan Allah.</p>
 <p>Surah al-Ikhlāṣ menegaskan kemurnian keesaan Allah sedang Surah al-Falaq memerintahkan agar hanya kepada-Nya orang memohon perlindungan dari segala macam kejahatan.</p>
 " WHERE id = 112;
-UPDATE quran_surah SET surahInfo = "<p>Surah ini terdiri dari lima ayat, termasuk kelompok surah Makkiyyah, diturunkan sesudah Surah al-Fīl. Nama al-Falaq diambil dari kata al-falaq yang terdapat pada ayat pertama surah ini yang artinya waktu subuh.</p>
+UPDATE quran_surah SET idnSurahInfo = "<p>Surah ini terdiri dari lima ayat, termasuk kelompok surah Makkiyyah, diturunkan sesudah Surah al-Fīl. Nama al-Falaq diambil dari kata al-falaq yang terdapat pada ayat pertama surah ini yang artinya waktu subuh.</p>
 <p>Diriwayatkan oleh Abū Dāwūd, at-Tirmiżī, dan an-Nasā’ī dari Utbah bin Amir bahwa Rasulullah saw salat dengan membaca Surah al-Falaq dan Surah an-Nās dalam perjalanan.</p>
 <p>Pokok-pokok Isinya:</p>
 <p>Perintah agar kita berlindung kepada Allah dari segala macam kejahatan.</p>
@@ -2602,7 +2602,7 @@ UPDATE quran_surah SET surahInfo = "<p>Surah ini terdiri dari lima ayat, termasu
 <li>Surah al-Falaq memerintahkan untuk memohon perlindungan dari segala bentuk kejahatan, sedang Surah an-Nās memerintahkan untuk memohon perlindungan dari jin dan manusia.</li>
 </ol>
 " WHERE id = 113;
-UPDATE quran_surah SET surahInfo = "<p>Surah ini terdiri dari 6 ayat, termasuk golongan surah Makkiyyah, diturunkan sesudah Surah al-Falaq. Nama an-Nās diambil dari kata an-nās yang berulang kali disebut dalam surah ini yang artinya manusia.</p>
+UPDATE quran_surah SET idnSurahInfo = "<p>Surah ini terdiri dari 6 ayat, termasuk golongan surah Makkiyyah, diturunkan sesudah Surah al-Falaq. Nama an-Nās diambil dari kata an-nās yang berulang kali disebut dalam surah ini yang artinya manusia.</p>
 <p>Pokok-pokok Isinya:</p>
 <p>Perintah kepada manusia agar berlindung kepada Allah dari segala macam kejahatan yang datang ke dalam jiwa manusia dari jin dan manusia</p>
 <p>Al-Qur’an diawali dengan Surah al-Fātiḥah yang di antara isinya ialah agar manusia memohon hidayah ke jalan yang lurus dan memohon pertolongan dari Allah dan diakhiri dengan Surah an-Nās yang menganjurkan agar manusia memohon perlindungan kepada Allah dari segala kejahatan.</p>

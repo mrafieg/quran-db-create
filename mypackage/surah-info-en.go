@@ -55,7 +55,7 @@ func GenerateSurahInfoEn() {
 	}
 
 	// write sql file
-	err3 := os.WriteFile("sql/surah-info-en.sql", []byte(query), 0777)
+	err3 := os.WriteFile("sql/5_surah-info-en.sql", []byte(query), 0777)
 	if err3 != nil {
 		log.Fatal(err3)
 	}

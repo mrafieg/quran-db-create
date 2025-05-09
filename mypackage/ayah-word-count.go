@@ -61,7 +61,7 @@ func GetAyahWordCount() {
 	}
 
 	// write sql file
-	err3 := os.WriteFile("sql/ayah-word-count.sql", []byte(query), 0777)
+	err3 := os.WriteFile("sql/8_ayah-word-count.sql", []byte(query), 0777)
 	if err3 != nil {
 		log.Fatal(err3)
 	}

@@ -55,7 +55,7 @@ func GenerateAyahInfoEn() {
 	}
 
 	// write sql file
-	err3 := os.WriteFile("sql/ayah-info-en.sql", []byte(query), 0777)
+	err3 := os.WriteFile("sql/7_ayah-info-en.sql", []byte(query), 0777)
 	if err3 != nil {
 		log.Fatal(err3)
 	}

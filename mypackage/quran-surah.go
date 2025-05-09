@@ -106,14 +106,14 @@ func GenerateQuranSurah() {
 		surahDB[surahIndex-1].WordCount += 1
 	}
 
-	var query = "CREATE TABLE quran_surah( id INTEGER PRIMARY KEY, surahName VARCHAR(64), arabicName TEXT, idnName VARCHAR(128), enName VARCHAR(128),surahType VARCHAR(32), totalAyah INTEGER, wordCount INTEGER, revelationOrder INTEGER, ayahStart INTEGER, ayahEnd INTEGER, idnSurahInfo TEXT, enSurahInfo TEXT);\n"
+	var query = "CREATE TABLE quran_surah( id INTEGER PRIMARY KEY, createdAt DATETIME DEFAULT CURRENT_TIMESTAMP, updatedAt DATETIME ON UPDATE CURRENT_TIMESTAMP ,surahName VARCHAR(64), arabicName TEXT, idnName VARCHAR(128), enName VARCHAR(128),surahType VARCHAR(32), totalAyah INTEGER, wordCount INTEGER, revelationOrder INTEGER, ayahStart INTEGER, ayahEnd INTEGER, idnSurahInfo TEXT, enSurahInfo TEXT);\n"
 
 	for _, item := range surahDB {
 		newQuery := fmt.Sprintf(`INSERT INTO quran_surah (id, surahName, arabicName, idnName, enName, surahType, totalAyah, wordCount, revelationOrder, ayahStart, ayahEnd, idnSurahInfo, enSurahInfo ) VALUES (%s,"%s","%s","%s","%s","%s",%s,%s,%s,%s,%s,"", "");`, strconv.Itoa(item.SurahId), item.SurahName, item.ArabicName, item.IdnName, item.EnName, item.Type, strconv.Itoa(item.TotalAyah), strconv.Itoa(item.WordCount), strconv.Itoa(item.RevelationOrder), strconv.Itoa(item.AyahStart), strconv.Itoa(item.AyahEnd))
 		query += newQuery + "\n"
 	}
 
-	err8 := os.WriteFile("sql/quran-surah.sql", []byte(query), 0777)
+	err8 := os.WriteFile("sql/1_quran-surah.sql", []byte(query), 0777)
 	if err8 != nil {
 		log.Fatal(err8)
 	}

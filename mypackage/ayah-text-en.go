@@ -42,7 +42,7 @@ func GenerateAyahEnText() {
 	}
 
 	// write sql file
-	err3 := os.WriteFile("sql/ayah-text-en.sql", []byte(query), 0777)
+	err3 := os.WriteFile("sql/3_ayah-text-en.sql", []byte(query), 0777)
 	if err3 != nil {
 		log.Fatal(err3)
 	}

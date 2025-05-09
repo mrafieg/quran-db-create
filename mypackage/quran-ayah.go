@@ -5,6 +5,6 @@ import (
 )
 
 func GenerateQuranAyah() {
-	Copy("data/quran-text.sql", "sql/quran-ayah.sql")
+	Copy("data/quran-text.sql", "sql/2_quran-ayah.sql")
 	fmt.Println("quran-ayah.sql written successfully.")
 }

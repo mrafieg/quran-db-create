@@ -106,10 +106,10 @@ func GenerateQuranSurah() {
 		surahDB[surahIndex-1].WordCount += 1
 	}
 
-	var query = "CREATE TABLE quran_surah( id INTEGER PRIMARY KEY, createdAt DATETIME DEFAULT CURRENT_TIMESTAMP, updatedAt DATETIME ON UPDATE CURRENT_TIMESTAMP ,surahName VARCHAR(64), arabicName TEXT, idnName VARCHAR(128), enName VARCHAR(128),surahType VARCHAR(32), totalAyah INTEGER, wordCount INTEGER, revelationOrder INTEGER, ayahStart INTEGER, ayahEnd INTEGER, idnSurahInfo TEXT, enSurahInfo TEXT);\n"
+	var query = "CREATE TABLE quran_surahs( id INTEGER PRIMARY KEY, created_at DATETIME DEFAULT CURRENT_TIMESTAMP(), updated_at DATETIME ON UPDATE CURRENT_TIMESTAMP() ,surah_name VARCHAR(64), arabic_name TEXT, idn_name VARCHAR(128), en_name VARCHAR(128),surah_type VARCHAR(32), total_ayah INTEGER, word_count INTEGER, revelation_order INTEGER, ayah_start INTEGER, ayah_end INTEGER, idn_surah_info TEXT, en_surah_info TEXT);\n"
 
 	for _, item := range surahDB {
-		newQuery := fmt.Sprintf(`INSERT INTO quran_surah (id, surahName, arabicName, idnName, enName, surahType, totalAyah, wordCount, revelationOrder, ayahStart, ayahEnd, idnSurahInfo, enSurahInfo ) VALUES (%s,"%s","%s","%s","%s","%s",%s,%s,%s,%s,%s,"", "");`, strconv.Itoa(item.SurahId), item.SurahName, item.ArabicName, item.IdnName, item.EnName, item.Type, strconv.Itoa(item.TotalAyah), strconv.Itoa(item.WordCount), strconv.Itoa(item.RevelationOrder), strconv.Itoa(item.AyahStart), strconv.Itoa(item.AyahEnd))
+		newQuery := fmt.Sprintf(`INSERT INTO quran_surahs (id, surah_name, arabic_name, idn_name, en_name, surah_type, total_ayah, word_count, revelation_order, ayah_start, ayah_end, idn_surah_info, en_surah_info ) VALUES (%s,"%s","%s","%s","%s","%s",%s,%s,%s,%s,%s,"", "");`, strconv.Itoa(item.SurahId), item.SurahName, item.ArabicName, item.IdnName, item.EnName, item.Type, strconv.Itoa(item.TotalAyah), strconv.Itoa(item.WordCount), strconv.Itoa(item.RevelationOrder), strconv.Itoa(item.AyahStart), strconv.Itoa(item.AyahEnd))
 		query += newQuery + "\n"
 	}
 

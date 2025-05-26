@@ -1,7 +1,7 @@
 package main
 
 import (
-	"jalan-surah-db-create/mypackage"
+	"jalan-surah-db-create/internal"
 	"log"
 	"os"
 )
@@ -11,15 +11,15 @@ func main() {
 	if err != nil && !os.IsExist(err) {
 		log.Fatal(err)
 	}
-	// mypackage.GenerateQuranSurah()
-	mypackage.GenerateQuranAyah()
-	mypackage.GenerateAyahEnText()
-	mypackage.GenerateSurahInfo()
-	mypackage.GenerateSurahInfoEn()
-	mypackage.GenerateAyahInfo()
-	mypackage.GenerateAyahInfoEn()
-	mypackage.GetAyahWordCount()
-	mypackage.GetAyahSajda()
-	mypackage.GetAyahRuku()
-	mypackage.GetQuranJuz()
+	internal.GenerateQuranSurah()
+	internal.GenerateQuranAyah()
+	internal.GenerateAyahEnText()
+	internal.GenerateSurahInfo()
+	internal.GenerateSurahInfoEn()
+	internal.GenerateAyahInfo()
+	internal.GenerateAyahInfoEn()
+	internal.GetAyahWordCount()
+	internal.GetAyahSajda()
+	internal.GetAyahRuku()
+	internal.GetQuranJuz()
 }

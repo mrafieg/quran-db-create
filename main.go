@@ -19,4 +19,5 @@ func main() {
 	mypackage.GenerateAyahInfo()
 	mypackage.GenerateAyahInfoEn()
 	mypackage.GetAyahWordCount()
+	mypackage.GetAyahSajda()
 }

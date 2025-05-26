@@ -37,7 +37,7 @@ func GenerateAyahEnText() {
 	var query = ""
 	for i, text := range ayahTexts {
 		if i > 0 {
-			query += strings.TrimSpace(fmt.Sprintf(`UPDATE quran_ayahs SET en_text = "%s" WHERE id = %s;`, Addslashes(text), (strconv.Itoa(i-1)))) + "\n"
+			query += strings.TrimSpace(fmt.Sprintf(`UPDATE quran_ayahs SET en_text = "%s" WHERE id = %s;`, Addslashes(text), (strconv.Itoa(i)))) + "\n"
 		}
 	}
 

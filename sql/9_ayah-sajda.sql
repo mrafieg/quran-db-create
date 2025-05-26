@@ -1,0 +1,15 @@
+UPDATE quran_ayahs SET sajda = "recommended" WHERE id = 2308;
+UPDATE quran_ayahs SET sajda = "recommended" WHERE id = 2613;
+UPDATE quran_ayahs SET sajda = "recommended" WHERE id = 5905;
+UPDATE quran_ayahs SET sajda = "recommended" WHERE id = 1160;
+UPDATE quran_ayahs SET sajda = "recommended" WHERE id = 1722;
+UPDATE quran_ayahs SET sajda = "recommended" WHERE id = 2672;
+UPDATE quran_ayahs SET sajda = "recommended" WHERE id = 3994;
+UPDATE quran_ayahs SET sajda = "obligatory" WHERE id = 4846;
+UPDATE quran_ayahs SET sajda = "obligatory" WHERE id = 6125;
+UPDATE quran_ayahs SET sajda = "recommended" WHERE id = 2138;
+UPDATE quran_ayahs SET sajda = "obligatory" WHERE id = 4256;
+UPDATE quran_ayahs SET sajda = "recommended" WHERE id = 2915;
+UPDATE quran_ayahs SET sajda = "recommended" WHERE id = 3185;
+UPDATE quran_ayahs SET sajda = "obligatory" WHERE id = 3518;
+UPDATE quran_ayahs SET sajda = "recommended" WHERE id = 1951;

@@ -1,6 +1,6 @@
-## Jalan Surah Quran SQL
+## Quran DB Create
 
-Go Script to preapre query for creating jalan surah app quran Database 
+Go script to generate query for creating Quran database 
 
 ### run with:
 ```
